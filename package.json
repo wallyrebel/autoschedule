@@ -1,0 +1,19 @@
+{
+  "name": "autoschedule",
+  "version": "1.0.0",
+  "description": "Scrapes MaxPreps high school sports schedules and generates an ICS calendar file",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js --dry-run"
+  },
+  "keywords": ["maxpreps", "schedule", "calendar", "ics", "high-school-sports"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "ical-generator": "^8.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}

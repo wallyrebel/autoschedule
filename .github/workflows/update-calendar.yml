@@ -1,0 +1,43 @@
+name: Update Sports Calendar
+
+on:
+  schedule:
+    # Runs daily at 6:00 AM UTC (1:00 AM Central)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Manual trigger button in GitHub
+  push:
+    branches: [main]
+    paths:
+      - 'config.json'
+
+# Allow the workflow to push changes
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        run: node index.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet || git commit -m "📅 Update schedules $(date -u +%Y-%m-%d_%H:%M)"
+          git push

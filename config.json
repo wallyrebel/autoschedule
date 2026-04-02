@@ -1,0 +1,32 @@
+{
+  "teams": [
+    {
+      "name": "Ripley Tigers",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/",
+      "timezone": "America/Chicago"
+    },
+    {
+      "name": "Pine Grove Panthers",
+      "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/",
+      "timezone": "America/Chicago"
+    },
+    {
+      "name": "Falkner Eagles",
+      "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/",
+      "timezone": "America/Chicago"
+    },
+    {
+      "name": "Walnut Wildcats",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/",
+      "timezone": "America/Chicago"
+    },
+    {
+      "name": "Blue Mountain Cougars",
+      "url": "https://www.maxpreps.com/ms/blue-mountain/blue-mountain-cougars/",
+      "timezone": "America/Chicago"
+    }
+  ],
+  "calendarName": "High School Sports Schedules",
+  "varsityOnly": true,
+  "futureOnly": true
+}
