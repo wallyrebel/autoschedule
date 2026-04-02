@@ -71,10 +71,10 @@ export function generateICS(games, config) {
       ? `Home - ${game.teamName}`
       : `${game.opponentName}${game.opponentCity ? ', ' + game.opponentCity : ''}${game.opponentState ? ' ' + game.opponentState : ''}`;
 
-    // Create a unique UID for this event based on game URL or datetime+teams
-    const uid = game.gameUrl
-      ? Buffer.from(game.gameUrl).toString('base64').replace(/[^a-zA-Z0-9]/g, '').substring(0, 40)
-      : Buffer.from(`${game.dateTime}-${game.teamName}-${game.opponentName}-${game.sport}`).toString('base64').replace(/[^a-zA-Z0-9]/g, '').substring(0, 40);
+    // Create a unique UID for this event — must be unique per event
+    // Use team + datetime + sport + opponent to guarantee uniqueness
+    const uidSource = `${game.teamName}-${game.dateTime}-${game.gender}-${game.sport}-${game.opponentName}`;
+    const uid = Buffer.from(uidSource).toString('base64').replace(/[^a-zA-Z0-9]/g, '');
 
     try {
       calendar.createEvent({
