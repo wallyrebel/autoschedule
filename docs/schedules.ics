@@ -13,16 +13,16 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTA2VDE3OjMwOjAwLUJveXMtQmFzZWJhbG
  wtV2FsbnV0@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260406T173000
 DTEND;TZID=America/Chicago:20260406T200000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Walnut Wildcats
 LOCATION:Home - Pine Grove Panthers
 DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Walnut (MS)\nSport:
   Boys Baseball\nSeason: Spring 25-26\n\nThe Walnut varsity baseball team h
- as an away non-conference game @  Pine Grove (Ripley\, MS) on Monday\, Apr
- il 6 @ 5:30p.\n\nMaxPreps: https://www.maxpreps.com/games/04-06-2026/baseb
- all-26/pine-grove-vs-walnut.htm?c=FK_ozWsdU0yycQnVU2j_1A
+ as an away non-conference game @  Pine Grove (Ripley\, MS) today @ 5:30p.\
+ n\nMaxPreps: https://www.maxpreps.com/games/04-06-2026/baseball-26/pine-gr
+ ove-vs-walnut.htm?c=FK_ozWsdU0yycQnVU2j_1A
 CATEGORIES:Baseball,Boys,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-06-2026/baseball-26/pine-g
  rove-vs-walnut.htm?c=FK_ozWsdU0yycQnVU2j_1A
@@ -32,16 +32,16 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMDZUMTc6MzA6MDAtQm95cy1CYXNlYmFsbC1QaW
  5lIEdyb3Zl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260406T173000
 DTEND;TZID=America/Chicago:20260406T200000
 SUMMARY:⚾ Boys Baseball: Walnut Wildcats @ Pine Grove Panthers
 LOCATION:Pine Grove\, Ripley MS
 DESCRIPTION:Walnut Wildcats Wildcats\nAway game @ Pine Grove (Ripley\, MS)
  \nSport: Boys Baseball\nSeason: Spring 25-26\n\nThe Walnut varsity basebal
- l team has an away non-conference game @  Pine Grove (Ripley\, MS) on Mond
- ay\, April 6 @ 5:30p.\n\nMaxPreps: https://www.maxpreps.com/games/04-06-20
- 26/baseball-26/pine-grove-vs-walnut.htm?c=FK_ozWsdU0yycQnVU2j_1A
+ l team has an away non-conference game @  Pine Grove (Ripley\, MS) today @
+  5:30p.\n\nMaxPreps: https://www.maxpreps.com/games/04-06-2026/baseball-26
+ /pine-grove-vs-walnut.htm?c=FK_ozWsdU0yycQnVU2j_1A
 CATEGORIES:Baseball,Boys,Walnut Wildcats
 URL;VALUE=URI:https://www.maxpreps.com/games/04-06-2026/baseball-26/pine-g
  rove-vs-walnut.htm?c=FK_ozWsdU0yycQnVU2j_1A
@@ -51,16 +51,16 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTA2VDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLUtvc3N1dGg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260406T183000
 DTEND;TZID=America/Chicago:20260406T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers vs Kossuth Aggies
 LOCATION:Home - Pine Grove Panthers
 DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Kossuth (MS)\nSport
  : Girls Softball\nSeason: Spring 25-26\n\nThe Kossuth varsity softball tea
- m has an away non-conference game @  Pine Grove (Ripley\, MS) on Monday\, 
- April 6 @ 6:30p.\n\nMaxPreps: https://www.maxpreps.com/games/04-06-2026/so
- ftball-26/kossuth-vs-pine-grove.htm?c=7uEF2wRffUiqKNJVqCrI5w
+ m has an away non-conference game @  Pine Grove (Ripley\, MS) today @ 6:30
+ p.\n\nMaxPreps: https://www.maxpreps.com/games/04-06-2026/softball-26/koss
+ uth-vs-pine-grove.htm?c=7uEF2wRffUiqKNJVqCrI5w
 CATEGORIES:Softball,Girls,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-06-2026/softball-26/kossut
  h-vs-pine-grove.htm?c=7uEF2wRffUiqKNJVqCrI5w
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTA3VDE3OjAwOjAwLUdpcmxzLVNvZnRiYWxsLVNlbm
  F0b2JpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260407T170000
 DTEND;TZID=America/Chicago:20260407T190000
 SUMMARY:🥎 Girls Softball: Ripley Tigers @ Senatobia Warriors
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0wN1QxNzozMDowMC1HaXJscy1Tb2Z0YmFsbC1XaG
  VlbGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260407T173000
 DTEND;TZID=America/Chicago:20260407T193000
 SUMMARY:🥎 Girls Softball: Falkner Eagles vs Wheeler Eagles
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMDdUMTc6MzA6MDAtR2lybHMtU29mdGJhbGwtTm
  V3IFNpdGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260407T173000
 DTEND;TZID=America/Chicago:20260407T193000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats vs New Site Royals
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTA3VDE4OjAwOjAwLUJveXMtQmFzZWJhbGwtQ2xhcm
  tzZGFsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260407T180000
 DTEND;TZID=America/Chicago:20260407T203000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers @ Clarksdale Wildcats
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTA3VDE5OjAwOjAwLUJveXMtQmFzZWJhbG
  wtV2hlZWxlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260407T190000
 DTEND;TZID=America/Chicago:20260407T213000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Wheeler Eagles
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0wN1QxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVRocm
  FzaGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260407T190000
 DTEND;TZID=America/Chicago:20260407T213000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles vs Thrasher Rebels
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTA5VDE3OjAwOjAwLUdpcmxzLVNvZnRiYWxsLVJvc2
  EgRm9ydA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260409T170000
 DTEND;TZID=America/Chicago:20260409T190000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Rosa Fort Lions
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0wOVQxNzowMDowMC1HaXJscy1Tb2Z0YmFsbC1UaH
  Jhc2hlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260409T170000
 DTEND;TZID=America/Chicago:20260409T190000
 SUMMARY:🥎 Girls Softball: Falkner Eagles @ Thrasher Rebels
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTA5VDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLVJvc2
  EgRm9ydA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260409T183000
 DTEND;TZID=America/Chicago:20260409T203000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Rosa Fort Lions
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTA5VDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLVdoZWVsZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260409T183000
 DTEND;TZID=America/Chicago:20260409T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Wheeler Eagles
@@ -260,7 +260,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMDlUMTg6MzA6MDAtR2lybHMtU29mdGJhbGwtQm
  FsZHd5bg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260409T183000
 DTEND;TZID=America/Chicago:20260409T203000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats @ Baldwyn Bearcats
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMDlUMTk6MDA6MDAtQm95cy1CYXNlYmFsbC1CZW
  xtb250@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260409T190000
 DTEND;TZID=America/Chicago:20260409T213000
 SUMMARY:⚾ Boys Baseball: Walnut Wildcats @ Belmont Cardinals
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTEwVDE3OjAwOjAwLUJveXMtQmFzZWJhbG
  wtV2hlZWxlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260410T170000
 DTEND;TZID=America/Chicago:20260410T193000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Wheeler Eagles
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTEwVDE3OjAwOjAwLUdpcmxzLVNvZnRiYW
  xsLVNlbmF0b2JpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260410T170000
 DTEND;TZID=America/Chicago:20260410T190000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Senatobia Warriors
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xMFQxODozMDowMC1HaXJscy1Tb2Z0YmFsbC1CZW
  xtb250@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260410T183000
 DTEND;TZID=America/Chicago:20260410T203000
 SUMMARY:🥎 Girls Softball: Falkner Eagles @ Belmont Cardinals
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTEwVDE5OjAwOjAwLUJveXMtQmFzZWJhbGwtQ2xhcm
  tzZGFsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260410T190000
 DTEND;TZID=America/Chicago:20260410T213000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers vs Clarksdale Wildcats
@@ -374,7 +374,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xMFQxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVRocm
  FzaGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260410T190000
 DTEND;TZID=America/Chicago:20260410T213000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles @ Thrasher Rebels
@@ -393,7 +393,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTExVDEyOjAwOjAwLUJveXMtQmFzZWJhbG
  wtQmFsZHd5bg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260411T120000
 DTEND;TZID=America/Chicago:20260411T143000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Baldwyn Bearcats
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTExVDE0OjAwOjAwLUdpcmxzLVNvZnRiYW
  xsLUZhbGtuZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260411T140000
 DTEND;TZID=America/Chicago:20260411T160000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers vs Falkner Eagles
@@ -431,7 +431,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xMVQxNDowMDowMC1HaXJscy1Tb2Z0YmFsbC1QaW
  5lIEdyb3Zl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260411T140000
 DTEND;TZID=America/Chicago:20260411T160000
 SUMMARY:🥎 Girls Softball: Falkner Eagles @ Pine Grove Panthers
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTExVDE4OjAwOjAwLUJveXMtQmFzZWJhbGwtU2FsdG
  lsbG8@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260411T180000
 DTEND;TZID=America/Chicago:20260411T203000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers @ Saltillo Tigers
@@ -469,7 +469,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xM1QxNzowMDowMC1Cb3lzLUJhc2ViYWxsLUluZ2
  9tYXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260413T170000
 DTEND;TZID=America/Chicago:20260413T193000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles @ Ingomar Falcons
@@ -488,7 +488,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xM1QxNzozMDowMC1HaXJscy1Tb2Z0YmFsbC1Qb3
  R0cyBDYW1w@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260413T173000
 DTEND;TZID=America/Chicago:20260413T193000
 SUMMARY:🥎 Girls Softball: Falkner Eagles vs Potts Camp Cardinals
@@ -507,7 +507,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTNUMTc6MzA6MDAtR2lybHMtU29mdGJhbGwtVG
  hyYXNoZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260413T173000
 DTEND;TZID=America/Chicago:20260413T193000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats vs Thrasher Rebels
@@ -526,7 +526,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTEzVDE4OjAwOjAwLUJveXMtQmFzZWJhbGwtQWxjb3
  JuIENlbnRyYWw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260413T180000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers @ Alcorn Central Golden Bears
@@ -545,7 +545,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTEzVDE4OjAwOjAwLUJveXMtQmFzZWJhbG
  wtUmVnZW50cw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260413T180000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Regents Lions
@@ -564,7 +564,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTNUMTg6MDA6MDAtQm95cy1CYXNlYmFsbC1NeX
  J0bGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260413T180000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:⚾ Boys Baseball: Walnut Wildcats vs Myrtle Hawks
@@ -583,7 +583,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTEzVDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLUl0YXdhbWJhIEFncmljdWx0dXJhbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260413T183000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Itawamba Agricultural I
@@ -601,29 +601,10 @@ URL;VALUE=URI:https://www.maxpreps.com/games/04-13-2026/softball-26/itawam
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTRUMTc6MDA6MDAtR2lybHMtU29mdGJhbGwtU2
- VuYXRvYmlh@autoschedule
-SEQUENCE:0
-DTSTAMP:20260405T063440
-DTSTART;TZID=America/Chicago:20260414T170000
-DTEND;TZID=America/Chicago:20260414T190000
-SUMMARY:🥎 Girls Softball: Walnut Wildcats @ Senatobia Warriors
-LOCATION:Senatobia\, Senatobia MS
-DESCRIPTION:Walnut Wildcats Wildcats\nAway game @ Senatobia (MS)\nSport: G
- irls Softball\nSeason: Spring 25-26\n\nThe Walnut varsity softball team ha
- s an away non-conference game @  Senatobia (MS) on Tuesday\, April 14 @ 5p
- .\n\nMaxPreps: https://www.maxpreps.com/games/04-14-2026/softball-26/senat
- obia-vs-walnut.htm?c=RJM9f29slEaCRLeu6MlFgw
-CATEGORIES:Softball,Girls,Walnut Wildcats
-URL;VALUE=URI:https://www.maxpreps.com/games/04-14-2026/softball-26/senato
- bia-vs-walnut.htm?c=RJM9f29slEaCRLeu6MlFgw
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE0VDE3OjMwOjAwLUJveXMtQmFzZWJhbG
  wtV2FsbnV0@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260414T173000
 DTEND;TZID=America/Chicago:20260414T200000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Walnut Wildcats
@@ -642,7 +623,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTRUMTc6MzA6MDAtQm95cy1CYXNlYmFsbC1QaW
  5lIEdyb3Zl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260414T173000
 DTEND;TZID=America/Chicago:20260414T200000
 SUMMARY:⚾ Boys Baseball: Walnut Wildcats vs Pine Grove Panthers
@@ -658,10 +639,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/04-14-2026/baseball-26/pine-g
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTRUMTc6MzA6MDAtR2lybHMtU29mdGJhbGwtU2
+ VuYXRvYmlh@autoschedule
+SEQUENCE:0
+DTSTAMP:20260406T064755
+DTSTART;TZID=America/Chicago:20260414T173000
+DTEND;TZID=America/Chicago:20260414T193000
+SUMMARY:🥎 Girls Softball: Walnut Wildcats @ Senatobia Warriors
+LOCATION:Senatobia\, Senatobia MS
+DESCRIPTION:Walnut Wildcats Wildcats\nAway game @ Senatobia (MS)\nSport: G
+ irls Softball\nSeason: Spring 25-26\n\nThe Walnut varsity softball team ha
+ s an away non-conference game @  Senatobia (MS) on Tuesday\, April 14 @ 5:
+ 30p.\n\nMaxPreps: https://www.maxpreps.com/games/04-14-2026/softball-26/se
+ natobia-vs-walnut.htm?c=RJM9f29slEaCRLeu6MlFgw
+CATEGORIES:Softball,Girls,Walnut Wildcats
+URL;VALUE=URI:https://www.maxpreps.com/games/04-14-2026/softball-26/senato
+ bia-vs-walnut.htm?c=RJM9f29slEaCRLeu6MlFgw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE0VDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLUhpY2tvcnkgRmxhdA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260414T183000
 DTEND;TZID=America/Chicago:20260414T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers vs Hickory Flat Rebels
@@ -681,7 +681,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xNFQxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVBvdH
  RzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260405T063440
+DTSTAMP:20260406T064755
 DTSTART;TZID=America/Chicago:20260414T190000
 DTEND;TZID=America/Chicago:20260414T213000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles vs Potts Camp Cardinals
