@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-06T06:47:55.038Z",
-  "totalGames": 36,
+  "lastUpdated": "2026-04-07T06:40:13.295Z",
+  "totalGames": 33,
   "teams": [
     "Ripley Tigers",
     "Pine Grove Panthers",
@@ -9,13 +9,13 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Pine Grove Panthers": 12,
-    "Walnut Wildcats": 8,
     "Ripley Tigers": 7,
-    "Falkner Eagles": 9
+    "Falkner Eagles": 9,
+    "Walnut Wildcats": 7,
+    "Pine Grove Panthers": 10
   },
   "gamesBySport": {
-    "Boys Baseball": 18,
-    "Girls Softball": 18
+    "Girls Softball": 17,
+    "Boys Baseball": 16
   }
 }
