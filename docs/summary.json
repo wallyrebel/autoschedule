@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T06:41:34.440Z",
+  "lastUpdated": "2026-04-09T06:41:45.765Z",
   "totalGames": 27,
   "teams": [
     "Ripley Tigers",
@@ -10,9 +10,9 @@
   ],
   "gamesByTeam": {
     "Ripley Tigers": 5,
-    "Falkner Eagles": 7,
     "Pine Grove Panthers": 9,
-    "Walnut Wildcats": 6
+    "Walnut Wildcats": 6,
+    "Falkner Eagles": 7
   },
   "gamesBySport": {
     "Girls Softball": 14,
