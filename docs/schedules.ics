@@ -10,86 +10,10 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTExVDEzOjAwOjAwLUJveXMtQmFzZWJhbG
- wtQmFsZHd5bg@autoschedule
-SEQUENCE:0
-DTSTAMP:20260411T063042
-DTSTART;TZID=America/Chicago:20260411T130000
-DTEND;TZID=America/Chicago:20260411T153000
-SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Baldwyn Bearcats
-LOCATION:Home - Pine Grove Panthers
-DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Baldwyn (MS)\nSport
- : Boys Baseball\nSeason: Spring 25-26\n\nThe Baldwyn varsity baseball team
-  has an away non-conference game @  Pine Grove (Ripley\, MS) today @ 1p.\n
- \nMaxPreps: https://www.maxpreps.com/games/04-11-2026/baseball-26/baldwyn-
- vs-pine-grove.htm?c=9TfQcY5z_0SWd-RcfAFe0w
-CATEGORIES:Baseball,Boys,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com/games/04-11-2026/baseball-26/baldwy
- n-vs-pine-grove.htm?c=9TfQcY5z_0SWd-RcfAFe0w
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTExVDE0OjAwOjAwLUdpcmxzLVNvZnRiYW
- xsLUZhbGtuZXI@autoschedule
-SEQUENCE:0
-DTSTAMP:20260411T063042
-DTSTART;TZID=America/Chicago:20260411T140000
-DTEND;TZID=America/Chicago:20260411T160000
-SUMMARY:🥎 Girls Softball: Pine Grove Panthers vs Falkner Eagles
-LOCATION:Home - Pine Grove Panthers
-DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Falkner (MS)\nSport
- : Girls Softball\nSeason: Spring 25-26\n\nThe Falkner varsity softball tea
- m has an away conference game @  Pine Grove (Ripley\, MS) today @ 2p.\n\nM
- axPreps: https://www.maxpreps.com/games/04-11-2026/softball-26/falkner-vs-
- pine-grove.htm?c=prPQO_YAsUGtUJnWZNLQag
-CATEGORIES:Softball,Girls,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com/games/04-11-2026/softball-26/falkne
- r-vs-pine-grove.htm?c=prPQO_YAsUGtUJnWZNLQag
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xMVQxNDowMDowMC1HaXJscy1Tb2Z0YmFsbC1QaW
- 5lIEdyb3Zl@autoschedule
-SEQUENCE:0
-DTSTAMP:20260411T063042
-DTSTART;TZID=America/Chicago:20260411T140000
-DTEND;TZID=America/Chicago:20260411T160000
-SUMMARY:🥎 Girls Softball: Falkner Eagles @ Pine Grove Panthers
-LOCATION:Pine Grove\, Ripley MS
-DESCRIPTION:Falkner Eagles Eagles\nAway game @ Pine Grove (Ripley\, MS)\nS
- port: Girls Softball\nSeason: Spring 25-26\n\nThe Falkner varsity softball
-  team has an away conference game @  Pine Grove (Ripley\, MS) today @ 2p.\
- n\nMaxPreps: https://www.maxpreps.com/games/04-11-2026/softball-26/falkner
- -vs-pine-grove.htm?c=prPQO_YAsUGtUJnWZNLQag
-CATEGORIES:Softball,Girls,Falkner Eagles
-URL;VALUE=URI:https://www.maxpreps.com/games/04-11-2026/softball-26/falkne
- r-vs-pine-grove.htm?c=prPQO_YAsUGtUJnWZNLQag
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTExVDE4OjAwOjAwLUJveXMtQmFzZWJhbGwtU2FsdG
- lsbG8@autoschedule
-SEQUENCE:0
-DTSTAMP:20260411T063042
-DTSTART;TZID=America/Chicago:20260411T180000
-DTEND;TZID=America/Chicago:20260411T203000
-SUMMARY:⚾ Boys Baseball: Ripley Tigers @ Saltillo Tigers
-LOCATION:Saltillo\, Saltillo MS
-DESCRIPTION:Ripley Tigers Tigers\nAway game @ Saltillo (MS)\nSport: Boys B
- aseball\nSeason: Spring 25-26\n\nThe Ripley varsity baseball team has an a
- way non-conference game @  Saltillo (MS) today @ 6p.\n\nMaxPreps: https://
- www.maxpreps.com/games/04-11-2026/baseball-26/ripley-vs-saltillo.htm?c=7fb
- 0-YXb-ESwxIWuOx84_w
-CATEGORIES:Baseball,Boys,Ripley Tigers
-URL;VALUE=URI:https://www.maxpreps.com/games/04-11-2026/baseball-26/ripley
- -vs-saltillo.htm?c=7fb0-YXb-ESwxIWuOx84_w
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xM1QxNzowMDowMC1Cb3lzLUJhc2ViYWxsLUluZ2
  9tYXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260413T170000
 DTEND;TZID=America/Chicago:20260413T193000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles @ Ingomar Falcons
@@ -108,7 +32,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xM1QxNzozMDowMC1HaXJscy1Tb2Z0YmFsbC1Qb3
  R0cyBDYW1w@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260413T173000
 DTEND;TZID=America/Chicago:20260413T193000
 SUMMARY:🥎 Girls Softball: Falkner Eagles vs Potts Camp Cardinals
@@ -127,7 +51,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTNUMTc6MzA6MDAtR2lybHMtU29mdGJhbGwtVG
  hyYXNoZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260413T173000
 DTEND;TZID=America/Chicago:20260413T193000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats vs Thrasher Rebels
@@ -146,7 +70,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTEzVDE4OjAwOjAwLUJveXMtQmFzZWJhbGwtQWxjb3
  JuIENlbnRyYWw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260413T180000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers @ Alcorn Central Golden Bears
@@ -165,7 +89,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTEzVDE4OjAwOjAwLUJveXMtQmFzZWJhbG
  wtUmVnZW50cw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260413T180000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Regents Lions
@@ -184,7 +108,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTNUMTg6MDA6MDAtQm95cy1CYXNlYmFsbC1NeX
  J0bGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260413T180000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:⚾ Boys Baseball: Walnut Wildcats vs Myrtle Hawks
@@ -203,7 +127,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTEzVDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLVdoZWVsZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260413T183000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Wheeler Eagles
@@ -222,7 +146,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTEzVDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLUl0YXdhbWJhIEFncmljdWx0dXJhbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260413T183000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Itawamba Agricultural I
@@ -243,7 +167,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTRUMTc6MDA6MDAtR2lybHMtU29mdGJhbGwtU2
  VuYXRvYmlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260414T170000
 DTEND;TZID=America/Chicago:20260414T190000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats @ Senatobia Warriors
@@ -262,7 +186,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE0VDE3OjMwOjAwLUJveXMtQmFzZWJhbG
  wtV2FsbnV0@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260414T173000
 DTEND;TZID=America/Chicago:20260414T200000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Walnut Wildcats
@@ -281,7 +205,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTRUMTc6MzA6MDAtQm95cy1CYXNlYmFsbC1QaW
  5lIEdyb3Zl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260414T173000
 DTEND;TZID=America/Chicago:20260414T200000
 SUMMARY:⚾ Boys Baseball: Walnut Wildcats vs Pine Grove Panthers
@@ -300,7 +224,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE0VDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLUhpY2tvcnkgRmxhdA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260414T183000
 DTEND;TZID=America/Chicago:20260414T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers vs Hickory Flat Rebels
@@ -320,7 +244,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xNFQxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVBvdH
  RzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260411T063042
+DTSTAMP:20260412T064120
 DTSTART;TZID=America/Chicago:20260414T190000
 DTEND;TZID=America/Chicago:20260414T213000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles vs Potts Camp Cardinals
