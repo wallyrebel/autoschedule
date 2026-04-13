@@ -13,35 +13,32 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xM1QxNzowMDowMC1Cb3lzLUJhc2ViYWxsLUluZ2
  9tYXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260413T170000
 DTEND;TZID=America/Chicago:20260413T193000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles @ Ingomar Falcons
 LOCATION:Ingomar\, New Albany MS
 DESCRIPTION:Falkner Eagles Eagles\nAway game @ Ingomar (New Albany\, MS)\n
- Sport: Boys Baseball\nSeason: Spring 25-26\n\nThe Falkner varsity baseball
-  team has an away non-conference game @  Ingomar (New Albany\, MS) on Mond
- ay\, April 13 @ 5p.\n\nMaxPreps: https://www.maxpreps.com/games/04-13-2026
- /baseball-26/falkner-vs-ingomar.htm?c=yC3yDpD8L0W6zzlYa_VpCg
+ Sport: Boys Baseball\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxpre
+ ps.com
 CATEGORIES:Baseball,Boys,Falkner Eagles
-URL;VALUE=URI:https://www.maxpreps.com/games/04-13-2026/baseball-26/falkne
- r-vs-ingomar.htm?c=yC3yDpD8L0W6zzlYa_VpCg
+URL;VALUE=URI:https://www.maxpreps.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xM1QxNzozMDowMC1HaXJscy1Tb2Z0YmFsbC1Qb3
  R0cyBDYW1w@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260413T173000
 DTEND;TZID=America/Chicago:20260413T193000
 SUMMARY:🥎 Girls Softball: Falkner Eagles vs Potts Camp Cardinals
 LOCATION:Home - Falkner Eagles
 DESCRIPTION:Falkner Eagles Eagles\nHome game vs Potts Camp (MS)\nSport: Gi
  rls Softball\nSeason: Spring 25-26\n\nThe Potts Camp varsity softball team
-  has an away non-conference game @  Falkner (MS) on Monday\, April 13 @ 5:
- 30p.\n\nMaxPreps: https://www.maxpreps.com/games/04-13-2026/softball-26/fa
- lkner-vs-potts-camp.htm?c=JHYIiFoq80akTyj6brR5dA
+  has an away non-conference game @  Falkner (MS) today @ 5:30p.\n\nMaxPrep
+ s: https://www.maxpreps.com/games/04-13-2026/softball-26/falkner-vs-potts-
+ camp.htm?c=JHYIiFoq80akTyj6brR5dA
 CATEGORIES:Softball,Girls,Falkner Eagles
 URL;VALUE=URI:https://www.maxpreps.com/games/04-13-2026/softball-26/falkne
  r-vs-potts-camp.htm?c=JHYIiFoq80akTyj6brR5dA
@@ -51,16 +48,16 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTNUMTc6MzA6MDAtR2lybHMtU29mdGJhbGwtVG
  hyYXNoZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260413T173000
 DTEND;TZID=America/Chicago:20260413T193000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats vs Thrasher Rebels
 LOCATION:Home - Walnut Wildcats
 DESCRIPTION:Walnut Wildcats Wildcats\nHome game vs Thrasher (Booneville\, 
  MS)\nSport: Girls Softball\nSeason: Spring 25-26\n\nThe Thrasher varsity s
- oftball team has an away non-conference game @  Walnut (MS) on Monday\, Ap
- ril 13 @ 5:30p.\n\nMaxPreps: https://www.maxpreps.com/games/04-13-2026/sof
- tball-26/thrasher-vs-walnut.htm?c=v55UA6p_NUidj-4JgcfaZA
+ oftball team has an away non-conference game @  Walnut (MS) today @ 5:30p.
+ \n\nMaxPreps: https://www.maxpreps.com/games/04-13-2026/softball-26/thrash
+ er-vs-walnut.htm?c=v55UA6p_NUidj-4JgcfaZA
 CATEGORIES:Softball,Girls,Walnut Wildcats
 URL;VALUE=URI:https://www.maxpreps.com/games/04-13-2026/softball-26/thrash
  er-vs-walnut.htm?c=v55UA6p_NUidj-4JgcfaZA
@@ -70,16 +67,16 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTEzVDE4OjAwOjAwLUJveXMtQmFzZWJhbGwtQWxjb3
  JuIENlbnRyYWw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260413T180000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers @ Alcorn Central Golden Bears
 LOCATION:Alcorn Central\, Glen MS
 DESCRIPTION:Ripley Tigers Tigers\nAway game @ Alcorn Central (Glen\, MS)\n
  Sport: Boys Baseball\nSeason: Spring 25-26\n\nThe Ripley varsity baseball 
- team has an away non-conference game @  Alcorn Central (Glen\, MS) on Mond
- ay\, April 13 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-13-2026
- /baseball-26/alcorn-central-vs-ripley.htm?c=53TGyzq2h06dEdYZxmWSsg
+ team has an away non-conference game @  Alcorn Central (Glen\, MS) today @
+  6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-13-2026/baseball-26/al
+ corn-central-vs-ripley.htm?c=53TGyzq2h06dEdYZxmWSsg
 CATEGORIES:Baseball,Boys,Ripley Tigers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-13-2026/baseball-26/alcorn
  -central-vs-ripley.htm?c=53TGyzq2h06dEdYZxmWSsg
@@ -89,16 +86,16 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTEzVDE4OjAwOjAwLUJveXMtQmFzZWJhbG
  wtUmVnZW50cw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260413T180000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Regents Lions
 LOCATION:Home - Pine Grove Panthers
 DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Regents (Oxford\, M
  S)\nSport: Boys Baseball\nSeason: Spring 25-26\n\nThe Regents varsity base
- ball team has an away non-conference game @  Pine Grove (Ripley\, MS) on M
- onday\, April 13 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-13-2
- 026/baseball-26/pine-grove-vs-regents.htm?c=vzlPwSFXOk2VFPagYj5elA
+ ball team has an away non-conference game @  Pine Grove (Ripley\, MS) toda
+ y @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-13-2026/baseball-26
+ /pine-grove-vs-regents.htm?c=vzlPwSFXOk2VFPagYj5elA
 CATEGORIES:Baseball,Boys,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-13-2026/baseball-26/pine-g
  rove-vs-regents.htm?c=vzlPwSFXOk2VFPagYj5elA
@@ -108,16 +105,16 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTNUMTg6MDA6MDAtQm95cy1CYXNlYmFsbC1NeX
  J0bGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260413T180000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:⚾ Boys Baseball: Walnut Wildcats vs Myrtle Hawks
 LOCATION:Home - Walnut Wildcats
 DESCRIPTION:Walnut Wildcats Wildcats\nHome game vs Myrtle (MS)\nSport: Boy
  s Baseball\nSeason: Spring 25-26\n\nThe Myrtle varsity baseball team has a
- n away non-conference game @  Walnut (MS) on Monday\, April 13 @ 6p.\n\nMa
- xPreps: https://www.maxpreps.com/games/04-13-2026/baseball-26/myrtle-vs-wa
- lnut.htm?c=iGEt1JQBDkek_jmc2ijkyg
+ n away non-conference game @  Walnut (MS) today @ 6p.\n\nMaxPreps: https:/
+ /www.maxpreps.com/games/04-13-2026/baseball-26/myrtle-vs-walnut.htm?c=iGEt
+ 1JQBDkek_jmc2ijkyg
 CATEGORIES:Baseball,Boys,Walnut Wildcats
 URL;VALUE=URI:https://www.maxpreps.com/games/04-13-2026/baseball-26/myrtle
  -vs-walnut.htm?c=iGEt1JQBDkek_jmc2ijkyg
@@ -127,16 +124,16 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTEzVDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLVdoZWVsZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260413T183000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Wheeler Eagles
 LOCATION:Wheeler\, Wheeler MS
 DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Wheeler (MS)\nSport:
   Girls Softball\nSeason: Spring 25-26\n\nThe Pine Grove varsity softball t
- eam has an away conference game @  Wheeler (MS) on Monday\, April 13 @ 6:3
- 0p.\n\nMaxPreps: https://www.maxpreps.com/games/04-13-2026/softball-26/pin
- e-grove-vs-wheeler.htm?c=OllEeCMia0KXm-KEL10cLA
+ eam has an away conference game @  Wheeler (MS) today @ 6:30p.\n\nMaxPreps
+ : https://www.maxpreps.com/games/04-13-2026/softball-26/pine-grove-vs-whee
+ ler.htm?c=OllEeCMia0KXm-KEL10cLA
 CATEGORIES:Softball,Girls,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-13-2026/softball-26/pine-g
  rove-vs-wheeler.htm?c=OllEeCMia0KXm-KEL10cLA
@@ -146,28 +143,43 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTEzVDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLUl0YXdhbWJhIEFncmljdWx0dXJhbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260413T183000
 DTEND;TZID=America/Chicago:20260413T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Itawamba Agricultural I
  ndians
 LOCATION:Itawamba Agricultural\, Fulton MS
 DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Itawamba Agricultura
- l (Fulton\, MS)\nSport: Girls Softball\nSeason: Spring 25-26\n\nThe Pine G
- rove varsity softball team has an away non-conference game @  Itawamba Agr
- icultural (Fulton\, MS) on Monday\, April 13 @ 6:30p.\n\nMaxPreps: https:/
- /www.maxpreps.com/games/04-13-2026/softball-26/itawamba-agricultural-vs-pi
- ne-grove.htm?c=hp_w16O5c0yALZqg7WKrIg
+ l (Fulton\, MS)\nSport: Girls Softball\nSeason: Spring 25-26\n\nMaxPreps: 
+ https://www.maxpreps.com
 CATEGORIES:Softball,Girls,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com/games/04-13-2026/softball-26/itawam
- ba-agricultural-vs-pine-grove.htm?c=hp_w16O5c0yALZqg7WKrIg
+URL;VALUE=URI:https://www.maxpreps.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTE0VDE3OjAwOjAwLUdpcmxzLVNvZnRiYWxsLVdoZW
+ VsZXI@autoschedule
+SEQUENCE:0
+DTSTAMP:20260413T065502
+DTSTART;TZID=America/Chicago:20260414T170000
+DTEND;TZID=America/Chicago:20260414T190000
+SUMMARY:🥎 Girls Softball: Ripley Tigers vs Wheeler Eagles
+LOCATION:Home - Ripley Tigers
+DESCRIPTION:Ripley Tigers Tigers\nHome game vs Wheeler (MS)\nSport: Girls 
+ Softball\nSeason: Spring 25-26\n\nThe Wheeler varsity softball team has an
+  away non-conference game @  Ripley (MS) on Tuesday\, April 14 @ 5p.\n\nMa
+ xPreps: https://www.maxpreps.com/games/04-14-2026/softball-26/ripley-vs-wh
+ eeler.htm?c=DFI39uGe00OV6-eOk1TddQ
+CATEGORIES:Softball,Girls,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-14-2026/softball-26/ripley
+ -vs-wheeler.htm?c=DFI39uGe00OV6-eOk1TddQ
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTRUMTc6MDA6MDAtR2lybHMtU29mdGJhbGwtU2
  VuYXRvYmlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260414T170000
 DTEND;TZID=America/Chicago:20260414T190000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats @ Senatobia Warriors
@@ -186,7 +198,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE0VDE3OjMwOjAwLUJveXMtQmFzZWJhbG
  wtV2FsbnV0@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260414T173000
 DTEND;TZID=America/Chicago:20260414T200000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Walnut Wildcats
@@ -205,7 +217,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTRUMTc6MzA6MDAtQm95cy1CYXNlYmFsbC1QaW
  5lIEdyb3Zl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260414T173000
 DTEND;TZID=America/Chicago:20260414T200000
 SUMMARY:⚾ Boys Baseball: Walnut Wildcats vs Pine Grove Panthers
@@ -224,7 +236,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE0VDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLUhpY2tvcnkgRmxhdA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260414T183000
 DTEND;TZID=America/Chicago:20260414T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers vs Hickory Flat Rebels
@@ -244,7 +256,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xNFQxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVBvdH
  RzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260412T064120
+DTSTAMP:20260413T065502
 DTSTART;TZID=America/Chicago:20260414T190000
 DTEND;TZID=America/Chicago:20260414T213000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles vs Potts Camp Cardinals
@@ -257,6 +269,131 @@ DESCRIPTION:Falkner Eagles Eagles\nHome game vs Potts Camp (MS)\nSport: Bo
 CATEGORIES:Baseball,Boys,Falkner Eagles
 URL;VALUE=URI:https://www.maxpreps.com/games/04-14-2026/baseball-26/falkne
  r-vs-potts-camp.htm?c=_7bWmWFNikqysL7-EAGSzA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTE3VDAwOjAwOjAwLUJveXMtQmFzZWJhbGwtVW5rbm
+ 93bg@autoschedule
+SEQUENCE:0
+DTSTAMP:20260413T065502
+DTSTART;TZID=America/Chicago:20260417T000000
+DTEND;TZID=America/Chicago:20260417T023000
+SUMMARY:⚾ Boys Baseball: Ripley Tigers @ Unknown
+LOCATION:Unknown
+DESCRIPTION:Ripley Tigers Tigers\nAway game @ Unknown\nSport: Boys Basebal
+ l\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxpreps.com
+CATEGORIES:Baseball,Boys,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE3VDAwOjAwOjAwLUJveXMtQmFzZWJhbG
+ wtVW5rbm93bg@autoschedule
+SEQUENCE:0
+DTSTAMP:20260413T065502
+DTSTART;TZID=America/Chicago:20260417T000000
+DTEND;TZID=America/Chicago:20260417T023000
+SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Unknown
+LOCATION:Unknown
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Unknown\nSport: Boys
+  Baseball\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxpreps.com
+CATEGORIES:Baseball,Boys,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTE3VDE2OjAwOjAwLUJveXMtQmFzZWJhbGwtR3JlZW
+ 53b29k@autoschedule
+SEQUENCE:0
+DTSTAMP:20260413T065502
+DTSTART;TZID=America/Chicago:20260417T160000
+DTEND;TZID=America/Chicago:20260417T183000
+SUMMARY:⚾ Boys Baseball: Ripley Tigers vs Greenwood Bulldogs
+LOCATION:Home - Ripley Tigers
+DESCRIPTION:Ripley Tigers Tigers\nHome game vs Greenwood (MS)\nSport: Boys
+  Baseball\nSeason: Spring 25-26\n\nThe Greenwood varsity baseball team has
+  an away non-conference game @  Ripley (MS) on Friday\, April 17 @ 4p.\n\n
+ MaxPreps: https://www.maxpreps.com/games/04-17-2026/baseball-26/greenwood-
+ vs-ripley.htm?c=rvx_g0Oi2kiat4poxWRueQ
+CATEGORIES:Baseball,Boys,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/greenw
+ ood-vs-ripley.htm?c=rvx_g0Oi2kiat4poxWRueQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTdUMTc6MzA6MDAtR2lybHMtU29mdGJhbGwtTX
+ lydGxl@autoschedule
+SEQUENCE:0
+DTSTAMP:20260413T065502
+DTSTART;TZID=America/Chicago:20260417T173000
+DTEND;TZID=America/Chicago:20260417T193000
+SUMMARY:🥎 Girls Softball: Walnut Wildcats vs Myrtle Hawks
+LOCATION:Home - Walnut Wildcats
+DESCRIPTION:Walnut Wildcats Wildcats\nHome game vs Myrtle (MS)\nSport: Gir
+ ls Softball\nSeason: Spring 25-26\n\nThe Myrtle varsity softball team has 
+ an away non-conference game @  Walnut (MS) on Friday\, April 17 @ 5:30p.\n
+ \nMaxPreps: https://www.maxpreps.com/games/04-17-2026/softball-26/myrtle-v
+ s-walnut.htm?c=EGmRllxcpU2OwtHCKnfESw
+CATEGORIES:Softball,Girls,Walnut Wildcats
+URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/softball-26/myrtle
+ -vs-walnut.htm?c=EGmRllxcpU2OwtHCKnfESw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTE3VDE4OjAwOjAwLUJveXMtQmFzZWJhbGwtR3JlZW
+ 53b29k@autoschedule
+SEQUENCE:0
+DTSTAMP:20260413T065502
+DTSTART;TZID=America/Chicago:20260417T180000
+DTEND;TZID=America/Chicago:20260417T203000
+SUMMARY:⚾ Boys Baseball: Ripley Tigers vs Greenwood Bulldogs
+LOCATION:Home - Ripley Tigers
+DESCRIPTION:Ripley Tigers Tigers\nHome game vs Greenwood (MS)\nSport: Boys
+  Baseball\nSeason: Spring 25-26\n\nThe Greenwood varsity baseball team has
+  an away non-conference game @  Ripley (MS) on Friday\, April 17 @ 6p.\n\n
+ MaxPreps: https://www.maxpreps.com/games/04-17-2026/baseball-26/greenwood-
+ vs-ripley.htm?c=XiP3oCdwLU6Df3sD7Qbmdg
+CATEGORIES:Baseball,Boys,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/greenw
+ ood-vs-ripley.htm?c=XiP3oCdwLU6Df3sD7Qbmdg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xN1QxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
+ QgVW5pb24@autoschedule
+SEQUENCE:0
+DTSTAMP:20260413T065502
+DTSTART;TZID=America/Chicago:20260417T190000
+DTEND;TZID=America/Chicago:20260417T213000
+SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
+LOCATION:West Union\, Myrtle MS
+DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
+ port: Boys Baseball\nSeason: Spring 25-26\n\nThe Falkner varsity baseball 
+ team has an away non-conference game @  West Union (Myrtle\, MS) on Friday
+ \, April 17 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-17-2026/b
+ aseball-26/falkner-vs-west-union.htm?c=smjhK6xBTEO-KiDoxaMVzQ
+CATEGORIES:Baseball,Boys,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/falkne
+ r-vs-west-union.htm?c=smjhK6xBTEO-KiDoxaMVzQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0yMFQxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
+ QgVW5pb24@autoschedule
+SEQUENCE:0
+DTSTAMP:20260413T065502
+DTSTART;TZID=America/Chicago:20260420T190000
+DTEND;TZID=America/Chicago:20260420T213000
+SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
+LOCATION:West Union\, Myrtle MS
+DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
+ port: Boys Baseball\nSeason: Spring 25-26\n\nThe Falkner varsity baseball 
+ team has an away non-conference game @  West Union (Myrtle\, MS) on Monday
+ \, April 20 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-20-2026/b
+ aseball-26/falkner-vs-west-union.htm?c=j5Lq8Ong4U-2EcMeZaNHnQ
+CATEGORIES:Baseball,Boys,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/04-20-2026/baseball-26/falkne
+ r-vs-west-union.htm?c=j5Lq8Ong4U-2EcMeZaNHnQ
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
