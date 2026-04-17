@@ -10,133 +10,76 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTZUMTc6MzA6MDAtR2lybHMtU29mdGJhbGwtTX
- lydGxl@autoschedule
-SEQUENCE:0
-DTSTAMP:20260416T064743
-DTSTART;TZID=America/Chicago:20260416T173000
-DTEND;TZID=America/Chicago:20260416T193000
-SUMMARY:🥎 Girls Softball: Walnut Wildcats @ Myrtle Hawks
-LOCATION:Myrtle\, Myrtle MS
-DESCRIPTION:Walnut Wildcats Wildcats\nAway game @ Myrtle (MS)\nSport: Girl
- s Softball\nSeason: Spring 25-26\n\nThe Walnut varsity softball team has a
- n away non-conference game @  Myrtle (MS) today @ 5:30p.\n\nMaxPreps: http
- s://www.maxpreps.com/games/04-16-2026/softball-26/myrtle-vs-walnut.htm?c=F
- cHsTRb5Hk2UHDg8okEoMg
-CATEGORIES:Softball,Girls,Walnut Wildcats
-URL;VALUE=URI:https://www.maxpreps.com/games/04-16-2026/softball-26/myrtle
- -vs-walnut.htm?c=FcHsTRb5Hk2UHDg8okEoMg
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTE3VDAwOjAwOjAwLUJveXMtQmFzZWJhbGwtR3JlZW
- 53b29k@autoschedule
-SEQUENCE:0
-DTSTAMP:20260416T064743
-DTSTART;TZID=America/Chicago:20260417T000000
-DTEND;TZID=America/Chicago:20260417T023000
-SUMMARY:⚾ Boys Baseball: Ripley Tigers @ Greenwood Bulldogs
-LOCATION:Greenwood\, Greenwood MS
-DESCRIPTION:Ripley Tigers Tigers\nAway game @ Greenwood (MS)\nSport: Boys 
- Baseball\nSeason: Spring 25-26\n\nThe Greenwood varsity baseball team has 
- a neutral playoff game vs.  Ripley (MS) on Friday\, April 17.\n\nMaxPreps:
-  https://www.maxpreps.com/games/04-17-2026/baseball-26/greenwood-vs-ripley
- .htm?c=HcrcgGGFOkWrUkDxArHjQw
-CATEGORIES:Baseball,Boys,Ripley Tigers
-URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/greenw
- ood-vs-ripley.htm?c=HcrcgGGFOkWrUkDxArHjQw
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE3VDAwOjAwOjAwLUJveXMtQmFzZWJhbG
- wtQnllcnM@autoschedule
-SEQUENCE:0
-DTSTAMP:20260416T064743
-DTSTART;TZID=America/Chicago:20260417T000000
-DTEND;TZID=America/Chicago:20260417T023000
-SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Byers Lions
-LOCATION:Byers\, Holly Springs MS
-DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Byers (Holly Springs
- \, MS)\nSport: Boys Baseball\nSeason: Spring 25-26\n\nThe Byers varsity ba
- seball team has a neutral playoff game vs.  Pine Grove (Ripley\, MS) on Fr
- iday\, April 17.\n\nMaxPreps: https://www.maxpreps.com/games/04-17-2026/ba
- seball-26/byers-vs-pine-grove.htm?c=ovzkWCmy_0KNyBqG8NzU6Q
-CATEGORIES:Baseball,Boys,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/byers-
- vs-pine-grove.htm?c=ovzkWCmy_0KNyBqG8NzU6Q
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE3VDAwOjAwOjAwLUdpcmxzLVNvZnRiYW
- xsLVBvdHRzIENhbXA@autoschedule
-SEQUENCE:0
-DTSTAMP:20260416T064743
-DTSTART;TZID=America/Chicago:20260417T000000
-DTEND;TZID=America/Chicago:20260417T020000
-SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Potts Camp Cardinals
-LOCATION:Potts Camp\, Potts Camp MS
-DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Potts Camp (MS)\nSpo
- rt: Girls Softball\nSeason: Spring 25-26\n\nThe Pine Grove varsity softbal
- l team has a neutral playoff game vs.  Potts Camp (MS) on Friday\, April 1
- 7.\n\nMaxPreps: https://www.maxpreps.com/games/04-17-2026/softball-26/pine
- -grove-vs-potts-camp.htm?c=DFjNjVTMcUeuJjev9ejg7A
-CATEGORIES:Softball,Girls,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/softball-26/pine-g
- rove-vs-potts-camp.htm?c=DFjNjVTMcUeuJjev9ejg7A
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xN1QwMDowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
- QgVW5pb24@autoschedule
-SEQUENCE:0
-DTSTAMP:20260416T064743
-DTSTART;TZID=America/Chicago:20260417T000000
-DTEND;TZID=America/Chicago:20260417T023000
-SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
-LOCATION:West Union\, Myrtle MS
-DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
- port: Boys Baseball\nSeason: Spring 25-26\n\nThe Falkner varsity baseball 
- team has a neutral playoff game vs.  West Union (Myrtle\, MS) on Friday\, 
- April 17.\n\nMaxPreps: https://www.maxpreps.com/games/04-17-2026/baseball-
- 26/falkner-vs-west-union.htm?c=m-fJfM90H02alkELEnSVeA
-CATEGORIES:Baseball,Boys,Falkner Eagles
-URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/falkne
- r-vs-west-union.htm?c=m-fJfM90H02alkELEnSVeA
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTE3VDE2OjAwOjAwLUJveXMtQmFzZWJhbGwtR3JlZW
  53b29k@autoschedule
 SEQUENCE:0
-DTSTAMP:20260416T064743
+DTSTAMP:20260417T064729
 DTSTART;TZID=America/Chicago:20260417T160000
 DTEND;TZID=America/Chicago:20260417T183000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers vs Greenwood Bulldogs
 LOCATION:Home - Ripley Tigers
 DESCRIPTION:Ripley Tigers Tigers\nHome game vs Greenwood (MS)\nSport: Boys
   Baseball\nSeason: Spring 25-26\n\nThe Greenwood varsity baseball team has
-  an away non-conference game @  Ripley (MS) on Friday\, April 17 @ 4p.\n\n
- MaxPreps: https://www.maxpreps.com/games/04-17-2026/baseball-26/greenwood-
- vs-ripley.htm?c=rvx_g0Oi2kiat4poxWRueQ
+  an away non-conference game @  Ripley (MS) today @ 4p.\n\nMaxPreps: https
+ ://www.maxpreps.com/games/04-17-2026/baseball-26/greenwood-vs-ripley.htm?c
+ =rvx_g0Oi2kiat4poxWRueQ
 CATEGORIES:Baseball,Boys,Ripley Tigers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/greenw
  ood-vs-ripley.htm?c=rvx_g0Oi2kiat4poxWRueQ
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTE3VDE2OjAwOjAwLUJveXMtQmFzZWJhbGwtR3JlZW
+ 53b29k@autoschedule
+SEQUENCE:0
+DTSTAMP:20260417T064729
+DTSTART;TZID=America/Chicago:20260417T160000
+DTEND;TZID=America/Chicago:20260417T183000
+SUMMARY:⚾ Boys Baseball: Ripley Tigers vs Greenwood Bulldogs
+LOCATION:Home - Ripley Tigers
+DESCRIPTION:Ripley Tigers Tigers\nHome game vs Greenwood (MS)\nSport: Boys
+  Baseball\nSeason: Spring 25-26\n\nThe Greenwood varsity baseball team has
+  an away playoff game @  Ripley (MS) today @ 4p.\n\nMaxPreps: https://www.
+ maxpreps.com/games/04-17-2026/baseball-26/greenwood-vs-ripley.htm?c=HcrcgG
+ GFOkWrUkDxArHjQw
+CATEGORIES:Baseball,Boys,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/greenw
+ ood-vs-ripley.htm?c=HcrcgGGFOkWrUkDxArHjQw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTE3VDE3OjAwOjAwLUdpcmxzLVNvZnRiYWxsLUdyZW
+ Vud29vZA@autoschedule
+SEQUENCE:0
+DTSTAMP:20260417T064729
+DTSTART;TZID=America/Chicago:20260417T170000
+DTEND;TZID=America/Chicago:20260417T190000
+SUMMARY:🥎 Girls Softball: Ripley Tigers @ Greenwood Bulldogs
+LOCATION:Greenwood\, Greenwood MS
+DESCRIPTION:Ripley Tigers Tigers\nAway game @ Greenwood (MS)\nSport: Girls
+  Softball\nSeason: Spring 25-26\n\nThe Greenwood varsity softball team has
+  a neutral playoff game vs.  Ripley (MS) today @ 5p.\n\nMaxPreps: https://
+ www.maxpreps.com/games/04-17-2026/softball-26/greenwood-vs-ripley.htm?c=wv
+ NTzsY76Ee3kOX126p9xg
+CATEGORIES:Softball,Girls,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/softball-26/greenw
+ ood-vs-ripley.htm?c=wvNTzsY76Ee3kOX126p9xg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE3VDE3OjAwOjAwLUJveXMtQmFzZWJhbG
  wtQnllcnM@autoschedule
 SEQUENCE:0
-DTSTAMP:20260416T064743
+DTSTAMP:20260417T064729
 DTSTART;TZID=America/Chicago:20260417T170000
 DTEND;TZID=America/Chicago:20260417T193000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Byers Lions
 LOCATION:Home - Pine Grove Panthers
 DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Byers (Holly Spring
  s\, MS)\nSport: Boys Baseball\nSeason: Spring 25-26\n\nThe Byers varsity b
- aseball team has an away non-conference game @  Pine Grove (Ripley\, MS) o
- n Friday\, April 17 @ 5p.\n\nMaxPreps: https://www.maxpreps.com/games/04-1
- 7-2026/baseball-26/byers-vs-pine-grove.htm?c=KOTHK0M3DUeY7H6rmhwQkQ
+ aseball team has an away non-conference game @  Pine Grove (Ripley\, MS) t
+ oday @ 5p.\n\nMaxPreps: https://www.maxpreps.com/games/04-17-2026/baseball
+ -26/byers-vs-pine-grove.htm?c=KOTHK0M3DUeY7H6rmhwQkQ
 CATEGORIES:Baseball,Boys,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/byers-
  vs-pine-grove.htm?c=KOTHK0M3DUeY7H6rmhwQkQ
@@ -146,16 +89,16 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMTdUMTc6MzA6MDAtR2lybHMtU29mdGJhbGwtTX
  lydGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260416T064743
+DTSTAMP:20260417T064729
 DTSTART;TZID=America/Chicago:20260417T173000
 DTEND;TZID=America/Chicago:20260417T193000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats vs Myrtle Hawks
 LOCATION:Home - Walnut Wildcats
 DESCRIPTION:Walnut Wildcats Wildcats\nHome game vs Myrtle (MS)\nSport: Gir
  ls Softball\nSeason: Spring 25-26\n\nThe Myrtle varsity softball team has 
- an away playoff game @  Walnut (MS) on Friday\, April 17 @ 5:30p.\n\nMaxPr
- eps: https://www.maxpreps.com/games/04-17-2026/softball-26/myrtle-vs-walnu
- t.htm?c=EGmRllxcpU2OwtHCKnfESw
+ an away playoff game @  Walnut (MS) today @ 5:30p.\n\nMaxPreps: https://ww
+ w.maxpreps.com/games/04-17-2026/softball-26/myrtle-vs-walnut.htm?c=EGmRllx
+ cpU2OwtHCKnfESw
 CATEGORIES:Softball,Girls,Walnut Wildcats
 URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/softball-26/myrtle
  -vs-walnut.htm?c=EGmRllxcpU2OwtHCKnfESw
@@ -165,35 +108,73 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTE3VDE4OjAwOjAwLUJveXMtQmFzZWJhbGwtR3JlZW
  53b29k@autoschedule
 SEQUENCE:0
-DTSTAMP:20260416T064743
+DTSTAMP:20260417T064729
 DTSTART;TZID=America/Chicago:20260417T180000
 DTEND;TZID=America/Chicago:20260417T203000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers vs Greenwood Bulldogs
 LOCATION:Home - Ripley Tigers
 DESCRIPTION:Ripley Tigers Tigers\nHome game vs Greenwood (MS)\nSport: Boys
   Baseball\nSeason: Spring 25-26\n\nThe Greenwood varsity baseball team has
-  an away non-conference game @  Ripley (MS) on Friday\, April 17 @ 6p.\n\n
- MaxPreps: https://www.maxpreps.com/games/04-17-2026/baseball-26/greenwood-
- vs-ripley.htm?c=XiP3oCdwLU6Df3sD7Qbmdg
+  an away non-conference game @  Ripley (MS) today @ 6p.\n\nMaxPreps: https
+ ://www.maxpreps.com/games/04-17-2026/baseball-26/greenwood-vs-ripley.htm?c
+ =XiP3oCdwLU6Df3sD7Qbmdg
 CATEGORIES:Baseball,Boys,Ripley Tigers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/greenw
  ood-vs-ripley.htm?c=XiP3oCdwLU6Df3sD7Qbmdg
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTE3VDE4OjAwOjAwLUJveXMtQmFzZWJhbGwtR3JlZW
+ 53b29k@autoschedule
+SEQUENCE:0
+DTSTAMP:20260417T064729
+DTSTART;TZID=America/Chicago:20260417T180000
+DTEND;TZID=America/Chicago:20260417T203000
+SUMMARY:⚾ Boys Baseball: Ripley Tigers vs Greenwood Bulldogs
+LOCATION:Home - Ripley Tigers
+DESCRIPTION:Ripley Tigers Tigers\nHome game vs Greenwood (MS)\nSport: Boys
+  Baseball\nSeason: Spring 25-26\n\nThe Greenwood varsity baseball team has
+  an away playoff game @  Ripley (MS) today @ 6p.\n\nMaxPreps: https://www.
+ maxpreps.com/games/04-17-2026/baseball-26/greenwood-vs-ripley.htm?c=OiNB-C
+ PgPUen-kKYjx9SVw
+CATEGORIES:Baseball,Boys,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/greenw
+ ood-vs-ripley.htm?c=OiNB-CPgPUen-kKYjx9SVw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTE3VDE5OjAwOjAwLUdpcmxzLVNvZnRiYWxsLUdyZW
+ Vud29vZA@autoschedule
+SEQUENCE:0
+DTSTAMP:20260417T064729
+DTSTART;TZID=America/Chicago:20260417T190000
+DTEND;TZID=America/Chicago:20260417T210000
+SUMMARY:🥎 Girls Softball: Ripley Tigers @ Greenwood Bulldogs
+LOCATION:Greenwood\, Greenwood MS
+DESCRIPTION:Ripley Tigers Tigers\nAway game @ Greenwood (MS)\nSport: Girls
+  Softball\nSeason: Spring 25-26\n\nThe Greenwood varsity softball team has
+  a neutral playoff game vs.  Ripley (MS) today @ 7p.\n\nMaxPreps: https://
+ www.maxpreps.com/games/04-17-2026/softball-26/greenwood-vs-ripley.htm?c=Ra
+ _msE8IukCIdIHDtSU3sg
+CATEGORIES:Softball,Girls,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/softball-26/greenw
+ ood-vs-ripley.htm?c=Ra_msE8IukCIdIHDtSU3sg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE3VDE5OjAwOjAwLUJveXMtQmFzZWJhbG
  wtQnllcnM@autoschedule
 SEQUENCE:0
-DTSTAMP:20260416T064743
+DTSTAMP:20260417T064729
 DTSTART;TZID=America/Chicago:20260417T190000
 DTEND;TZID=America/Chicago:20260417T213000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Byers Lions
 LOCATION:Home - Pine Grove Panthers
 DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Byers (Holly Spring
  s\, MS)\nSport: Boys Baseball\nSeason: Spring 25-26\n\nThe Byers varsity b
- aseball team has an away non-conference game @  Pine Grove (Ripley\, MS) o
- n Friday\, April 17 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-1
- 7-2026/baseball-26/byers-vs-pine-grove.htm?c=fFV1FYelj0u-G3HdliYYrw
+ aseball team has an away non-conference game @  Pine Grove (Ripley\, MS) t
+ oday @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-17-2026/baseball
+ -26/byers-vs-pine-grove.htm?c=fFV1FYelj0u-G3HdliYYrw
 CATEGORIES:Baseball,Boys,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/byers-
  vs-pine-grove.htm?c=fFV1FYelj0u-G3HdliYYrw
@@ -203,57 +184,105 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xN1QxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
  QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260416T064743
+DTSTAMP:20260417T064729
+DTSTART;TZID=America/Chicago:20260417T190000
+DTEND;TZID=America/Chicago:20260417T213000
+SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
+LOCATION:West Union\, Myrtle MS
+DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
+ port: Boys Baseball\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxprep
+ s.com
+CATEGORIES:Baseball,Boys,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xN1QxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
+ QgVW5pb24@autoschedule
+SEQUENCE:0
+DTSTAMP:20260417T064729
 DTSTART;TZID=America/Chicago:20260417T190000
 DTEND;TZID=America/Chicago:20260417T213000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
 LOCATION:West Union\, Myrtle MS
 DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
  port: Boys Baseball\nSeason: Spring 25-26\n\nThe Falkner varsity baseball 
- team has an away non-conference game @  West Union (Myrtle\, MS) on Friday
- \, April 17 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-17-2026/b
- aseball-26/falkner-vs-west-union.htm?c=smjhK6xBTEO-KiDoxaMVzQ
+ team has an away playoff game @  West Union (Myrtle\, MS) today @ 7p.\n\nM
+ axPreps: https://www.maxpreps.com/games/04-17-2026/baseball-26/falkner-vs-
+ west-union.htm?c=m-fJfM90H02alkELEnSVeA
 CATEGORIES:Baseball,Boys,Falkner Eagles
 URL;VALUE=URI:https://www.maxpreps.com/games/04-17-2026/baseball-26/falkne
- r-vs-west-union.htm?c=smjhK6xBTEO-KiDoxaMVzQ
+ r-vs-west-union.htm?c=m-fJfM90H02alkELEnSVeA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xOFQxNDowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
  QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260416T064743
+DTSTAMP:20260417T064729
 DTSTART;TZID=America/Chicago:20260418T140000
 DTEND;TZID=America/Chicago:20260418T163000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles vs West Union Eagles
 LOCATION:Home - Falkner Eagles
 DESCRIPTION:Falkner Eagles Eagles\nHome game vs West Union (Myrtle\, MS)\n
- Sport: Boys Baseball\nSeason: Spring 25-26\n\nThe West Union varsity baseb
- all team has an away non-conference game @  Falkner (MS) on Saturday\, Apr
- il 18 @ 2p.\n\nMaxPreps: https://www.maxpreps.com/games/04-18-2026/basebal
- l-26/falkner-vs-west-union.htm?c=NGE38ERFx0SMUBhS7sw-ZA
+ Sport: Boys Baseball\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxpre
+ ps.com
+CATEGORIES:Baseball,Boys,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xOFQxNDowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
+ QgVW5pb24@autoschedule
+SEQUENCE:0
+DTSTAMP:20260417T064729
+DTSTART;TZID=America/Chicago:20260418T140000
+DTEND;TZID=America/Chicago:20260418T163000
+SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
+LOCATION:West Union\, Myrtle MS
+DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
+ port: Boys Baseball\nSeason: Spring 25-26\n\nThe Falkner varsity baseball 
+ team has a neutral playoff game vs.  West Union (Myrtle\, MS) on Saturday\
+ , April 18 @ 2p.\n\nMaxPreps: https://www.maxpreps.com/games/04-18-2026/ba
+ seball-26/falkner-vs-west-union.htm?c=rT7EDWGRTk6d2DQ9LGPC1w
 CATEGORIES:Baseball,Boys,Falkner Eagles
 URL;VALUE=URI:https://www.maxpreps.com/games/04-18-2026/baseball-26/falkne
- r-vs-west-union.htm?c=NGE38ERFx0SMUBhS7sw-ZA
+ r-vs-west-union.htm?c=rT7EDWGRTk6d2DQ9LGPC1w
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0yMFQxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
  QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260416T064743
+DTSTAMP:20260417T064729
+DTSTART;TZID=America/Chicago:20260420T190000
+DTEND;TZID=America/Chicago:20260420T213000
+SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
+LOCATION:West Union\, Myrtle MS
+DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
+ port: Boys Baseball\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxprep
+ s.com
+CATEGORIES:Baseball,Boys,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0yMFQxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
+ QgVW5pb24@autoschedule
+SEQUENCE:0
+DTSTAMP:20260417T064729
 DTSTART;TZID=America/Chicago:20260420T190000
 DTEND;TZID=America/Chicago:20260420T213000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
 LOCATION:West Union\, Myrtle MS
 DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
  port: Boys Baseball\nSeason: Spring 25-26\n\nThe Falkner varsity baseball 
- team has an away non-conference game @  West Union (Myrtle\, MS) on Monday
- \, April 20 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-20-2026/b
- aseball-26/falkner-vs-west-union.htm?c=j5Lq8Ong4U-2EcMeZaNHnQ
+ team has an away playoff game @  West Union (Myrtle\, MS) on Monday\, Apri
+ l 20 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-20-2026/baseball
+ -26/falkner-vs-west-union.htm?c=EYqbWu9xrkq0fkhlEYs_Gw
 CATEGORIES:Baseball,Boys,Falkner Eagles
 URL;VALUE=URI:https://www.maxpreps.com/games/04-20-2026/baseball-26/falkne
- r-vs-west-union.htm?c=j5Lq8Ong4U-2EcMeZaNHnQ
+ r-vs-west-union.htm?c=EYqbWu9xrkq0fkhlEYs_Gw
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
