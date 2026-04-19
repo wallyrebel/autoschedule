@@ -10,95 +10,10 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE4VDEyOjAwOjAwLUdpcmxzLVNvZnRiYW
- xsLVBvdHRzIENhbXA@autoschedule
-SEQUENCE:0
-DTSTAMP:20260418T063504
-DTSTART;TZID=America/Chicago:20260418T120000
-DTEND;TZID=America/Chicago:20260418T140000
-SUMMARY:🥎 Girls Softball: Pine Grove Panthers vs Potts Camp Cardinals
-LOCATION:Home - Pine Grove Panthers
-DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Potts Camp (MS)\nSp
- ort: Girls Softball\nSeason: Spring 25-26\n\nThe Potts Camp varsity softba
- ll team has an away playoff game @  Pine Grove (Ripley\, MS) today @ 12p.\
- n\nMaxPreps: https://www.maxpreps.com/games/04-18-2026/softball-26/pine-gr
- ove-vs-potts-camp.htm?c=BacRSv-eyk6d7rYrw2zs3g
-CATEGORIES:Softball,Girls,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com/games/04-18-2026/softball-26/pine-g
- rove-vs-potts-camp.htm?c=BacRSv-eyk6d7rYrw2zs3g
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xOFQxNDowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
- QgVW5pb24@autoschedule
-SEQUENCE:0
-DTSTAMP:20260418T063504
-DTSTART;TZID=America/Chicago:20260418T140000
-DTEND;TZID=America/Chicago:20260418T163000
-SUMMARY:⚾ Boys Baseball: Falkner Eagles vs West Union Eagles
-LOCATION:Home - Falkner Eagles
-DESCRIPTION:Falkner Eagles Eagles\nHome game vs West Union (Myrtle\, MS)\n
- Sport: Boys Baseball\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxpre
- ps.com
-CATEGORIES:Baseball,Boys,Falkner Eagles
-URL;VALUE=URI:https://www.maxpreps.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0xOFQxNDowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
- QgVW5pb24@autoschedule
-SEQUENCE:0
-DTSTAMP:20260418T063504
-DTSTART;TZID=America/Chicago:20260418T140000
-DTEND;TZID=America/Chicago:20260418T163000
-SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
-LOCATION:West Union\, Myrtle MS
-DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
- port: Boys Baseball\nSeason: Spring 25-26\n\nThe Falkner varsity baseball 
- team has a neutral playoff game vs.  West Union (Myrtle\, MS) today @ 2p.\
- n\nMaxPreps: https://www.maxpreps.com/games/04-18-2026/baseball-26/falkner
- -vs-west-union.htm?c=rT7EDWGRTk6d2DQ9LGPC1w
-CATEGORIES:Baseball,Boys,Falkner Eagles
-URL;VALUE=URI:https://www.maxpreps.com/games/04-18-2026/baseball-26/falkne
- r-vs-west-union.htm?c=rT7EDWGRTk6d2DQ9LGPC1w
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDQtMThUMTQ6MDA6MDAtR2lybHMtU29mdGJhbGwtTX
- lydGxl@autoschedule
-SEQUENCE:0
-DTSTAMP:20260418T063504
-DTSTART;TZID=America/Chicago:20260418T140000
-DTEND;TZID=America/Chicago:20260418T160000
-SUMMARY:🥎 Girls Softball: Walnut Wildcats @ Myrtle Hawks
-LOCATION:Myrtle\, Myrtle MS
-DESCRIPTION:Walnut Wildcats Wildcats\nAway game @ Myrtle (MS)\nSport: Girl
- s Softball\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxpreps.com
-CATEGORIES:Softball,Girls,Walnut Wildcats
-URL;VALUE=URI:https://www.maxpreps.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTE4VDE5OjAwOjAwLUJveXMtQmFzZWJhbG
- wtQnllcnM@autoschedule
-SEQUENCE:0
-DTSTAMP:20260418T063504
-DTSTART;TZID=America/Chicago:20260418T190000
-DTEND;TZID=America/Chicago:20260418T213000
-SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Byers Lions
-LOCATION:Byers\, Holly Springs MS
-DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Byers (Holly Springs
- \, MS)\nSport: Boys Baseball\nSeason: Spring 25-26\n\nMaxPreps: https://ww
- w.maxpreps.com
-CATEGORIES:Baseball,Boys,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIwVDE3OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLVBvdHRzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260418T063504
+DTSTAMP:20260419T064315
 DTSTART;TZID=America/Chicago:20260420T173000
 DTEND;TZID=America/Chicago:20260420T193000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Potts Camp Cardinals
@@ -114,10 +29,48 @@ URL;VALUE=URI:https://www.maxpreps.com/games/04-20-2026/softball-26/pine-g
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIwVDE4OjAwOjAwLUdpcmxzLVNvZnRiYW
+ xsLVBvdHRzIENhbXA@autoschedule
+SEQUENCE:0
+DTSTAMP:20260419T064315
+DTSTART;TZID=America/Chicago:20260420T180000
+DTEND;TZID=America/Chicago:20260420T200000
+SUMMARY:🥎 Girls Softball: Pine Grove Panthers vs Potts Camp Cardinals
+LOCATION:Home - Pine Grove Panthers
+DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Potts Camp (MS)\nSp
+ ort: Girls Softball\nSeason: Spring 25-26\n\nThe Potts Camp varsity softba
+ ll team has an away playoff game @  Pine Grove (Ripley\, MS) on Monday\, A
+ pril 20 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-20-2026/softb
+ all-26/pine-grove-vs-potts-camp.htm?c=BacRSv-eyk6d7rYrw2zs3g
+CATEGORIES:Softball,Girls,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-20-2026/softball-26/pine-g
+ rove-vs-potts-camp.htm?c=BacRSv-eyk6d7rYrw2zs3g
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0yMFQxODowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
+ QgVW5pb24@autoschedule
+SEQUENCE:0
+DTSTAMP:20260419T064315
+DTSTART;TZID=America/Chicago:20260420T180000
+DTEND;TZID=America/Chicago:20260420T203000
+SUMMARY:⚾ Boys Baseball: Falkner Eagles vs West Union Eagles
+LOCATION:Home - Falkner Eagles
+DESCRIPTION:Falkner Eagles Eagles\nHome game vs West Union (Myrtle\, MS)\n
+ Sport: Boys Baseball\nSeason: Spring 25-26\n\nThe West Union varsity baseb
+ all team has an away playoff game @  Falkner (MS) on Monday\, April 20 @ 6
+ p.\n\nMaxPreps: https://www.maxpreps.com/games/04-20-2026/baseball-26/falk
+ ner-vs-west-union.htm?c=EYqbWu9xrkq0fkhlEYs_Gw
+CATEGORIES:Baseball,Boys,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/04-20-2026/baseball-26/falkne
+ r-vs-west-union.htm?c=EYqbWu9xrkq0fkhlEYs_Gw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIwVDE5OjAwOjAwLUJveXMtQmFzZWJhbG
  wtQnllcnM@autoschedule
 SEQUENCE:0
-DTSTAMP:20260418T063504
+DTSTAMP:20260419T064315
 DTSTART;TZID=America/Chicago:20260420T190000
 DTEND;TZID=America/Chicago:20260420T213000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Byers Lions
@@ -133,7 +86,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0yMFQxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
  QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260418T063504
+DTSTAMP:20260419T064315
 DTSTART;TZID=America/Chicago:20260420T190000
 DTEND;TZID=America/Chicago:20260420T213000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
@@ -146,29 +99,10 @@ URL;VALUE=URI:https://www.maxpreps.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0yMFQxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
- QgVW5pb24@autoschedule
-SEQUENCE:0
-DTSTAMP:20260418T063504
-DTSTART;TZID=America/Chicago:20260420T190000
-DTEND;TZID=America/Chicago:20260420T213000
-SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
-LOCATION:West Union\, Myrtle MS
-DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
- port: Boys Baseball\nSeason: Spring 25-26\n\nThe Falkner varsity baseball 
- team has an away playoff game @  West Union (Myrtle\, MS) on Monday\, Apri
- l 20 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-20-2026/baseball
- -26/falkner-vs-west-union.htm?c=EYqbWu9xrkq0fkhlEYs_Gw
-CATEGORIES:Baseball,Boys,Falkner Eagles
-URL;VALUE=URI:https://www.maxpreps.com/games/04-20-2026/baseball-26/falkne
- r-vs-west-union.htm?c=EYqbWu9xrkq0fkhlEYs_Gw
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA1LTE1VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQWJlcm
  RlZW4@autoschedule
 SEQUENCE:0
-DTSTAMP:20260418T063504
+DTSTAMP:20260419T064315
 DTSTART;TZID=America/Chicago:20260515T190000
 DTEND;TZID=America/Chicago:20260515T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Aberdeen Bulldogs
