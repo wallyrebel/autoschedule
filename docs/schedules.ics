@@ -10,118 +10,83 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIwVDE4OjAwOjAwLUdpcmxzLVNvZnRiYW
- xsLVBvdHRzIENhbXA@autoschedule
-SEQUENCE:0
-DTSTAMP:20260420T065622
-DTSTART;TZID=America/Chicago:20260420T180000
-DTEND;TZID=America/Chicago:20260420T200000
-SUMMARY:🥎 Girls Softball: Pine Grove Panthers vs Potts Camp Cardinals
-LOCATION:Home - Pine Grove Panthers
-DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Potts Camp (MS)\nSp
- ort: Girls Softball\nSeason: Spring 25-26\n\nThe Potts Camp varsity softba
- ll team has an away playoff game @  Pine Grove (Ripley\, MS) today @ 6p.\n
- \nMaxPreps: https://www.maxpreps.com/games/04-20-2026/softball-26/pine-gro
- ve-vs-potts-camp.htm?c=BacRSv-eyk6d7rYrw2zs3g
-CATEGORIES:Softball,Girls,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com/games/04-20-2026/softball-26/pine-g
- rove-vs-potts-camp.htm?c=BacRSv-eyk6d7rYrw2zs3g
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0yMFQxODowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
- QgVW5pb24@autoschedule
-SEQUENCE:0
-DTSTAMP:20260420T065622
-DTSTART;TZID=America/Chicago:20260420T180000
-DTEND;TZID=America/Chicago:20260420T203000
-SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
-LOCATION:West Union\, Myrtle MS
-DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
- port: Boys Baseball\nSeason: Spring 25-26\n\nThe Falkner varsity baseball 
- team has a neutral playoff game vs.  West Union (Myrtle\, MS) today @ 6p.\
- n\nMaxPreps: https://www.maxpreps.com/games/04-20-2026/baseball-26/falkner
- -vs-west-union.htm?c=rT7EDWGRTk6d2DQ9LGPC1w
-CATEGORIES:Baseball,Boys,Falkner Eagles
-URL;VALUE=URI:https://www.maxpreps.com/games/04-20-2026/baseball-26/falkne
- r-vs-west-union.htm?c=rT7EDWGRTk6d2DQ9LGPC1w
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIwVDE5OjAwOjAwLUJveXMtQmFzZWJhbG
- wtQnllcnM@autoschedule
-SEQUENCE:0
-DTSTAMP:20260420T065622
-DTSTART;TZID=America/Chicago:20260420T190000
-DTEND;TZID=America/Chicago:20260420T213000
-SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Byers Lions
-LOCATION:Byers\, Holly Springs MS
-DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Byers (Holly Springs
- \, MS)\nSport: Boys Baseball\nSeason: Spring 25-26\n\nMaxPreps: https://ww
- w.maxpreps.com
-CATEGORIES:Baseball,Boys,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0yMFQxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
- QgVW5pb24@autoschedule
-SEQUENCE:0
-DTSTAMP:20260420T065622
-DTSTART;TZID=America/Chicago:20260420T190000
-DTEND;TZID=America/Chicago:20260420T213000
-SUMMARY:⚾ Boys Baseball: Falkner Eagles @ West Union Eagles
-LOCATION:West Union\, Myrtle MS
-DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
- port: Boys Baseball\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxprep
- s.com
-CATEGORIES:Baseball,Boys,Falkner Eagles
-URL;VALUE=URI:https://www.maxpreps.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIxVDE3OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLVBvdHRzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260420T065622
+DTSTAMP:20260421T064759
 DTSTART;TZID=America/Chicago:20260421T173000
 DTEND;TZID=America/Chicago:20260421T193000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Potts Camp Cardinals
 LOCATION:Potts Camp\, Potts Camp MS
 DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Potts Camp (MS)\nSpo
- rt: Girls Softball\nSeason: Spring 25-26\n\nThe Pine Grove varsity softbal
- l team has a neutral playoff game vs.  Potts Camp (MS) on Tuesday\, April 
- 21 @ 5:30p.\n\nMaxPreps: https://www.maxpreps.com/games/04-21-2026/softbal
- l-26/pine-grove-vs-potts-camp.htm?c=Jl559y7hoEiYKL_GelTWlA
+ rt: Girls Softball\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxpreps
+ .com
 CATEGORIES:Softball,Girls,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com/games/04-21-2026/softball-26/pine-g
- rove-vs-potts-camp.htm?c=Jl559y7hoEiYKL_GelTWlA
+URL;VALUE=URI:https://www.maxpreps.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:RmFsa25lciBFYWdsZXMtMjAyNi0wNC0yMVQxOTowMDowMC1Cb3lzLUJhc2ViYWxsLVdlc3
- QgVW5pb24@autoschedule
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIzVDE4OjAwOjAwLUdpcmxzLVNvZnRiYW
+ xsLVZhcmRhbWFu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260420T065622
-DTSTART;TZID=America/Chicago:20260421T190000
-DTEND;TZID=America/Chicago:20260421T213000
-SUMMARY:⚾ Boys Baseball: Falkner Eagles vs West Union Eagles
-LOCATION:Home - Falkner Eagles
-DESCRIPTION:Falkner Eagles Eagles\nHome game vs West Union (Myrtle\, MS)\n
- Sport: Boys Baseball\nSeason: Spring 25-26\n\nThe West Union varsity baseb
- all team has an away playoff game @  Falkner (MS) on Tuesday\, April 21 @ 
- 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-21-2026/baseball-26/fal
- kner-vs-west-union.htm?c=EYqbWu9xrkq0fkhlEYs_Gw
-CATEGORIES:Baseball,Boys,Falkner Eagles
-URL;VALUE=URI:https://www.maxpreps.com/games/04-21-2026/baseball-26/falkne
- r-vs-west-union.htm?c=EYqbWu9xrkq0fkhlEYs_Gw
+DTSTAMP:20260421T064759
+DTSTART;TZID=America/Chicago:20260423T180000
+DTEND;TZID=America/Chicago:20260423T200000
+SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Vardaman Rams
+LOCATION:Vardaman\, Vardaman MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Vardaman (MS)\nSport
+ : Girls Softball\nSeason: Spring 25-26\n\nThe Pine Grove varsity softball 
+ team has a neutral playoff game vs.  Vardaman (MS) on Thursday\, April 23 
+ @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-23-2026/softball-26/p
+ ine-grove-vs-vardaman.htm?c=957kUx-L1k-4786lENPI8w
+CATEGORIES:Softball,Girls,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-23-2026/softball-26/pine-g
+ rove-vs-vardaman.htm?c=957kUx-L1k-4786lENPI8w
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIzVDE4OjAwOjAwLUdpcmxzLVNvZnRiYW
+ xsLVZhcmRhbWFu@autoschedule
+SEQUENCE:0
+DTSTAMP:20260421T064759
+DTSTART;TZID=America/Chicago:20260423T180000
+DTEND;TZID=America/Chicago:20260423T200000
+SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Vardaman Rams
+LOCATION:Vardaman\, Vardaman MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Vardaman (MS)\nSport
+ : Girls Softball\nSeason: Spring 25-26\n\nThe Pine Grove varsity softball 
+ team has a neutral playoff game vs.  Vardaman (MS) on Thursday\, April 23 
+ @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-23-2026/softball-26/p
+ ine-grove-vs-vardaman.htm?c=UvkErKTFX0SmpMXFWPMigw
+CATEGORIES:Softball,Girls,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-23-2026/softball-26/pine-g
+ rove-vs-vardaman.htm?c=UvkErKTFX0SmpMXFWPMigw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIzVDE4OjAwOjAwLUdpcmxzLVNvZnRiYW
+ xsLVZhcmRhbWFu@autoschedule
+SEQUENCE:0
+DTSTAMP:20260421T064759
+DTSTART;TZID=America/Chicago:20260423T180000
+DTEND;TZID=America/Chicago:20260423T200000
+SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Vardaman Rams
+LOCATION:Vardaman\, Vardaman MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Vardaman (MS)\nSport
+ : Girls Softball\nSeason: Spring 25-26\n\nThe Pine Grove varsity softball 
+ team has a neutral playoff game vs.  Vardaman (MS) on Thursday\, April 23 
+ @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-23-2026/softball-26/p
+ ine-grove-vs-vardaman.htm?c=-ql-8Og7V0-UDlXo4MUfBg
+CATEGORIES:Softball,Girls,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-23-2026/softball-26/pine-g
+ rove-vs-vardaman.htm?c=-ql-8Og7V0-UDlXo4MUfBg
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA1LTE1VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQWJlcm
  RlZW4@autoschedule
 SEQUENCE:0
-DTSTAMP:20260420T065622
+DTSTAMP:20260421T064759
 DTSTART;TZID=America/Chicago:20260515T190000
 DTEND;TZID=America/Chicago:20260515T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Aberdeen Bulldogs
