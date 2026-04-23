@@ -13,16 +13,16 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIzVDE3OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLVZhcmRhbWFu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260422T064742
+DTSTAMP:20260423T064821
 DTSTART;TZID=America/Chicago:20260423T173000
 DTEND;TZID=America/Chicago:20260423T193000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Vardaman Rams
 LOCATION:Vardaman\, Vardaman MS
 DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Vardaman (MS)\nSport
  : Girls Softball\nSeason: Spring 25-26\n\nThe Pine Grove varsity softball 
- team has an away playoff game @  Vardaman (MS) on Thursday\, April 23 @ 5:
- 30p.\n\nMaxPreps: https://www.maxpreps.com/games/04-23-2026/softball-26/pi
- ne-grove-vs-vardaman.htm?c=957kUx-L1k-4786lENPI8w
+ team has an away playoff game @  Vardaman (MS) today @ 5:30p.\n\nMaxPreps:
+  https://www.maxpreps.com/games/04-23-2026/softball-26/pine-grove-vs-varda
+ man.htm?c=957kUx-L1k-4786lENPI8w
 CATEGORIES:Softball,Girls,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-23-2026/softball-26/pine-g
  rove-vs-vardaman.htm?c=957kUx-L1k-4786lENPI8w
@@ -32,26 +32,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIzVDE4OjAwOjAwLUJveXMtQmFzZWJhbG
  wtU21pdGh2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260422T064742
-DTSTART;TZID=America/Chicago:20260423T180000
-DTEND;TZID=America/Chicago:20260423T203000
-SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Smithville Seminoles
-LOCATION:Home - Pine Grove Panthers
-DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Smithville (MS)\nSp
- ort: Boys Baseball\nSeason: Spring 25-26\n\nThe Smithville varsity basebal
- l team has an away non-conference game @  Pine Grove (Ripley\, MS) on Thur
- sday\, April 23 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-23-20
- 26/baseball-26/pine-grove-vs-smithville.htm?c=cXCvYdk9SE2oIy3CtQ7Cig
-CATEGORIES:Baseball,Boys,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com/games/04-23-2026/baseball-26/pine-g
- rove-vs-smithville.htm?c=cXCvYdk9SE2oIy3CtQ7Cig
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIzVDE4OjAwOjAwLUJveXMtQmFzZWJhbG
- wtU21pdGh2aWxsZQ@autoschedule
-SEQUENCE:0
-DTSTAMP:20260422T064742
+DTSTAMP:20260423T064821
 DTSTART;TZID=America/Chicago:20260423T180000
 DTEND;TZID=America/Chicago:20260423T203000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Smithville Seminoles
@@ -64,19 +45,38 @@ URL;VALUE=URI:https://www.maxpreps.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIzVDE4OjAwOjAwLUJveXMtQmFzZWJhbG
+ wtU21pdGh2aWxsZQ@autoschedule
+SEQUENCE:0
+DTSTAMP:20260423T064821
+DTSTART;TZID=America/Chicago:20260423T180000
+DTEND;TZID=America/Chicago:20260423T203000
+SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Smithville Seminoles
+LOCATION:Home - Pine Grove Panthers
+DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Smithville (MS)\nSp
+ ort: Boys Baseball\nSeason: Spring 25-26\n\nThe Smithville varsity basebal
+ l team has an away playoff game @  Pine Grove (Ripley\, MS) today @ 6p.\n\
+ nMaxPreps: https://www.maxpreps.com/games/04-23-2026/baseball-26/pine-grov
+ e-vs-smithville.htm?c=cXCvYdk9SE2oIy3CtQ7Cig
+CATEGORIES:Baseball,Boys,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-23-2026/baseball-26/pine-g
+ rove-vs-smithville.htm?c=cXCvYdk9SE2oIy3CtQ7Cig
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIzVDE4OjAwOjAwLUdpcmxzLVNvZnRiYW
  xsLVZhcmRhbWFu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260422T064742
+DTSTAMP:20260423T064821
 DTSTART;TZID=America/Chicago:20260423T180000
 DTEND;TZID=America/Chicago:20260423T200000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Vardaman Rams
 LOCATION:Vardaman\, Vardaman MS
 DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Vardaman (MS)\nSport
  : Girls Softball\nSeason: Spring 25-26\n\nThe Pine Grove varsity softball 
- team has a neutral playoff game vs.  Vardaman (MS) on Thursday\, April 23 
- @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-23-2026/softball-26/p
- ine-grove-vs-vardaman.htm?c=UvkErKTFX0SmpMXFWPMigw
+ team has a neutral playoff game vs.  Vardaman (MS) today @ 6p.\n\nMaxPreps
+ : https://www.maxpreps.com/games/04-23-2026/softball-26/pine-grove-vs-vard
+ aman.htm?c=UvkErKTFX0SmpMXFWPMigw
 CATEGORIES:Softball,Girls,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-23-2026/softball-26/pine-g
  rove-vs-vardaman.htm?c=UvkErKTFX0SmpMXFWPMigw
@@ -86,54 +86,92 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTIzVDE4OjAwOjAwLUdpcmxzLVNvZnRiYW
  xsLVZhcmRhbWFu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260422T064742
+DTSTAMP:20260423T064821
 DTSTART;TZID=America/Chicago:20260423T180000
 DTEND;TZID=America/Chicago:20260423T200000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Vardaman Rams
 LOCATION:Vardaman\, Vardaman MS
 DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Vardaman (MS)\nSport
  : Girls Softball\nSeason: Spring 25-26\n\nThe Pine Grove varsity softball 
- team has a neutral playoff game vs.  Vardaman (MS) on Thursday\, April 23 
- @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-23-2026/softball-26/p
- ine-grove-vs-vardaman.htm?c=-ql-8Og7V0-UDlXo4MUfBg
+ team has a neutral playoff game vs.  Vardaman (MS) today @ 6p.\n\nMaxPreps
+ : https://www.maxpreps.com/games/04-23-2026/softball-26/pine-grove-vs-vard
+ aman.htm?c=-ql-8Og7V0-UDlXo4MUfBg
 CATEGORIES:Softball,Girls,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-23-2026/softball-26/pine-g
  rove-vs-vardaman.htm?c=-ql-8Og7V0-UDlXo4MUfBg
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTIzVDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLUFtb3
+ J5@autoschedule
+SEQUENCE:0
+DTSTAMP:20260423T064821
+DTSTART;TZID=America/Chicago:20260423T183000
+DTEND;TZID=America/Chicago:20260423T203000
+SUMMARY:🥎 Girls Softball: Ripley Tigers vs Amory Panthers
+LOCATION:Home - Ripley Tigers
+DESCRIPTION:Ripley Tigers Tigers\nHome game vs Amory (MS)\nSport: Girls So
+ ftball\nSeason: Spring 25-26\n\nThe Amory varsity softball team has an awa
+ y playoff game @  Ripley (MS) today @ 6:30p.\n\nMaxPreps: https://www.maxp
+ reps.com/games/04-23-2026/softball-26/amory-vs-ripley.htm?c=JyyDPSf0g0uik8
+ wWidnUGA
+CATEGORIES:Softball,Girls,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-23-2026/softball-26/amory-
+ vs-ripley.htm?c=JyyDPSf0g0uik8wWidnUGA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTIzVDE5OjAwOjAwLUJveXMtQmFzZWJhbGwtTm9ydG
  ggUG9udG90b2M@autoschedule
 SEQUENCE:0
-DTSTAMP:20260422T064742
+DTSTAMP:20260423T064821
 DTSTART;TZID=America/Chicago:20260423T190000
 DTEND;TZID=America/Chicago:20260423T213000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers vs North Pontotoc Vikings
 LOCATION:Home - Ripley Tigers
 DESCRIPTION:Ripley Tigers Tigers\nHome game vs North Pontotoc (Ecru\, MS)\
  nSport: Boys Baseball\nSeason: Spring 25-26\n\nThe North Pontotoc varsity 
- baseball team has an away non-conference game @  Ripley (MS) on Thursday\,
-  April 23 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-23-2026/bas
- eball-26/north-pontotoc-vs-ripley.htm?c=ntGvDsuS2USwKjAUnr_QQA
+ baseball team has an away playoff game @  Ripley (MS) today @ 7p.\n\nMaxPr
+ eps: https://www.maxpreps.com/games/04-23-2026/baseball-26/north-pontotoc-
+ vs-ripley.htm?c=ntGvDsuS2USwKjAUnr_QQA
 CATEGORIES:Baseball,Boys,Ripley Tigers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-23-2026/baseball-26/north-
  pontotoc-vs-ripley.htm?c=ntGvDsuS2USwKjAUnr_QQA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTI0VDE4OjAwOjAwLUdpcmxzLVNvZnRiYWxsLUFtb3
+ J5@autoschedule
+SEQUENCE:0
+DTSTAMP:20260423T064821
+DTSTART;TZID=America/Chicago:20260424T180000
+DTEND;TZID=America/Chicago:20260424T200000
+SUMMARY:🥎 Girls Softball: Ripley Tigers @ Amory Panthers
+LOCATION:Amory\, Amory MS
+DESCRIPTION:Ripley Tigers Tigers\nAway game @ Amory (MS)\nSport: Girls Sof
+ tball\nSeason: Spring 25-26\n\nThe Ripley varsity softball team has an awa
+ y playoff game @  Amory (MS) on Friday\, April 24 @ 6p.\n\nMaxPreps: https
+ ://www.maxpreps.com/games/04-24-2026/softball-26/amory-vs-ripley.htm?c=obi
+ _auvZB0m8p-JUh4vkoA
+CATEGORIES:Softball,Girls,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-24-2026/softball-26/amory-
+ vs-ripley.htm?c=obi_auvZB0m8p-JUh4vkoA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTI0VDE5OjAwOjAwLUJveXMtQmFzZWJhbGwtTm9ydG
  ggUG9udG90b2M@autoschedule
 SEQUENCE:0
-DTSTAMP:20260422T064742
+DTSTAMP:20260423T064821
 DTSTART;TZID=America/Chicago:20260424T190000
 DTEND;TZID=America/Chicago:20260424T213000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers @ North Pontotoc Vikings
 LOCATION:North Pontotoc\, Ecru MS
 DESCRIPTION:Ripley Tigers Tigers\nAway game @ North Pontotoc (Ecru\, MS)\n
  Sport: Boys Baseball\nSeason: Spring 25-26\n\nThe Ripley varsity baseball 
- team has an away non-conference game @  North Pontotoc (Ecru\, MS) on Frid
- ay\, April 24 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-24-2026
- /baseball-26/north-pontotoc-vs-ripley.htm?c=rblK8WAsbEuzdzGCahBiRA
+ team has an away playoff game @  North Pontotoc (Ecru\, MS) on Friday\, Ap
+ ril 24 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-24-2026/baseba
+ ll-26/north-pontotoc-vs-ripley.htm?c=rblK8WAsbEuzdzGCahBiRA
 CATEGORIES:Baseball,Boys,Ripley Tigers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-24-2026/baseball-26/north-
  pontotoc-vs-ripley.htm?c=rblK8WAsbEuzdzGCahBiRA
@@ -143,16 +181,16 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTI0VDE5OjAwOjAwLUJveXMtQmFzZWJhbG
  wtU21pdGh2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260422T064742
+DTSTAMP:20260423T064821
 DTSTART;TZID=America/Chicago:20260424T190000
 DTEND;TZID=America/Chicago:20260424T213000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Smithville Seminoles
 LOCATION:Smithville\, Smithville MS
 DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Smithville (MS)\nSpo
  rt: Boys Baseball\nSeason: Spring 25-26\n\nThe Pine Grove varsity baseball
-  team has an away non-conference game @  Smithville (MS) on Friday\, April
-  24 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/04-24-2026/baseball-
- 26/pine-grove-vs-smithville.htm?c=Y8duyGlb_0O7hct5UUfDzg
+  team has an away playoff game @  Smithville (MS) on Friday\, April 24 @ 7
+ p.\n\nMaxPreps: https://www.maxpreps.com/games/04-24-2026/baseball-26/pine
+ -grove-vs-smithville.htm?c=Y8duyGlb_0O7hct5UUfDzg
 CATEGORIES:Baseball,Boys,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-24-2026/baseball-26/pine-g
  rove-vs-smithville.htm?c=Y8duyGlb_0O7hct5UUfDzg
@@ -162,26 +200,64 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTI1VDE0OjAwOjAwLUJveXMtQmFzZWJhbGwtTm9ydG
  ggUG9udG90b2M@autoschedule
 SEQUENCE:0
-DTSTAMP:20260422T064742
+DTSTAMP:20260423T064821
 DTSTART;TZID=America/Chicago:20260425T140000
 DTEND;TZID=America/Chicago:20260425T163000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers vs North Pontotoc Vikings
 LOCATION:Home - Ripley Tigers
 DESCRIPTION:Ripley Tigers Tigers\nHome game vs North Pontotoc (Ecru\, MS)\
  nSport: Boys Baseball\nSeason: Spring 25-26\n\nThe North Pontotoc varsity 
- baseball team has an away non-conference game @  Ripley (MS) on Saturday\,
-  April 25 @ 2p.\n\nMaxPreps: https://www.maxpreps.com/games/04-25-2026/bas
- eball-26/north-pontotoc-vs-ripley.htm?c=yhjNLYdxr0-zElYQhu_UPA
+ baseball team has an away playoff game @  Ripley (MS) on Saturday\, April 
+ 25 @ 2p.\n\nMaxPreps: https://www.maxpreps.com/games/04-25-2026/baseball-2
+ 6/north-pontotoc-vs-ripley.htm?c=yhjNLYdxr0-zElYQhu_UPA
 CATEGORIES:Baseball,Boys,Ripley Tigers
 URL;VALUE=URI:https://www.maxpreps.com/games/04-25-2026/baseball-26/north-
  pontotoc-vs-ripley.htm?c=yhjNLYdxr0-zElYQhu_UPA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTI3VDE4OjAwOjAwLUdpcmxzLVNvZnRiYWxsLUFtb3
+ J5@autoschedule
+SEQUENCE:0
+DTSTAMP:20260423T064821
+DTSTART;TZID=America/Chicago:20260427T180000
+DTEND;TZID=America/Chicago:20260427T200000
+SUMMARY:🥎 Girls Softball: Ripley Tigers vs Amory Panthers
+LOCATION:Home - Ripley Tigers
+DESCRIPTION:Ripley Tigers Tigers\nHome game vs Amory (MS)\nSport: Girls So
+ ftball\nSeason: Spring 25-26\n\nThe Amory varsity softball team has an awa
+ y playoff game @  Ripley (MS) on Monday\, April 27 @ 6p.\n\nMaxPreps: http
+ s://www.maxpreps.com/games/04-27-2026/softball-26/amory-vs-ripley.htm?c=_V
+ iyU1FslUa6ZyYxi1QJDA
+CATEGORIES:Softball,Girls,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-27-2026/softball-26/amory-
+ vs-ripley.htm?c=_ViyU1FslUa6ZyYxi1QJDA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTI3VDE4OjAwOjAwLUJveXMtQmFzZWJhbG
+ wtU21pdGh2aWxsZQ@autoschedule
+SEQUENCE:0
+DTSTAMP:20260423T064821
+DTSTART;TZID=America/Chicago:20260427T180000
+DTEND;TZID=America/Chicago:20260427T203000
+SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Smithville Seminoles
+LOCATION:Smithville\, Smithville MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Smithville (MS)\nSpo
+ rt: Boys Baseball\nSeason: Spring 25-26\n\nThe Smithville varsity baseball
+  team has a neutral playoff game vs.  Pine Grove (Ripley\, MS) on Monday\,
+  April 27 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/04-27-2026/bas
+ eball-26/pine-grove-vs-smithville.htm?c=ywFzAUDiA0ubGlb0s51dDw
+CATEGORIES:Baseball,Boys,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-27-2026/baseball-26/pine-g
+ rove-vs-smithville.htm?c=ywFzAUDiA0ubGlb0s51dDw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA1LTE1VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQWJlcm
  RlZW4@autoschedule
 SEQUENCE:0
-DTSTAMP:20260422T064742
+DTSTAMP:20260423T064821
 DTSTART;TZID=America/Chicago:20260515T190000
 DTEND;TZID=America/Chicago:20260515T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Aberdeen Bulldogs
