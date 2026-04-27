@@ -13,7 +13,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTI3VDE4OjAwOjAwLUdpcmxzLVNvZnRiYWxsLUFtb3
  J5@autoschedule
 SEQUENCE:0
-DTSTAMP:20260426T064711
+DTSTAMP:20260427T070420
 DTSTART;TZID=America/Chicago:20260427T180000
 DTEND;TZID=America/Chicago:20260427T200000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Amory Panthers
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTI3VDE4OjAwOjAwLUJveXMtQmFzZWJhbG
  wtU21pdGh2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260426T064711
+DTSTAMP:20260427T070420
 DTSTART;TZID=America/Chicago:20260427T180000
 DTEND;TZID=America/Chicago:20260427T203000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Smithville Seminoles
@@ -41,10 +41,29 @@ URL;VALUE=URI:https://www.maxpreps.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA1LTAyVDE5OjAwOjAwLUJveXMtQmFzZWJhbG
+ wtV2VzdCBVbmlvbg@autoschedule
+SEQUENCE:0
+DTSTAMP:20260427T070420
+DTSTART;TZID=America/Chicago:20260502T190000
+DTEND;TZID=America/Chicago:20260502T213000
+SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ West Union Eagles
+LOCATION:West Union\, Myrtle MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ West Union (Myrtle\,
+  MS)\nSport: Boys Baseball\nSeason: Spring 25-26\n\nThe Pine Grove varsity
+  baseball team has an away non-conference game @  West Union (Myrtle\, MS)
+  on Saturday\, May 2 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/05-
+ 02-2026/baseball-26/pine-grove-vs-west-union.htm?c=Hvbb7wO3ZEWNUBnG6PaD_Q
+CATEGORIES:Baseball,Boys,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/05-02-2026/baseball-26/pine-g
+ rove-vs-west-union.htm?c=Hvbb7wO3ZEWNUBnG6PaD_Q
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA1LTE1VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQWJlcm
  RlZW4@autoschedule
 SEQUENCE:0
-DTSTAMP:20260426T064711
+DTSTAMP:20260427T070420
 DTSTART;TZID=America/Chicago:20260515T190000
 DTEND;TZID=America/Chicago:20260515T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Aberdeen Bulldogs
