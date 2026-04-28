@@ -10,41 +10,29 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA0LTI3VDE4OjAwOjAwLUdpcmxzLVNvZnRiYWxsLUFtb3
- J5@autoschedule
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA1LTAxVDE4OjAwOjAwLUJveXMtQmFzZWJhbG
+ wtV2VzdCBVbmlvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260427T070420
-DTSTART;TZID=America/Chicago:20260427T180000
-DTEND;TZID=America/Chicago:20260427T200000
-SUMMARY:🥎 Girls Softball: Ripley Tigers vs Amory Panthers
-LOCATION:Home - Ripley Tigers
-DESCRIPTION:Ripley Tigers Tigers\nHome game vs Amory (MS)\nSport: Girls So
- ftball\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxpreps.com
-CATEGORIES:Softball,Girls,Ripley Tigers
-URL;VALUE=URI:https://www.maxpreps.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA0LTI3VDE4OjAwOjAwLUJveXMtQmFzZWJhbG
- wtU21pdGh2aWxsZQ@autoschedule
-SEQUENCE:0
-DTSTAMP:20260427T070420
-DTSTART;TZID=America/Chicago:20260427T180000
-DTEND;TZID=America/Chicago:20260427T203000
-SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Smithville Seminoles
-LOCATION:Smithville\, Smithville MS
-DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Smithville (MS)\nSpo
- rt: Boys Baseball\nSeason: Spring 25-26\n\nMaxPreps: https://www.maxpreps.
- com
+DTSTAMP:20260428T070430
+DTSTART;TZID=America/Chicago:20260501T180000
+DTEND;TZID=America/Chicago:20260501T203000
+SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs West Union Eagles
+LOCATION:Home - Pine Grove Panthers
+DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs West Union (Myrtle\
+ , MS)\nSport: Boys Baseball\nSeason: Spring 25-26\n\nThe West Union varsit
+ y baseball team has an away non-conference game @  Pine Grove (Ripley\, MS
+ ) on Friday\, May 1 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/05-0
+ 1-2026/baseball-26/pine-grove-vs-west-union.htm?c=2AzCF9YpHkeXAOLIz35ljw
 CATEGORIES:Baseball,Boys,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com
+URL;VALUE=URI:https://www.maxpreps.com/games/05-01-2026/baseball-26/pine-g
+ rove-vs-west-union.htm?c=2AzCF9YpHkeXAOLIz35ljw
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA1LTAyVDE5OjAwOjAwLUJveXMtQmFzZWJhbG
  wtV2VzdCBVbmlvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260427T070420
+DTSTAMP:20260428T070430
 DTSTART;TZID=America/Chicago:20260502T190000
 DTEND;TZID=America/Chicago:20260502T213000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ West Union Eagles
@@ -63,7 +51,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA1LTE1VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQWJlcm
  RlZW4@autoschedule
 SEQUENCE:0
-DTSTAMP:20260427T070420
+DTSTAMP:20260428T070430
 DTSTART;TZID=America/Chicago:20260515T190000
 DTEND;TZID=America/Chicago:20260515T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Aberdeen Bulldogs
