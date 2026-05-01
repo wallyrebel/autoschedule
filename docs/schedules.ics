@@ -13,7 +13,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA1LTAxVDE4OjAwOjAwLUJveXMtQmFzZWJhbG
  wtV2VzdCBVbmlvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260430T070207
+DTSTAMP:20260501T070418
 DTSTART;TZID=America/Chicago:20260501T180000
 DTEND;TZID=America/Chicago:20260501T203000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs West Union Eagles
@@ -21,8 +21,8 @@ LOCATION:Home - Pine Grove Panthers
 DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs West Union (Myrtle\
  , MS)\nSport: Boys Baseball\nSeason: Spring 25-26\n\nThe West Union varsit
  y baseball team has an away non-conference game @  Pine Grove (Ripley\, MS
- ) on Friday\, May 1 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/05-0
- 1-2026/baseball-26/pine-grove-vs-west-union.htm?c=2AzCF9YpHkeXAOLIz35ljw
+ ) today @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/05-01-2026/baseb
+ all-26/pine-grove-vs-west-union.htm?c=2AzCF9YpHkeXAOLIz35ljw
 CATEGORIES:Baseball,Boys,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/games/05-01-2026/baseball-26/pine-g
  rove-vs-west-union.htm?c=2AzCF9YpHkeXAOLIz35ljw
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA1LTAyVDE5OjAwOjAwLUJveXMtQmFzZWJhbG
  wtV2VzdCBVbmlvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260430T070207
+DTSTAMP:20260501T070418
 DTSTART;TZID=America/Chicago:20260502T190000
 DTEND;TZID=America/Chicago:20260502T213000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ West Union Eagles
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA1LTE1VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQWJlcm
  RlZW4@autoschedule
 SEQUENCE:0
-DTSTAMP:20260430T070207
+DTSTAMP:20260501T070418
 DTSTART;TZID=America/Chicago:20260515T190000
 DTEND;TZID=America/Chicago:20260515T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Aberdeen Bulldogs
