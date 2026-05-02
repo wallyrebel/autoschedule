@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-01T07:04:18.873Z",
-  "totalGames": 3,
+  "lastUpdated": "2026-05-02T06:48:38.496Z",
+  "totalGames": 2,
   "teams": [
     "Ripley Tigers",
     "Pine Grove Panthers",
@@ -9,11 +9,11 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Pine Grove Panthers": 2,
+    "Pine Grove Panthers": 1,
     "Ripley Tigers": 1
   },
   "gamesBySport": {
-    "Boys Baseball": 2,
+    "Boys Baseball": 1,
     "Boys Football": 1
   }
 }
