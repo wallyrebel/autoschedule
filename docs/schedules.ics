@@ -10,41 +10,19 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA1LTAyVDE1OjAwOjAwLUJveXMtQmFzZWJhbG
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA1LTA0VDE4OjAwOjAwLUJveXMtQmFzZWJhbG
  wtV2VzdCBVbmlvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260502T064838
-DTSTART;TZID=America/Chicago:20260502T150000
-DTEND;TZID=America/Chicago:20260502T173000
-SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ West Union Eagles
-LOCATION:West Union\, Myrtle MS
-DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ West Union (Myrtle\,
-  MS)\nSport: Boys Baseball\nSeason: Spring 25-26\n\nThe Pine Grove varsity
-  baseball team has an away non-conference game @  West Union (Myrtle\, MS)
-  today @ 3p.\n\nMaxPreps: https://www.maxpreps.com/games/05-02-2026/baseba
- ll-26/pine-grove-vs-west-union.htm?c=Hvbb7wO3ZEWNUBnG6PaD_Q
+DTSTAMP:20260503T065955
+DTSTART;TZID=America/Chicago:20260504T180000
+DTEND;TZID=America/Chicago:20260504T203000
+SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs West Union Eagles
+LOCATION:Home - Pine Grove Panthers
+DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs West Union (Myrtle\
+ , MS)\nSport: Boys Baseball\nSeason: Spring 25-26\n\nMaxPreps: https://www
+ .maxpreps.com
 CATEGORIES:Baseball,Boys,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com/games/05-02-2026/baseball-26/pine-g
- rove-vs-west-union.htm?c=Hvbb7wO3ZEWNUBnG6PaD_Q
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA1LTE1VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQWJlcm
- RlZW4@autoschedule
-SEQUENCE:0
-DTSTAMP:20260502T064838
-DTSTART;TZID=America/Chicago:20260515T190000
-DTEND;TZID=America/Chicago:20260515T220000
-SUMMARY:🏈 Boys Football: Ripley Tigers vs Aberdeen Bulldogs
-LOCATION:Home - Ripley Tigers
-DESCRIPTION:Ripley Tigers Tigers\nHome game vs Aberdeen (MS)\nSport: Boys 
- Football\nSeason: Fall 25-26\n\nThe Aberdeen varsity football team has an 
- away non-conference game @  Ripley (MS) on Friday\, May 15 @ 7p.\n\nMaxPre
- ps: https://www.maxpreps.com/games/05-15-2026/football-25/aberdeen-vs-ripl
- ey.htm?c=3JIbpAb87kySvBFovcC0Ew
-CATEGORIES:Football,Boys,Ripley Tigers
-URL;VALUE=URI:https://www.maxpreps.com/games/05-15-2026/football-25/aberde
- en-vs-ripley.htm?c=3JIbpAb87kySvBFovcC0Ew
+URL;VALUE=URI:https://www.maxpreps.com
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
