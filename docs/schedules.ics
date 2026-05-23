@@ -9,4 +9,23 @@ TIMEZONE-ID:America/Chicago
 X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0yOVQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLVBvdH
+ RzIENhbXA@autoschedule
+SEQUENCE:0
+DTSTAMP:20260523T070357
+DTSTART;TZID=America/Chicago:20261029T190000
+DTEND;TZID=America/Chicago:20261029T220000
+SUMMARY:🏈 Boys Football: Falkner Eagles vs Potts Camp Cardinals
+LOCATION:Home - Falkner Eagles
+DESCRIPTION:Falkner Eagles Eagles\nHome game vs Potts Camp (MS)\nSport: Bo
+ ys Football\nSeason: Fall 26-27\n\nThe Potts Camp varsity football team ha
+ s an away conference game @  Falkner (MS) on Thursday\, October 29 @ 7p.\n
+ \nMaxPreps: https://www.maxpreps.com/games/10-29-2026/football-26/falkner-
+ vs-potts-camp.htm?c=AyA7UhDJbUuV_ucfkW_hPQ
+CATEGORIES:Football,Boys,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/10-29-2026/football-26/falkne
+ r-vs-potts-camp.htm?c=AyA7UhDJbUuV_ucfkW_hPQ
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
