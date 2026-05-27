@@ -10,10 +10,29 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDgtMDRUMTg6MzA6MDAtR2lybHMtVm9sbGV5YmFsbC
+ 1OZXcgQWxiYW55@autoschedule
+SEQUENCE:0
+DTSTAMP:20260527T073632
+DTSTART;TZID=America/Chicago:20260804T183000
+DTEND;TZID=America/Chicago:20260804T200000
+SUMMARY:🏐 Girls Volleyball: Walnut Wildcats vs New Albany Bulldogs
+LOCATION:Home - Walnut Wildcats
+DESCRIPTION:Walnut Wildcats Wildcats\nHome game vs New Albany (MS)\nSport:
+  Girls Volleyball\nSeason: Fall 26-27\n\nThe New Albany varsity volleyball
+  team has an away non-conference match @  Walnut (MS) on Tuesday\, August 
+ 4 @ 6:30p.\n\nMaxPreps: https://www.maxpreps.com/games/08-04-2026/volleyba
+ ll-26/new-albany-vs-walnut.htm?c=a-rqJ2g9h02BqXcM8XRxXQ
+CATEGORIES:Volleyball,Girls,Walnut Wildcats
+URL;VALUE=URI:https://www.maxpreps.com/games/08-04-2026/volleyball-26/new-
+ albany-vs-walnut.htm?c=a-rqJ2g9h02BqXcM8XRxXQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDgtMTFUMTg6MzA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1UdXBlbG8gQ2hyaXN0aWFuIFByZXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260526T072308
+DTSTAMP:20260527T073632
 DTSTART;TZID=America/Chicago:20260811T183000
 DTEND;TZID=America/Chicago:20260811T200000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats vs Tupelo Christian Prep Ea
@@ -34,7 +53,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTI1VDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtVHVwZWxvIENocmlzdGlhbiBQcmVw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260526T072308
+DTSTAMP:20260527T073632
 DTSTART;TZID=America/Chicago:20260825T183000
 DTEND;TZID=America/Chicago:20260825T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Tupelo Christian Prep
@@ -55,7 +74,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0yOVQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLVBvdH
  RzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260526T072308
+DTSTAMP:20260527T073632
 DTSTART;TZID=America/Chicago:20261029T190000
 DTEND;TZID=America/Chicago:20261029T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles vs Potts Camp Cardinals
