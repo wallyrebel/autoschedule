@@ -13,7 +13,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDgtMDRUMTg6MzA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1OZXcgQWxiYW55@autoschedule
 SEQUENCE:0
-DTSTAMP:20260528T073122
+DTSTAMP:20260529T073058
 DTSTART;TZID=America/Chicago:20260804T183000
 DTEND;TZID=America/Chicago:20260804T200000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats vs New Albany Bulldogs
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDgtMTFUMTg6MzA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1UdXBlbG8gQ2hyaXN0aWFuIFByZXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260528T073122
+DTSTAMP:20260529T073058
 DTSTART;TZID=America/Chicago:20260811T183000
 DTEND;TZID=America/Chicago:20260811T200000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats vs Tupelo Christian Prep Ea
@@ -53,7 +53,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTI1VDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtVHVwZWxvIENocmlzdGlhbiBQcmVw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260528T073122
+DTSTAMP:20260529T073058
 DTSTART;TZID=America/Chicago:20260825T183000
 DTEND;TZID=America/Chicago:20260825T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Tupelo Christian Prep
@@ -71,10 +71,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/08-25-2026/volleyball-26/pine
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0yMlQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLUJ5ZX
+ Jz@autoschedule
+SEQUENCE:0
+DTSTAMP:20260529T073058
+DTSTART;TZID=America/Chicago:20261022T190000
+DTEND;TZID=America/Chicago:20261022T220000
+SUMMARY:🏈 Boys Football: Falkner Eagles vs Byers Lions
+LOCATION:Home - Falkner Eagles
+DESCRIPTION:Falkner Eagles Eagles\nHome game vs Byers (Holly Springs\, MS)
+ \nSport: Boys Football\nSeason: Fall 26-27\n\nThe Byers varsity football t
+ eam has an away conference game @  Falkner (MS) on Thursday\, October 22 @
+  7p.\n\nMaxPreps: https://www.maxpreps.com/games/10-22-2026/football-26/by
+ ers-vs-falkner.htm?c=BvJMNjG0kEeRa5_4KrdN5g
+CATEGORIES:Football,Boys,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/10-22-2026/football-26/byers-
+ vs-falkner.htm?c=BvJMNjG0kEeRa5_4KrdN5g
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0yOVQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLVBvdH
  RzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260528T073122
+DTSTAMP:20260529T073058
 DTSTART;TZID=America/Chicago:20261029T190000
 DTEND;TZID=America/Chicago:20261029T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles vs Potts Camp Cardinals
