@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-07T07:33:17.818Z",
-  "totalGames": 6,
+  "lastUpdated": "2026-06-08T07:55:12.166Z",
+  "totalGames": 7,
   "teams": [
     "Ripley Tigers",
     "Pine Grove Panthers",
@@ -9,12 +9,12 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Walnut Wildcats": 2,
+    "Walnut Wildcats": 3,
     "Pine Grove Panthers": 1,
     "Falkner Eagles": 3
   },
   "gamesBySport": {
     "Girls Volleyball": 3,
-    "Boys Football": 3
+    "Boys Football": 4
   }
 }
