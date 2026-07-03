@@ -10,10 +10,48 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA3LTI1VDEwOjMwOjAwLUdpcmxzLVZvbGxleW
+ JhbGwtV2hlZWxlcg@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260725T103000
+DTEND;TZID=America/Chicago:20260725T120000
+SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Wheeler Eagles
+LOCATION:Wheeler\, Wheeler MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Wheeler (MS)\nSport:
+  Girls Volleyball\nSeason: Fall 26-27\n\nThe Pine Grove varsity volleyball
+  team has an away conference match @  Wheeler (MS) on Saturday\, July 25 @
+  10:30a.\n\nMaxPreps: https://www.maxpreps.com/games/07-25-2026/volleyball
+ -26/pine-grove-vs-wheeler.htm?c=9BIOLhdJtkW_pV37I6fxPA
+CATEGORIES:Volleyball,Girls,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/07-25-2026/volleyball-26/pine
+ -grove-vs-wheeler.htm?c=9BIOLhdJtkW_pV37I6fxPA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA3LTI1VDEyOjAwOjAwLUdpcmxzLVZvbGxleW
+ JhbGwtQ29yaW50aA@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260725T120000
+DTEND;TZID=America/Chicago:20260725T133000
+SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Corinth Warriors
+LOCATION:Corinth\, Corinth MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Corinth (MS)\nSport:
+  Girls Volleyball\nSeason: Fall 26-27\n\nThe Pine Grove varsity volleyball
+  team has an away non-conference match @  Corinth (MS) on Saturday\, July 
+ 25 @ 12p.\n\nMaxPreps: https://www.maxpreps.com/games/07-25-2026/volleybal
+ l-26/corinth-vs-pine-grove.htm?c=Gs7XvLrQ_UeH2SN1YtlqmA
+CATEGORIES:Volleyball,Girls,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/07-25-2026/volleyball-26/cori
+ nth-vs-pine-grove.htm?c=Gs7XvLrQ_UeH2SN1YtlqmA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOC0wNFQxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLV
  BvdHRzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260804T180000
 DTEND;TZID=America/Chicago:20260804T193000
 SUMMARY:🏐 Girls Volleyball: Falkner Eagles @ Potts Camp Cardinals
@@ -29,10 +67,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/08-04-2026/volleyball-26/falk
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA4LTA0VDE4OjMwOjAwLUdpcmxzLVZvbGxleWJhbGwtQ2
+ 9yaW50aA@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260804T183000
+DTEND;TZID=America/Chicago:20260804T200000
+SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Corinth Warriors
+LOCATION:Corinth\, Corinth MS
+DESCRIPTION:Ripley Tigers Tigers\nAway game @ Corinth (MS)\nSport: Girls V
+ olleyball\nSeason: Fall 26-27\n\nThe Ripley varsity volleyball team has an
+  away non-conference match @  Corinth (MS) on Tuesday\, August 4 @ 6:30p.\
+ n\nMaxPreps: https://www.maxpreps.com/games/08-04-2026/volleyball-26/corin
+ th-vs-ripley.htm?c=8JAFS0WaB0mY6G-WdZVWIA
+CATEGORIES:Volleyball,Girls,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/08-04-2026/volleyball-26/cori
+ nth-vs-ripley.htm?c=8JAFS0WaB0mY6G-WdZVWIA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTA0VDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtSW5nb21hcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260804T183000
 DTEND;TZID=America/Chicago:20260804T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Ingomar Falcons
@@ -52,7 +109,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDgtMDRUMTg6MzA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1OZXcgQWxiYW55@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260804T183000
 DTEND;TZID=America/Chicago:20260804T200000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats vs New Albany Bulldogs
@@ -71,7 +128,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTA2VDE4OjAwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtUG90dHMgQ2FtcA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260806T180000
 DTEND;TZID=America/Chicago:20260806T193000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Potts Camp Cardinals
@@ -87,10 +144,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/08-06-2026/volleyball-26/pine
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOC0wNlQxOTowMDowMC1HaXJscy1Wb2xsZXliYWxsLU
+ 15cnRsZQ@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260806T190000
+DTEND;TZID=America/Chicago:20260806T203000
+SUMMARY:🏐 Girls Volleyball: Falkner Eagles vs Myrtle Hawks
+LOCATION:Home - Falkner Eagles
+DESCRIPTION:Falkner Eagles Eagles\nHome game vs Myrtle (MS)\nSport: Girls 
+ Volleyball\nSeason: Fall 26-27\n\nThe Myrtle varsity volleyball team has a
+ n away non-conference match @  Falkner (MS) on Thursday\, August 6 @ 7p.\n
+ \nMaxPreps: https://www.maxpreps.com/games/08-06-2026/volleyball-26/falkne
+ r-vs-myrtle.htm?c=mhnsqIWp0EqsNpnp4MDL6A
+CATEGORIES:Volleyball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/08-06-2026/volleyball-26/falk
+ ner-vs-myrtle.htm?c=mhnsqIWp0EqsNpnp4MDL6A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTA3VDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtV2FsbnV0@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260807T183000
 DTEND;TZID=America/Chicago:20260807T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Walnut Wildcats
@@ -109,7 +185,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDgtMDdUMTg6MzA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1QaW5lIEdyb3Zl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260807T183000
 DTEND;TZID=America/Chicago:20260807T200000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats @ Pine Grove Panthers
@@ -125,10 +201,49 @@ URL;VALUE=URI:https://www.maxpreps.com/games/08-07-2026/volleyball-26/pine
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA4LTExVDE4OjMwOjAwLUdpcmxzLVZvbGxleWJhbGwtU2
+ VuYXRvYmlh@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260811T183000
+DTEND;TZID=America/Chicago:20260811T200000
+SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Senatobia Warriors
+LOCATION:Senatobia\, Senatobia MS
+DESCRIPTION:Ripley Tigers Tigers\nAway game @ Senatobia (MS)\nSport: Girls
+  Volleyball\nSeason: Fall 26-27\n\nThe Ripley varsity volleyball team has 
+ an away conference match @  Senatobia (MS) on Tuesday\, August 11 @ 6:30p.
+ \n\nMaxPreps: https://www.maxpreps.com/games/08-11-2026/volleyball-26/ripl
+ ey-vs-senatobia.htm?c=JhSJUj69H0umwjDGaSRw7A
+CATEGORIES:Volleyball,Girls,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/08-11-2026/volleyball-26/ripl
+ ey-vs-senatobia.htm?c=JhSJUj69H0umwjDGaSRw7A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTExVDE4OjMwOjAwLUdpcmxzLVZvbGxleW
+ JhbGwtV2VzdCBVbmlvbg@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260811T183000
+DTEND;TZID=America/Chicago:20260811T200000
+SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ West Union Eagles
+LOCATION:West Union\, Myrtle MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ West Union (Myrtle\,
+  MS)\nSport: Girls Volleyball\nSeason: Fall 26-27\n\nThe Pine Grove varsit
+ y volleyball team has an away non-conference match @  West Union (Myrtle\,
+  MS) on Tuesday\, August 11 @ 6:30p.\n\nMaxPreps: https://www.maxpreps.com
+ /games/08-11-2026/volleyball-26/pine-grove-vs-west-union.htm?c=JGx3wNlkj0S
+ _mpx2ZPmvWA
+CATEGORIES:Volleyball,Girls,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/08-11-2026/volleyball-26/pine
+ -grove-vs-west-union.htm?c=JGx3wNlkj0S_mpx2ZPmvWA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDgtMTFUMTg6MzA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1UdXBlbG8gQ2hyaXN0aWFuIFByZXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260811T183000
 DTEND;TZID=America/Chicago:20260811T200000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats vs Tupelo Christian Prep Ea
@@ -149,7 +264,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA4LTEyVDE2OjMwOjAwLUdpcmxzLVZvbGxleWJhbGwtQn
  loYWxpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260812T163000
 DTEND;TZID=America/Chicago:20260812T180000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Byhalia Indians
@@ -168,7 +283,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA4LTEzVDE2OjMwOjAwLUdpcmxzLVZvbGxleWJhbGwtUm
  9zYSBGb3J0@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260813T163000
 DTEND;TZID=America/Chicago:20260813T180000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Rosa Fort Lions
@@ -187,7 +302,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDgtMTNUMTk6MDA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1JbmdvbWFy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260813T190000
 DTEND;TZID=America/Chicago:20260813T203000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats @ Ingomar Falcons
@@ -206,7 +321,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA4LTE4VDA0OjMwOjAwLUdpcmxzLVZvbGxleWJhbGwtQn
  loYWxpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260818T043000
 DTEND;TZID=America/Chicago:20260818T060000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Byhalia Indians
@@ -222,10 +337,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/08-18-2026/volleyball-26/byha
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDgtMThUMTg6MzA6MDAtR2lybHMtVm9sbGV5YmFsbC
+ 1Db3JpbnRo@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260818T183000
+DTEND;TZID=America/Chicago:20260818T200000
+SUMMARY:🏐 Girls Volleyball: Walnut Wildcats @ Corinth Warriors
+LOCATION:Corinth\, Corinth MS
+DESCRIPTION:Walnut Wildcats Wildcats\nAway game @ Corinth (MS)\nSport: Gir
+ ls Volleyball\nSeason: Fall 26-27\n\nThe Walnut varsity volleyball team ha
+ s an away non-conference match @  Corinth (MS) on Tuesday\, August 18 @ 6:
+ 30p.\n\nMaxPreps: https://www.maxpreps.com/games/08-18-2026/volleyball-26/
+ corinth-vs-walnut.htm?c=7-La5NekXE-ZqzNYnWy3Xw
+CATEGORIES:Volleyball,Girls,Walnut Wildcats
+URL;VALUE=URI:https://www.maxpreps.com/games/08-18-2026/volleyball-26/cori
+ nth-vs-walnut.htm?c=7-La5NekXE-ZqzNYnWy3Xw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTE4VDE5OjAwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtQm9vbmV2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260818T190000
 DTEND;TZID=America/Chicago:20260818T203000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Booneville Blue Devil
@@ -242,10 +376,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/08-18-2026/volleyball-26/boon
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOC0xOFQxOTowMDowMC1HaXJscy1Wb2xsZXliYWxsLV
+ BvdHRzIENhbXA@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260818T190000
+DTEND;TZID=America/Chicago:20260818T203000
+SUMMARY:🏐 Girls Volleyball: Falkner Eagles vs Potts Camp Cardinals
+LOCATION:Home - Falkner Eagles
+DESCRIPTION:Falkner Eagles Eagles\nHome game vs Potts Camp (MS)\nSport: Gi
+ rls Volleyball\nSeason: Fall 26-27\n\nThe Potts Camp varsity volleyball te
+ am has an away non-conference match @  Falkner (MS) on Tuesday\, August 18
+  @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/08-18-2026/volleyball-2
+ 6/falkner-vs-potts-camp.htm?c=pxhSy2adZEy0jIVNK1Przw
+CATEGORIES:Volleyball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/08-18-2026/volleyball-26/falk
+ ner-vs-potts-camp.htm?c=pxhSy2adZEy0jIVNK1Przw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA4LTIwVDE4OjAwOjAwLUdpcmxzLVZvbGxleWJhbGwtQ2
  FsZWRvbmlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260820T180000
 DTEND;TZID=America/Chicago:20260820T193000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Caledonia Cavaliers
@@ -264,7 +417,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTIwVDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtQWxjb3JuIENlbnRyYWw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260820T183000
 DTEND;TZID=America/Chicago:20260820T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Alcorn Central Golde
@@ -285,7 +438,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTIwVDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtQWxjb3JuIENlbnRyYWw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260820T183000
 DTEND;TZID=America/Chicago:20260820T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Alcorn Central Golde
@@ -306,7 +459,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTI0VDE4OjAwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtSnVtcGVydG93bg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260824T180000
 DTEND;TZID=America/Chicago:20260824T193000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Jumpertown Cardinals
@@ -323,10 +476,30 @@ URL;VALUE=URI:https://www.maxpreps.com/games/08-24-2026/volleyball-26/jump
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA4LTI1VDE4OjMwOjAwLUdpcmxzLVZvbGxleWJhbGwtVG
+ lzaG9taW5nbyBDb3VudHk@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260825T183000
+DTEND;TZID=America/Chicago:20260825T200000
+SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Tishomingo County Braves
+LOCATION:Tishomingo County\, Iuka MS
+DESCRIPTION:Ripley Tigers Tigers\nAway game @ Tishomingo County (Iuka\, MS
+ )\nSport: Girls Volleyball\nSeason: Fall 26-27\n\nThe Ripley varsity volle
+ yball team has an away non-conference match @  Tishomingo County (Iuka\, M
+ S) on Tuesday\, August 25 @ 6:30p.\n\nMaxPreps: https://www.maxpreps.com/g
+ ames/08-25-2026/volleyball-26/ripley-vs-tishomingo-county.htm?c=qKYBrm8bVk
+ WBo-nL653OlA
+CATEGORIES:Volleyball,Girls,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/08-25-2026/volleyball-26/ripl
+ ey-vs-tishomingo-county.htm?c=qKYBrm8bVkWBo-nL653OlA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTI1VDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtVHVwZWxvIENocmlzdGlhbiBQcmVw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260825T183000
 DTEND;TZID=America/Chicago:20260825T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Tupelo Christian Prep
@@ -344,10 +517,48 @@ URL;VALUE=URI:https://www.maxpreps.com/games/08-25-2026/volleyball-26/pine
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOC0yNVQxODozMDowMC1HaXJscy1Wb2xsZXliYWxsLV
+ RocmFzaGVy@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260825T183000
+DTEND;TZID=America/Chicago:20260825T200000
+SUMMARY:🏐 Girls Volleyball: Falkner Eagles @ Thrasher Rebels
+LOCATION:Thrasher\, Booneville MS
+DESCRIPTION:Falkner Eagles Eagles\nAway game @ Thrasher (Booneville\, MS)\
+ nSport: Girls Volleyball\nSeason: Fall 26-27\n\nThe Falkner varsity volley
+ ball team has an away conference match @  Thrasher (Booneville\, MS) on Tu
+ esday\, August 25 @ 6:30p.\n\nMaxPreps: https://www.maxpreps.com/games/08-
+ 25-2026/volleyball-26/falkner-vs-thrasher.htm?c=d_OYJP09gEaqezx0ykjDvQ
+CATEGORIES:Volleyball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/08-25-2026/volleyball-26/falk
+ ner-vs-thrasher.htm?c=d_OYJP09gEaqezx0ykjDvQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOC0yN1QxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLU
+ 5ldyBTaXRl@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260827T180000
+DTEND;TZID=America/Chicago:20260827T193000
+SUMMARY:🏐 Girls Volleyball: Falkner Eagles vs New Site Royals
+LOCATION:Home - Falkner Eagles
+DESCRIPTION:Falkner Eagles Eagles\nHome game vs New Site (MS)\nSport: Girl
+ s Volleyball\nSeason: Fall 26-27\n\nThe New Site varsity volleyball team h
+ as an away non-conference match @  Falkner (MS) on Thursday\, August 27 @ 
+ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/08-27-2026/volleyball-26/f
+ alkner-vs-new-site.htm?c=bSHwmNsfF0udCzyBDRRhJQ
+CATEGORIES:Volleyball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/08-27-2026/volleyball-26/falk
+ ner-vs-new-site.htm?c=bSHwmNsfF0udCzyBDRRhJQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA4LTI3VDE4OjMwOjAwLUdpcmxzLVZvbGxleWJhbGwtTm
  V3IEFsYmFueQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260827T183000
 DTEND;TZID=America/Chicago:20260827T200000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers vs New Albany Bulldogs
@@ -366,7 +577,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDgtMjdUMTk6MDA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1CZWxtb250@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260827T190000
 DTEND;TZID=America/Chicago:20260827T203000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats vs Belmont Cardinals
@@ -385,7 +596,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA4LTI4VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtTW9vcm
  V2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260828T190000
 DTEND;TZID=America/Chicago:20260828T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Mooreville Troopers
@@ -404,7 +615,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA4LTMxVDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtVGhyYXNoZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260831T183000
 DTEND;TZID=America/Chicago:20260831T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Thrasher Rebels
@@ -421,10 +632,86 @@ URL;VALUE=URI:https://www.maxpreps.com/games/08-31-2026/volleyball-26/pine
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOC0zMVQxODozMDowMC1HaXJscy1Wb2xsZXliYWxsLV
+ dlc3QgVW5pb24@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260831T183000
+DTEND;TZID=America/Chicago:20260831T200000
+SUMMARY:🏐 Girls Volleyball: Falkner Eagles @ West Union Eagles
+LOCATION:West Union\, Myrtle MS
+DESCRIPTION:Falkner Eagles Eagles\nAway game @ West Union (Myrtle\, MS)\nS
+ port: Girls Volleyball\nSeason: Fall 26-27\n\nThe Falkner varsity volleyba
+ ll team has an away non-conference match @  West Union (Myrtle\, MS) on Mo
+ nday\, August 31 @ 6:30p.\n\nMaxPreps: https://www.maxpreps.com/games/08-3
+ 1-2026/volleyball-26/falkner-vs-west-union.htm?c=6r6mn7WG4kiyCxL5mB7W-A
+CATEGORIES:Volleyball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/08-31-2026/volleyball-26/falk
+ ner-vs-west-union.htm?c=6r6mn7WG4kiyCxL5mB7W-A
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0wMVQxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLU
+ p1bXBlcnRvd24@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260901T180000
+DTEND;TZID=America/Chicago:20260901T193000
+SUMMARY:🏐 Girls Volleyball: Falkner Eagles vs Jumpertown Cardinals
+LOCATION:Home - Falkner Eagles
+DESCRIPTION:Falkner Eagles Eagles\nHome game vs Jumpertown (Booneville\, M
+ S)\nSport: Girls Volleyball\nSeason: Fall 26-27\n\nThe Jumpertown varsity 
+ volleyball team has an away conference match @  Falkner (MS) on Tuesday\, 
+ September 1 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/09-01-2026/v
+ olleyball-26/falkner-vs-jumpertown.htm?c=CfcMZzAnjEOp7FmcEwOjSw
+CATEGORIES:Volleyball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/09-01-2026/volleyball-26/falk
+ ner-vs-jumpertown.htm?c=CfcMZzAnjEOp7FmcEwOjSw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTAzVDE5OjAwOjAwLUdpcmxzLVZvbGxleW
+ JhbGwtRmFsa25lcg@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260903T190000
+DTEND;TZID=America/Chicago:20260903T203000
+SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Falkner Eagles
+LOCATION:Falkner\, Falkner MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Falkner (MS)\nSport:
+  Girls Volleyball\nSeason: Fall 26-27\n\nThe Pine Grove varsity volleyball
+  team has an away conference match @  Falkner (MS) on Thursday\, September
+  3 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/09-03-2026/volleyball
+ -26/falkner-vs-pine-grove.htm?c=dHy4i2nuu02qBY9o3ObbTw
+CATEGORIES:Volleyball,Girls,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/09-03-2026/volleyball-26/falk
+ ner-vs-pine-grove.htm?c=dHy4i2nuu02qBY9o3ObbTw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0wM1QxOTowMDowMC1HaXJscy1Wb2xsZXliYWxsLV
+ BpbmUgR3JvdmU@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260903T190000
+DTEND;TZID=America/Chicago:20260903T203000
+SUMMARY:🏐 Girls Volleyball: Falkner Eagles vs Pine Grove Panthers
+LOCATION:Home - Falkner Eagles
+DESCRIPTION:Falkner Eagles Eagles\nHome game vs Pine Grove (Ripley\, MS)\n
+ Sport: Girls Volleyball\nSeason: Fall 26-27\n\nThe Pine Grove varsity voll
+ eyball team has an away conference match @  Falkner (MS) on Thursday\, Sep
+ tember 3 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/09-03-2026/voll
+ eyball-26/falkner-vs-pine-grove.htm?c=dHy4i2nuu02qBY9o3ObbTw
+CATEGORIES:Volleyball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/09-03-2026/volleyball-26/falk
+ ner-vs-pine-grove.htm?c=dHy4i2nuu02qBY9o3ObbTw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTA0VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtR3Jlbm
  FkYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260904T190000
 DTEND;TZID=America/Chicago:20260904T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Grenada Chargers
@@ -440,10 +727,25 @@ URL;VALUE=URI:https://www.maxpreps.com/games/09-04-2026/football-26/grenad
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0wNFQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLU9rb2
+ xvbmE@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260904T190000
+DTEND;TZID=America/Chicago:20260904T220000
+SUMMARY:🏈 Boys Football: Falkner Eagles @ Okolona Chieftains
+LOCATION:Okolona\, Okolona MS
+DESCRIPTION:Falkner Eagles Eagles\nAway game @ Okolona (MS)\nSport: Boys F
+ ootball\nSeason: Fall 26-27\n\nMaxPreps: https://www.maxpreps.com
+CATEGORIES:Football,Boys,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0wNFQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLUFsY2
  9ybiBDZW50cmFs@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260904T190000
 DTEND;TZID=America/Chicago:20260904T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles @ Alcorn Central Golden Bears
@@ -459,25 +761,10 @@ URL;VALUE=URI:https://www.maxpreps.com/games/09-04-2026/football-26/alcorn
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0wNFQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLU9rb2
- xvbmE@autoschedule
-SEQUENCE:0
-DTSTAMP:20260702T071659
-DTSTART;TZID=America/Chicago:20260904T190000
-DTEND;TZID=America/Chicago:20260904T220000
-SUMMARY:🏈 Boys Football: Falkner Eagles @ Okolona Chieftains
-LOCATION:Okolona\, Okolona MS
-DESCRIPTION:Falkner Eagles Eagles\nAway game @ Okolona (MS)\nSport: Boys F
- ootball\nSeason: Fall 26-27\n\nMaxPreps: https://www.maxpreps.com
-CATEGORIES:Football,Boys,Falkner Eagles
-URL;VALUE=URI:https://www.maxpreps.com
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMDRUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1CZW
  xtb250@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260904T190000
 DTEND;TZID=America/Chicago:20260904T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats @ Belmont Cardinals
@@ -493,10 +780,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/09-04-2026/football-26/belmon
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTA4VDE4OjMwOjAwLUdpcmxzLVZvbGxleW
+ JhbGwtV2hlZWxlcg@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260908T183000
+DTEND;TZID=America/Chicago:20260908T200000
+SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Wheeler Eagles
+LOCATION:Wheeler\, Wheeler MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Wheeler (MS)\nSport:
+  Girls Volleyball\nSeason: Fall 26-27\n\nThe Pine Grove varsity volleyball
+  team has an away conference match @  Wheeler (MS) on Tuesday\, September 
+ 8 @ 6:30p.\n\nMaxPreps: https://www.maxpreps.com/games/09-08-2026/volleyba
+ ll-26/pine-grove-vs-wheeler.htm?c=AFHRXw89dEag-66xGWAbvQ
+CATEGORIES:Volleyball,Girls,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/09-08-2026/volleyball-26/pine
+ -grove-vs-wheeler.htm?c=AFHRXw89dEag-66xGWAbvQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTEwVDE4OjAwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtRmFsa25lcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260910T180000
 DTEND;TZID=America/Chicago:20260910T193000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Falkner Eagles
@@ -515,7 +821,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0xMFQxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLV
  BpbmUgR3JvdmU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260910T180000
 DTEND;TZID=America/Chicago:20260910T193000
 SUMMARY:🏐 Girls Volleyball: Falkner Eagles @ Pine Grove Panthers
@@ -534,7 +840,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0xMVQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLUJydW
  Nl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260911T190000
 DTEND;TZID=America/Chicago:20260911T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles @ Bruce Trojans
@@ -553,7 +859,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTE0VDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtRWFzdCBVbmlvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260914T183000
 DTEND;TZID=America/Chicago:20260914T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs East Union Urchins
@@ -573,7 +879,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTE1VDE4OjAwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtSnVtcGVydG93bg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260915T180000
 DTEND;TZID=America/Chicago:20260915T193000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Jumpertown Cardinals
@@ -590,10 +896,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/09-15-2026/volleyball-26/jump
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0xNVQxOTowMDowMC1HaXJscy1Wb2xsZXliYWxsLV
+ doZWVsZXI@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260915T190000
+DTEND;TZID=America/Chicago:20260915T203000
+SUMMARY:🏐 Girls Volleyball: Falkner Eagles vs Wheeler Eagles
+LOCATION:Home - Falkner Eagles
+DESCRIPTION:Falkner Eagles Eagles\nHome game vs Wheeler (MS)\nSport: Girls
+  Volleyball\nSeason: Fall 26-27\n\nThe Wheeler varsity volleyball team has
+  an away conference match @  Falkner (MS) on Tuesday\, September 15 @ 7p.\
+ n\nMaxPreps: https://www.maxpreps.com/games/09-15-2026/volleyball-26/falkn
+ er-vs-wheeler.htm?c=YztKNhJ-RECNqBIm7F8DjQ
+CATEGORIES:Volleyball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/09-15-2026/volleyball-26/falk
+ ner-vs-wheeler.htm?c=YztKNhJ-RECNqBIm7F8DjQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTE3VDE4OjAwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtQmlnZ2Vyc3ZpbGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260917T180000
 DTEND;TZID=America/Chicago:20260917T193000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Biggersville Lions
@@ -610,10 +935,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/09-17-2026/volleyball-26/bigg
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0xN1QxOTowMDowMC1HaXJscy1Wb2xsZXliYWxsLV
+ RocmFzaGVy@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260917T190000
+DTEND;TZID=America/Chicago:20260917T203000
+SUMMARY:🏐 Girls Volleyball: Falkner Eagles vs Thrasher Rebels
+LOCATION:Home - Falkner Eagles
+DESCRIPTION:Falkner Eagles Eagles\nHome game vs Thrasher (Booneville\, MS)
+ \nSport: Girls Volleyball\nSeason: Fall 26-27\n\nThe Thrasher varsity voll
+ eyball team has an away conference match @  Falkner (MS) on Thursday\, Sep
+ tember 17 @ 7p.\n\nMaxPreps: https://www.maxpreps.com/games/09-17-2026/vol
+ leyball-26/falkner-vs-thrasher.htm?c=54ONFkVIQE2fLZ5Ew2TUlg
+CATEGORIES:Volleyball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/09-17-2026/volleyball-26/falk
+ ner-vs-thrasher.htm?c=54ONFkVIQE2fLZ5Ew2TUlg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTE4VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtRWFzdC
  BXZWJzdGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260918T190000
 DTEND;TZID=America/Chicago:20260918T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs East Webster Wolverines
@@ -632,7 +976,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMThUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1BbG
  Nvcm4gQ2VudHJhbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260918T190000
 DTEND;TZID=America/Chicago:20260918T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats @ Alcorn Central Golden Bears
@@ -648,20 +992,40 @@ URL;VALUE=URI:https://www.maxpreps.com/games/09-18-2026/football-26/alcorn
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0yMVQxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLU
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTIxVDE4OjMwOjAwLUdpcmxzLVZvbGxleW
+ JhbGwtVGhyYXNoZXI@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260921T183000
+DTEND;TZID=America/Chicago:20260921T200000
+SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Thrasher Rebels
+LOCATION:Thrasher\, Booneville MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Thrasher (Booneville
+ \, MS)\nSport: Girls Volleyball\nSeason: Fall 26-27\n\nThe Pine Grove vars
+ ity volleyball team has an away conference match @  Thrasher (Booneville\,
+  MS) on Monday\, September 21 @ 6:30p.\n\nMaxPreps: https://www.maxpreps.c
+ om/games/09-21-2026/volleyball-26/pine-grove-vs-thrasher.htm?c=IuA8v-h8Yka
+ qhH5uznSzUw
+CATEGORIES:Volleyball,Girls,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/09-21-2026/volleyball-26/pine
+ -grove-vs-thrasher.htm?c=IuA8v-h8YkaqhH5uznSzUw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0yMVQxODozMDowMC1HaXJscy1Wb2xsZXliYWxsLU
  JpZ2dlcnN2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
-DTSTART;TZID=America/Chicago:20260921T180000
-DTEND;TZID=America/Chicago:20260921T193000
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260921T183000
+DTEND;TZID=America/Chicago:20260921T200000
 SUMMARY:🏐 Girls Volleyball: Falkner Eagles @ Biggersville Lions
 LOCATION:Biggersville\, Corinth MS
 DESCRIPTION:Falkner Eagles Eagles\nAway game @ Biggersville (Corinth\, MS)
  \nSport: Girls Volleyball\nSeason: Fall 26-27\n\nThe Falkner varsity volle
  yball team has an away conference match @  Biggersville (Corinth\, MS) on 
- Monday\, September 21 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/09
- -21-2026/volleyball-26/biggersville-vs-falkner.htm?c=BfulN97p20KnMp9RuAPdR
- g
+ Monday\, September 21 @ 6:30p.\n\nMaxPreps: https://www.maxpreps.com/games
+ /09-21-2026/volleyball-26/biggersville-vs-falkner.htm?c=BfulN97p20KnMp9RuA
+ PdRg
 CATEGORIES:Volleyball,Girls,Falkner Eagles
 URL;VALUE=URI:https://www.maxpreps.com/games/09-21-2026/volleyball-26/bigg
  ersville-vs-falkner.htm?c=BfulN97p20KnMp9RuAPdRg
@@ -671,7 +1035,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTIyVDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtV2hlZWxlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260922T183000
 DTEND;TZID=America/Chicago:20260922T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Wheeler Eagles
@@ -690,7 +1054,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTIyVDE5OjAwOjAwLUdpcmxzLVZvbGxleWJhbGwtQm
  9vbmV2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260922T190000
 DTEND;TZID=America/Chicago:20260922T203000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Booneville Blue Devils
@@ -706,10 +1070,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/09-22-2026/volleyball-26/boon
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0yNFQxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLV
+ doZWVsZXI@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20260924T180000
+DTEND;TZID=America/Chicago:20260924T193000
+SUMMARY:🏐 Girls Volleyball: Falkner Eagles @ Wheeler Eagles
+LOCATION:Wheeler\, Wheeler MS
+DESCRIPTION:Falkner Eagles Eagles\nAway game @ Wheeler (MS)\nSport: Girls 
+ Volleyball\nSeason: Fall 26-27\n\nThe Falkner varsity volleyball team has 
+ an away conference match @  Wheeler (MS) on Thursday\, September 24 @ 6p.\
+ n\nMaxPreps: https://www.maxpreps.com/games/09-24-2026/volleyball-26/falkn
+ er-vs-wheeler.htm?c=194CEJ8LcECV87mj4KrXTQ
+CATEGORIES:Volleyball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/09-24-2026/volleyball-26/falk
+ ner-vs-wheeler.htm?c=194CEJ8LcECV87mj4KrXTQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTI0VDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtQmlnZ2Vyc3ZpbGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260924T183000
 DTEND;TZID=America/Chicago:20260924T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Biggersville Lions
@@ -729,7 +1112,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTI1VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQm9vbm
  V2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260925T190000
 DTEND;TZID=America/Chicago:20260925T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Booneville Blue Devils
@@ -748,7 +1131,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0yNVQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLUVhc3
  QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260925T190000
 DTEND;TZID=America/Chicago:20260925T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles vs East Union Urchins
@@ -767,7 +1150,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMjVUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1NeX
  J0bGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260925T190000
 DTEND;TZID=America/Chicago:20260925T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats vs Myrtle Hawks
@@ -786,7 +1169,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0yOFQxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLU
  p1bXBlcnRvd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260928T180000
 DTEND;TZID=America/Chicago:20260928T193000
 SUMMARY:🏐 Girls Volleyball: Falkner Eagles @ Jumpertown Cardinals
@@ -806,7 +1189,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMjlUMTg6MDA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1CYWxkd3lu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20260929T180000
 DTEND;TZID=America/Chicago:20260929T193000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats @ Baldwyn Bearcats
@@ -822,10 +1205,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/09-29-2026/volleyball-26/bald
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0wMVQxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLU
+ JpZ2dlcnN2aWxsZQ@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20261001T180000
+DTEND;TZID=America/Chicago:20261001T193000
+SUMMARY:🏐 Girls Volleyball: Falkner Eagles vs Biggersville Lions
+LOCATION:Home - Falkner Eagles
+DESCRIPTION:Falkner Eagles Eagles\nHome game vs Biggersville (Corinth\, MS
+ )\nSport: Girls Volleyball\nSeason: Fall 26-27\n\nThe Biggersville varsity
+  volleyball team has an away conference match @  Falkner (MS) on Thursday\
+ , October 1 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/games/10-01-2026/v
+ olleyball-26/biggersville-vs-falkner.htm?c=BwU9QO5gKUOm2xGmvKMezw
+CATEGORIES:Volleyball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/10-01-2026/volleyball-26/bigg
+ ersville-vs-falkner.htm?c=BwU9QO5gKUOm2xGmvKMezw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEwLTAxVDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtU2FsdGlsbG8@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20261001T183000
 DTEND;TZID=America/Chicago:20261001T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Saltillo Tigers
@@ -844,7 +1246,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTAyVDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQ2xhcm
  tzZGFsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20261002T190000
 DTEND;TZID=America/Chicago:20261002T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Clarksdale Wildcats
@@ -860,10 +1262,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/10-02-2026/football-26/clarks
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0wMlQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLVNtaX
+ RodmlsbGU@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20261002T190000
+DTEND;TZID=America/Chicago:20261002T220000
+SUMMARY:🏈 Boys Football: Falkner Eagles @ Smithville Seminoles
+LOCATION:Smithville\, Smithville MS
+DESCRIPTION:Falkner Eagles Eagles\nAway game @ Smithville (MS)\nSport: Boy
+ s Football\nSeason: Fall 26-27\n\nThe Falkner varsity football team has an
+  away non-conference game @  Smithville (MS) on Friday\, October 2 @ 7p.\n
+ \nMaxPreps: https://www.maxpreps.com/games/10-02-2026/football-26/falkner-
+ vs-smithville.htm?c=PbfFOU5DR02B8vMF3_1jYA
+CATEGORIES:Football,Boys,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/games/10-02-2026/football-26/falkne
+ r-vs-smithville.htm?c=PbfFOU5DR02B8vMF3_1jYA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTAtMDJUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1Bc2
  hsYW5k@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20261002T190000
 DTEND;TZID=America/Chicago:20261002T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats vs Ashland Blue Devils
@@ -882,7 +1303,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTA5VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtTmV3IE
  FsYmFueQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20261009T190000
 DTEND;TZID=America/Chicago:20261009T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers @ New Albany Bulldogs
@@ -901,7 +1322,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTAtMDlUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1CaW
  dnZXJzdmlsbGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20261009T190000
 DTEND;TZID=America/Chicago:20261009T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats vs Biggersville Lions
@@ -920,7 +1341,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTE1VDE4OjAwOjAwLUJveXMtRm9vdGJhbGwtQnloYW
  xpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20261015T180000
 DTEND;TZID=America/Chicago:20261015T210000
 SUMMARY:🏈 Boys Football: Ripley Tigers @ Byhalia Indians
@@ -939,7 +1360,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0xNlQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLUFzaG
  xhbmQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20261016T190000
 DTEND;TZID=America/Chicago:20261016T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles @ Ashland Blue Devils
@@ -958,7 +1379,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTAtMTZUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1IYW
  1pbHRvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20261016T190000
 DTEND;TZID=America/Chicago:20261016T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats vs Hamilton Lions
@@ -977,7 +1398,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0yMlQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLUJ5ZX
  Jz@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20261022T190000
 DTEND;TZID=America/Chicago:20261022T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles vs Byers Lions
@@ -996,7 +1417,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTAtMjNUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1IYX
  RsZXk@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20261023T190000
 DTEND;TZID=America/Chicago:20261023T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats @ Hatley Tigers
@@ -1012,10 +1433,29 @@ URL;VALUE=URI:https://www.maxpreps.com/games/10-23-2026/football-26/hatley
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTI5VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtU2VuYX
+ RvYmlh@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20261029T190000
+DTEND;TZID=America/Chicago:20261029T220000
+SUMMARY:🏈 Boys Football: Ripley Tigers @ Senatobia Warriors
+LOCATION:Senatobia\, Senatobia MS
+DESCRIPTION:Ripley Tigers Tigers\nAway game @ Senatobia (MS)\nSport: Boys 
+ Football\nSeason: Fall 26-27\n\nThe Ripley varsity football team has an aw
+ ay conference game @  Senatobia (MS) on Thursday\, October 29 @ 7p.\n\nMax
+ Preps: https://www.maxpreps.com/games/10-29-2026/football-26/ripley-vs-sen
+ atobia.htm?c=6TIdkH-GKE2k2uGwbeYw0Q
+CATEGORIES:Football,Boys,Ripley Tigers
+URL;VALUE=URI:https://www.maxpreps.com/games/10-29-2026/football-26/ripley
+ -vs-senatobia.htm?c=6TIdkH-GKE2k2uGwbeYw0Q
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0yOVQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLVBvdH
  RzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
+DTSTAMP:20260703T071404
 DTSTART;TZID=America/Chicago:20261029T190000
 DTEND;TZID=America/Chicago:20261029T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles vs Potts Camp Cardinals
@@ -1031,22 +1471,102 @@ URL;VALUE=URI:https://www.maxpreps.com/games/10-29-2026/football-26/falkne
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTAtMzBUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1CYW
+UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTAtMjlUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1CYW
  xkd3lu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260702T071659
-DTSTART;TZID=America/Chicago:20261030T190000
-DTEND;TZID=America/Chicago:20261030T220000
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20261029T190000
+DTEND;TZID=America/Chicago:20261029T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats @ Baldwyn Bearcats
 LOCATION:Baldwyn\, Baldwyn MS
 DESCRIPTION:Walnut Wildcats Wildcats\nAway game @ Baldwyn (MS)\nSport: Boy
  s Football\nSeason: Fall 26-27\n\nThe Walnut varsity football team has an 
- away conference game @  Baldwyn (MS) on Friday\, October 30 @ 7p.\n\nMaxPr
- eps: https://www.maxpreps.com/games/10-30-2026/football-26/baldwyn-vs-waln
- ut.htm?c=BfDpPM5sM0O1bI-W3nYxCA
+ away conference game @  Baldwyn (MS) on Thursday\, October 29 @ 7p.\n\nMax
+ Preps: https://www.maxpreps.com/games/10-29-2026/football-26/baldwyn-vs-wa
+ lnut.htm?c=BfDpPM5sM0O1bI-W3nYxCA
 CATEGORIES:Football,Boys,Walnut Wildcats
-URL;VALUE=URI:https://www.maxpreps.com/games/10-30-2026/football-26/baldwy
+URL;VALUE=URI:https://www.maxpreps.com/games/10-29-2026/football-26/baldwy
  n-vs-walnut.htm?c=BfDpPM5sM0O1bI-W3nYxCA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMDVUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
+ 1CZWxtb250@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20270105T180000
+DTEND;TZID=America/Chicago:20270105T193000
+SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Belmont Cardinals
+LOCATION:Belmont\, Belmont MS
+DESCRIPTION:Walnut Wildcats Wildcats\nAway game @ Belmont (MS)\nSport: Gir
+ ls Basketball\nSeason: Winter 26-27\n\nThe Walnut varsity basketball team 
+ has an away non-conference game @  Belmont (MS) on Tuesday\, January 5 @ 6
+ p.\n\nMaxPreps: https://www.maxpreps.com/games/01-05-2027/girls-basketball
+ -26-27/belmont-vs-walnut.htm?c=6Uy7TaTMA0CI8KoNHP3GUg
+CATEGORIES:Basketball,Girls,Walnut Wildcats
+URL;VALUE=URI:https://www.maxpreps.com/games/01-05-2027/girls-basketball-2
+ 6-27/belmont-vs-walnut.htm?c=6Uy7TaTMA0CI8KoNHP3GUg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjhUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
+ 1CaWdnZXJzdmlsbGU@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20270128T180000
+DTEND;TZID=America/Chicago:20270128T193000
+SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Biggersville Lions
+LOCATION:Biggersville\, Corinth MS
+DESCRIPTION:Walnut Wildcats Wildcats\nAway game @ Biggersville (Corinth\, 
+ MS)\nSport: Girls Basketball\nSeason: Winter 26-27\n\nThe Walnut varsity b
+ asketball team has an away non-conference game @  Biggersville (Corinth\, 
+ MS) on Thursday\, January 28 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/g
+ ames/01-28-2027/girls-basketball-26-27/biggersville-vs-walnut.htm?c=nUFg2o
+ jFnUOe2seRMWvJlw
+CATEGORIES:Basketball,Girls,Walnut Wildcats
+URL;VALUE=URI:https://www.maxpreps.com/games/01-28-2027/girls-basketball-2
+ 6-27/biggersville-vs-walnut.htm?c=nUFg2ojFnUOe2seRMWvJlw
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjhUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
+ JpZ2dlcnN2aWxsZQ@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20270128T193000
+DTEND;TZID=America/Chicago:20270128T210000
+SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Biggersville Lions
+LOCATION:Biggersville\, Corinth MS
+DESCRIPTION:Walnut Wildcats Wildcats\nAway game @ Biggersville (Corinth\, 
+ MS)\nSport: Boys Basketball\nSeason: Winter 26-27\n\nThe Walnut varsity ba
+ sketball team has an away non-conference game @  Biggersville (Corinth\, M
+ S) on Thursday\, January 28 @ 7:30p.\n\nMaxPreps: https://www.maxpreps.com
+ /games/01-28-2027/basketball-26-27/biggersville-vs-walnut.htm?c=ALNqiv8Rik
+ KqKGtQ_RJ8UQ
+CATEGORIES:Basketball,Boys,Walnut Wildcats
+URL;VALUE=URI:https://www.maxpreps.com/games/01-28-2027/basketball-26-27/b
+ iggersville-vs-walnut.htm?c=ALNqiv8RikKqKGtQ_RJ8UQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTA0LTEyVDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
+ xsLUl0YXdhbWJhIEFncmljdWx0dXJhbA@autoschedule
+SEQUENCE:0
+DTSTAMP:20260703T071404
+DTSTART;TZID=America/Chicago:20270412T183000
+DTEND;TZID=America/Chicago:20270412T203000
+SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Itawamba Agricultural I
+ ndians
+LOCATION:Itawamba Agricultural\, Fulton MS
+DESCRIPTION:Pine Grove Panthers Panthers\nAway game @ Itawamba Agricultura
+ l (Fulton\, MS)\nSport: Girls Softball\nSeason: Spring 26-27\n\nThe Pine G
+ rove varsity softball team has an away non-conference game @  Itawamba Agr
+ icultural (Fulton\, MS) on Monday\, April 12 @ 6:30p.\n\nMaxPreps: https:/
+ /www.maxpreps.com/games/04-12-2027/softball-27/itawamba-agricultural-vs-pi
+ ne-grove.htm?c=GbiQfDbA0EmMtcnzUk5FGQ
+CATEGORIES:Softball,Girls,Pine Grove Panthers
+URL;VALUE=URI:https://www.maxpreps.com/games/04-12-2027/softball-27/itawam
+ ba-agricultural-vs-pine-grove.htm?c=GbiQfDbA0EmMtcnzUk5FGQ
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
