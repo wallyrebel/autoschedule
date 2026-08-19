@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T06:13:43.835Z",
+  "lastUpdated": "2026-08-19T06:14:29.064Z",
   "totalGames": 336,
   "teams": [
     "Ripley Tigers",
@@ -9,10 +9,10 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 100,
-    "Falkner Eagles": 74,
-    "Walnut Wildcats": 72,
-    "Pine Grove Panthers": 61,
+    "Pine Grove Panthers": 62,
+    "Ripley Tigers": 99,
+    "Walnut Wildcats": 73,
+    "Falkner Eagles": 73,
     "Blue Mountain Cougars": 29
   },
   "gamesBySport": {
