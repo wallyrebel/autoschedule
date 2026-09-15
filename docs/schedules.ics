@@ -10,88 +10,10 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTE0VDE4OjAwOjAwLUdpcmxzLVZvbGxleWJhbGwtS2
- 9zc3V0aA@autoschedule
-SEQUENCE:0
-DTSTAMP:20260914T063348
-DTSTART;TZID=America/Chicago:20260914T180000
-DTEND;TZID=America/Chicago:20260914T193000
-SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Kossuth Aggies
-LOCATION:Kossuth\, Kossuth MS
-DESCRIPTION:Ripley Tigers Tigers\nAway game @ Kossuth (MS)\nSport: Girls V
- olleyball\nSeason: Fall 26-27\n\nThe Ripley varsity volleyball team has an
-  away non-conference match @  Kossuth (MS) today @ 6p.\n\nMaxPreps: https:
- //www.maxpreps.com/ms/volleyball/match/kossuth-vs-ripley/9-14-2026/?c=b8cb
- 5dc8-3d2f-4232-89b7-07696ce77072
-CATEGORIES:Volleyball,Girls,Ripley Tigers
-URL;VALUE=URI:https://www.maxpreps.com/ms/volleyball/match/kossuth-vs-ripl
- ey/9-14-2026/?c=b8cb5dc8-3d2f-4232-89b7-07696ce77072
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0xNFQxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLU
- 5ldyBTaXRl@autoschedule
-SEQUENCE:0
-DTSTAMP:20260914T063348
-DTSTART;TZID=America/Chicago:20260914T180000
-DTEND;TZID=America/Chicago:20260914T193000
-SUMMARY:🏐 Girls Volleyball: Falkner Eagles @ New Site Royals
-LOCATION:New Site\, New Site MS
-DESCRIPTION:Falkner Eagles Eagles\nAway game @ New Site (MS)\nSport: Girls
-  Volleyball\nSeason: Fall 26-27\n\nThe Falkner varsity volleyball team has
-  an away non-conference match @  New Site (MS) today @ 6p.\n\nMaxPreps: ht
- tps://www.maxpreps.com/ms/volleyball/match/falkner-vs-new-site/9-14-2026/?
- c=ada952b8-d545-486d-aead-d49b59bb6efc
-CATEGORIES:Volleyball,Girls,Falkner Eagles
-URL;VALUE=URI:https://www.maxpreps.com/ms/volleyball/match/falkner-vs-new-
- site/9-14-2026/?c=ada952b8-d545-486d-aead-d49b59bb6efc
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTE0VDE4OjMwOjAwLUdpcmxzLVZvbGxleW
- JhbGwtRWFzdCBVbmlvbg@autoschedule
-SEQUENCE:0
-DTSTAMP:20260914T063348
-DTSTART;TZID=America/Chicago:20260914T183000
-DTEND;TZID=America/Chicago:20260914T200000
-SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs East Union Urchins
-LOCATION:Home - Pine Grove Panthers
-DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs East Union (Blue Sp
- rings\, MS)\nSport: Girls Volleyball\nSeason: Fall 26-27\n\nThe East Union
-  varsity volleyball team has an away non-conference match @  Pine Grove (R
- ipley\, MS) today @ 6:30p.\n\nMaxPreps: https://www.maxpreps.com/ms/volley
- ball/match/east-union-blue-springs-vs-pine-grove-ripley/9-14-2026/?c=6e901
- 231-48be-4e85-903c-9f1de68475c3
-CATEGORIES:Volleyball,Girls,Pine Grove Panthers
-URL;VALUE=URI:https://www.maxpreps.com/ms/volleyball/match/east-union-blue
- -springs-vs-pine-grove-ripley/9-14-2026/?c=6e901231-48be-4e85-903c-9f1de68
- 475c3
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMTRUMTg6MzA6MDAtR2lybHMtVm9sbGV5YmFsbC
- 1CYWxkd3lu@autoschedule
-SEQUENCE:0
-DTSTAMP:20260914T063348
-DTSTART;TZID=America/Chicago:20260914T183000
-DTEND;TZID=America/Chicago:20260914T200000
-SUMMARY:🏐 Girls Volleyball: Walnut Wildcats vs Baldwyn Bearcats
-LOCATION:Home - Walnut Wildcats
-DESCRIPTION:Walnut Wildcats Wildcats\nHome game vs Baldwyn (MS)\nSport: Gi
- rls Volleyball\nSeason: Fall 26-27\n\nThe Baldwyn varsity volleyball team 
- has an away conference match @  Walnut (MS) today @ 6:30p.\n\nMaxPreps: ht
- tps://www.maxpreps.com/ms/volleyball/match/baldwyn-vs-walnut/9-14-2026/?c=
- 3e691a1e-10a6-4c09-891e-894ac466cd04
-CATEGORIES:Volleyball,Girls,Walnut Wildcats
-URL;VALUE=URI:https://www.maxpreps.com/ms/volleyball/match/baldwyn-vs-waln
- ut/9-14-2026/?c=3e691a1e-10a6-4c09-891e-894ac466cd04
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTE1VDE4OjAwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtSnVtcGVydG93bg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260915T180000
 DTEND;TZID=America/Chicago:20260915T193000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Jumpertown Cardinals
@@ -99,9 +21,9 @@ LOCATION:Home - Pine Grove Panthers
 DESCRIPTION:Pine Grove Panthers Panthers\nHome game vs Jumpertown (Boonevi
  lle\, MS)\nSport: Girls Volleyball\nSeason: Fall 26-27\n\nThe Jumpertown v
  arsity volleyball team has an away conference match @  Pine Grove (Ripley\
- , MS) on Tuesday\, September 15 @ 6p.\n\nMaxPreps: https://www.maxpreps.co
- m/ms/volleyball/match/jumpertown-booneville-vs-pine-grove-ripley/9-15-2026
- /?c=f7587183-3168-45d3-8885-a31ffa4f3467
+ , MS) today @ 6p.\n\nMaxPreps: https://www.maxpreps.com/ms/volleyball/matc
+ h/jumpertown-booneville-vs-pine-grove-ripley/9-15-2026/?c=f7587183-3168-45
+ d3-8885-a31ffa4f3467
 CATEGORIES:Volleyball,Girls,Pine Grove Panthers
 URL;VALUE=URI:https://www.maxpreps.com/ms/volleyball/match/jumpertown-boon
  eville-vs-pine-grove-ripley/9-15-2026/?c=f7587183-3168-45d3-8885-a31ffa4f3
@@ -112,16 +34,16 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMTVUMTg6MDA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1OZXcgU2l0ZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260915T180000
 DTEND;TZID=America/Chicago:20260915T193000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats vs New Site Royals
 LOCATION:Home - Walnut Wildcats
 DESCRIPTION:Walnut Wildcats Wildcats\nHome game vs New Site (MS)\nSport: G
  irls Volleyball\nSeason: Fall 26-27\n\nThe New Site varsity volleyball tea
- m has an away conference match @  Walnut (MS) on Tuesday\, September 15 @ 
- 6p.\n\nMaxPreps: https://www.maxpreps.com/ms/volleyball/match/new-site-vs-
- walnut/9-15-2026/?c=685dff56-59dc-4f27-9eb1-b6d2bcde4e26
+ m has an away conference match @  Walnut (MS) today @ 6p.\n\nMaxPreps: htt
+ ps://www.maxpreps.com/ms/volleyball/match/new-site-vs-walnut/9-15-2026/?c=
+ 685dff56-59dc-4f27-9eb1-b6d2bcde4e26
 CATEGORIES:Volleyball,Girls,Walnut Wildcats
 URL;VALUE=URI:https://www.maxpreps.com/ms/volleyball/match/new-site-vs-wal
  nut/9-15-2026/?c=685dff56-59dc-4f27-9eb1-b6d2bcde4e26
@@ -131,7 +53,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTE1VDE4OjMwOjAwLUdpcmxzLVZvbGxleWJhbGwtQW
  xjb3JuIENlbnRyYWw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260915T183000
 DTEND;TZID=America/Chicago:20260915T200000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers vs Alcorn Central Golden Bear
@@ -139,10 +61,9 @@ SUMMARY:🏐 Girls Volleyball: Ripley Tigers vs Alcorn Central Golden Bear
 LOCATION:Home - Ripley Tigers
 DESCRIPTION:Ripley Tigers Tigers\nHome game vs Alcorn Central (Glen\, MS)\
  nSport: Girls Volleyball\nSeason: Fall 26-27\n\nThe Alcorn Central varsity
-  volleyball team has an away non-conference match @  Ripley (MS) on Tuesda
- y\, September 15 @ 6:30p.\n\nMaxPreps: https://www.maxpreps.com/ms/volleyb
- all/match/alcorn-central-glen-vs-ripley/9-15-2026/?c=366c9702-7507-4c6c-a9
- 8f-576cf9a501a7
+  volleyball team has an away non-conference match @  Ripley (MS) today @ 6
+ :30p.\n\nMaxPreps: https://www.maxpreps.com/ms/volleyball/match/alcorn-cen
+ tral-glen-vs-ripley/9-15-2026/?c=366c9702-7507-4c6c-a98f-576cf9a501a7
 CATEGORIES:Volleyball,Girls,Ripley Tigers
 URL;VALUE=URI:https://www.maxpreps.com/ms/volleyball/match/alcorn-central-
  glen-vs-ripley/9-15-2026/?c=366c9702-7507-4c6c-a98f-576cf9a501a7
@@ -152,16 +73,16 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0xNVQxOTowMDowMC1HaXJscy1Wb2xsZXliYWxsLV
  doZWVsZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260915T190000
 DTEND;TZID=America/Chicago:20260915T203000
 SUMMARY:🏐 Girls Volleyball: Falkner Eagles vs Wheeler Eagles
 LOCATION:Home - Falkner Eagles
 DESCRIPTION:Falkner Eagles Eagles\nHome game vs Wheeler (MS)\nSport: Girls
   Volleyball\nSeason: Fall 26-27\n\nThe Wheeler varsity volleyball team has
-  an away conference match @  Falkner (MS) on Tuesday\, September 15 @ 7p.\
- n\nMaxPreps: https://www.maxpreps.com/ms/volleyball/match/falkner-vs-wheel
- er/9-15-2026/?c=364a3b63-7e12-4044-8da8-1226ec5f038d
+  an away conference match @  Falkner (MS) today @ 7p.\n\nMaxPreps: https:/
+ /www.maxpreps.com/ms/volleyball/match/falkner-vs-wheeler/9-15-2026/?c=364a
+ 3b63-7e12-4044-8da8-1226ec5f038d
 CATEGORIES:Volleyball,Girls,Falkner Eagles
 URL;VALUE=URI:https://www.maxpreps.com/ms/volleyball/match/falkner-vs-whee
  ler/9-15-2026/?c=364a3b63-7e12-4044-8da8-1226ec5f038d
@@ -171,7 +92,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTE3VDE4OjAwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtQmlnZ2Vyc3ZpbGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260917T180000
 DTEND;TZID=America/Chicago:20260917T193000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Biggersville Lions
@@ -192,7 +113,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0xN1QxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLV
  RocmFzaGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260917T180000
 DTEND;TZID=America/Chicago:20260917T193000
 SUMMARY:🏐 Girls Volleyball: Falkner Eagles vs Thrasher Rebels
@@ -212,7 +133,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTE4VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtRWFzdC
  BXZWJzdGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260918T190000
 DTEND;TZID=America/Chicago:20260918T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs East Webster Wolverines
@@ -231,7 +152,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMThUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1BbG
  Nvcm4gQ2VudHJhbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260918T190000
 DTEND;TZID=America/Chicago:20260918T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats @ Alcorn Central Golden Bears
@@ -251,7 +172,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTIxVDE4OjAwOjAwLUdpcmxzLVZvbGxleWJhbGwtU2
  VuYXRvYmlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260921T180000
 DTEND;TZID=America/Chicago:20260921T193000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers vs Senatobia Warriors
@@ -270,7 +191,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTIxVDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtVGhyYXNoZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260921T183000
 DTEND;TZID=America/Chicago:20260921T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Thrasher Rebels
@@ -291,7 +212,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0yMVQxODozMDowMC1HaXJscy1Wb2xsZXliYWxsLU
  JpZ2dlcnN2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260921T183000
 DTEND;TZID=America/Chicago:20260921T200000
 SUMMARY:🏐 Girls Volleyball: Falkner Eagles @ Biggersville Lions
@@ -311,7 +232,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTIyVDE4OjAwOjAwLUdpcmxzLVZvbGxleWJhbGwtQ2
  xhcmtzZGFsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260922T180000
 DTEND;TZID=America/Chicago:20260922T193000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Clarksdale Wildcats
@@ -326,7 +247,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMjJUMTg6MDA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1OZXcgU2l0ZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260922T180000
 DTEND;TZID=America/Chicago:20260922T193000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats @ New Site Royals
@@ -345,7 +266,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTIyVDE4OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtV2hlZWxlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260922T183000
 DTEND;TZID=America/Chicago:20260922T200000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Wheeler Eagles
@@ -365,7 +286,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTIyVDE5OjAwOjAwLUdpcmxzLVZvbGxleWJhbGwtQm
  9vbmV2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260922T190000
 DTEND;TZID=America/Chicago:20260922T203000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Booneville Blue Devils
@@ -384,7 +305,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTA5LTI0VDE3OjMwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtQmlnZ2Vyc3ZpbGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260924T173000
 DTEND;TZID=America/Chicago:20260924T190000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers @ Biggersville Lions
@@ -405,7 +326,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTI0VDE4OjAwOjAwLUdpcmxzLVZvbGxleWJhbGwtQ2
  9yaW50aA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260924T180000
 DTEND;TZID=America/Chicago:20260924T193000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers vs Corinth Warriors
@@ -420,7 +341,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0yNFQxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLV
  doZWVsZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260924T180000
 DTEND;TZID=America/Chicago:20260924T193000
 SUMMARY:🏐 Girls Volleyball: Falkner Eagles @ Wheeler Eagles
@@ -439,7 +360,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMjRUMTg6MDA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1IYXRsZXk@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260924T180000
 DTEND;TZID=America/Chicago:20260924T193000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats @ Hatley Tigers
@@ -458,7 +379,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTI1VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQm9vbm
  V2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260925T190000
 DTEND;TZID=America/Chicago:20260925T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Booneville Blue Devils
@@ -477,7 +398,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0yNVQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLUVhc3
  QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260925T190000
 DTEND;TZID=America/Chicago:20260925T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles vs East Union Urchins
@@ -497,7 +418,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMjVUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1NeX
  J0bGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260925T190000
 DTEND;TZID=America/Chicago:20260925T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats vs Myrtle Hawks
@@ -516,7 +437,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTI4VDE4OjAwOjAwLUdpcmxzLVZvbGxleWJhbGwtV2
  FsbnV0@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260928T180000
 DTEND;TZID=America/Chicago:20260928T193000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Walnut Wildcats
@@ -535,7 +456,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0wOS0yOFQxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLU
  p1bXBlcnRvd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260928T180000
 DTEND;TZID=America/Chicago:20260928T193000
 SUMMARY:🏐 Girls Volleyball: Falkner Eagles @ Jumpertown Cardinals
@@ -555,7 +476,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMjhUMTg6MDA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1SaXBsZXk@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260928T180000
 DTEND;TZID=America/Chicago:20260928T193000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats vs Ripley Tigers
@@ -574,7 +495,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTA5LTI5VDE3OjAwOjAwLUdpcmxzLVZvbGxleWJhbGwtU2
  VuYXRvYmlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260929T170000
 DTEND;TZID=America/Chicago:20260929T183000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers @ Senatobia Warriors
@@ -593,7 +514,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMDktMjlUMTg6MDA6MDAtR2lybHMtVm9sbGV5YmFsbC
  1CYWxkd3lu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20260929T180000
 DTEND;TZID=America/Chicago:20260929T193000
 SUMMARY:🏐 Girls Volleyball: Walnut Wildcats @ Baldwyn Bearcats
@@ -612,7 +533,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTAxVDE4OjAwOjAwLUdpcmxzLVZvbGxleWJhbGwtQ2
  xhcmtzZGFsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261001T180000
 DTEND;TZID=America/Chicago:20261001T193000
 SUMMARY:🏐 Girls Volleyball: Ripley Tigers vs Clarksdale Wildcats
@@ -631,7 +552,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEwLTAxVDE4OjAwOjAwLUdpcmxzLVZvbGxleW
  JhbGwtU2FsdGlsbG8@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261001T180000
 DTEND;TZID=America/Chicago:20261001T193000
 SUMMARY:🏐 Girls Volleyball: Pine Grove Panthers vs Saltillo Tigers
@@ -651,7 +572,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0wMVQxODowMDowMC1HaXJscy1Wb2xsZXliYWxsLU
  JpZ2dlcnN2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261001T180000
 DTEND;TZID=America/Chicago:20261001T193000
 SUMMARY:🏐 Girls Volleyball: Falkner Eagles vs Biggersville Lions
@@ -671,7 +592,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTAyVDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQ2xhcm
  tzZGFsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261002T190000
 DTEND;TZID=America/Chicago:20261002T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers vs Clarksdale Wildcats
@@ -690,7 +611,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0wMlQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLVNtaX
  RodmlsbGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261002T190000
 DTEND;TZID=America/Chicago:20261002T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles @ Smithville Seminoles
@@ -709,7 +630,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTAtMDJUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1Bc2
  hsYW5k@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261002T190000
 DTEND;TZID=America/Chicago:20261002T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats vs Ashland Blue Devils
@@ -728,7 +649,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0wOFQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLVJpdm
  Vyc2lkZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261008T190000
 DTEND;TZID=America/Chicago:20261008T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles @ Riverside Bulldogs
@@ -747,7 +668,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTA5VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtTmV3IE
  FsYmFueQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261009T190000
 DTEND;TZID=America/Chicago:20261009T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers @ New Albany Bulldogs
@@ -766,7 +687,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTAtMDlUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1CaW
  dnZXJzdmlsbGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261009T190000
 DTEND;TZID=America/Chicago:20261009T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats vs Biggersville Lions
@@ -786,7 +707,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTE2VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtQnloYW
  xpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261016T190000
 DTEND;TZID=America/Chicago:20261016T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers @ Byhalia Indians
@@ -805,7 +726,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0xNlQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLUFzaG
  xhbmQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261016T190000
 DTEND;TZID=America/Chicago:20261016T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles @ Ashland Blue Devils
@@ -824,7 +745,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTAtMTZUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1IYW
  1pbHRvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261016T190000
 DTEND;TZID=America/Chicago:20261016T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats vs Hamilton Lions
@@ -843,7 +764,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0yMlQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLUJ5ZX
  Jz@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261022T190000
 DTEND;TZID=America/Chicago:20261022T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles vs Byers Lions
@@ -862,7 +783,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTIzVDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtUm9zYS
  BGb3J0@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261023T190000
 DTEND;TZID=America/Chicago:20261023T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers @ Rosa Fort Lions
@@ -881,7 +802,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTAtMjNUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1IYX
  RsZXk@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261023T190000
 DTEND;TZID=America/Chicago:20261023T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats @ Hatley Tigers
@@ -900,7 +821,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTI2VDE3OjAwOjAwLUdpcmxzLVNvY2Nlci1DYWxlZG
  9uaWE@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261026T170000
 DTEND;TZID=America/Chicago:20261026T190000
 SUMMARY:⚽ Girls Soccer: Ripley Tigers vs Caledonia Cavaliers
@@ -919,7 +840,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTI2VDE5OjAwOjAwLUJveXMtU29jY2VyLUNhbGVkb2
  5pYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261026T190000
 DTEND;TZID=America/Chicago:20261026T210000
 SUMMARY:⚽ Boys Soccer: Ripley Tigers vs Caledonia Cavaliers
@@ -938,7 +859,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEwLTI5VDE5OjAwOjAwLUJveXMtRm9vdGJhbGwtU2VuYX
  RvYmlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261029T190000
 DTEND;TZID=America/Chicago:20261029T220000
 SUMMARY:🏈 Boys Football: Ripley Tigers @ Senatobia Warriors
@@ -957,7 +878,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMC0yOVQxOTowMDowMC1Cb3lzLUZvb3RiYWxsLVBvdH
  RzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261029T190000
 DTEND;TZID=America/Chicago:20261029T220000
 SUMMARY:🏈 Boys Football: Falkner Eagles vs Potts Camp Cardinals
@@ -976,7 +897,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTAtMjlUMTk6MDA6MDAtQm95cy1Gb290YmFsbC1CYW
  xkd3lu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261029T190000
 DTEND;TZID=America/Chicago:20261029T220000
 SUMMARY:🏈 Boys Football: Walnut Wildcats @ Baldwyn Bearcats
@@ -995,7 +916,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTAzVDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtRm
  Fsa25lcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261103T180000
 DTEND;TZID=America/Chicago:20261103T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs Falkner Eagles
@@ -1014,7 +935,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTExLTAzVDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtSG91bGth@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261103T180000
 DTEND;TZID=America/Chicago:20261103T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers @ Houlka Wildcats
@@ -1034,7 +955,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0wM1QxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLV
  JpcGxleQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261103T180000
 DTEND;TZID=America/Chicago:20261103T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles @ Ripley Tigers
@@ -1053,7 +974,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTEtMDNUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1UaHJhc2hlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261103T180000
 DTEND;TZID=America/Chicago:20261103T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars vs Thrasher Rebels
@@ -1074,7 +995,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTExLTAzVDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1Ib3Vsa2E@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261103T193000
 DTEND;TZID=America/Chicago:20261103T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers @ Houlka Wildcats
@@ -1093,7 +1014,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTEtMDNUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLVRocmFzaGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261103T193000
 DTEND;TZID=America/Chicago:20261103T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars vs Thrasher Rebels
@@ -1113,7 +1034,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTA0VDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1OZX
  cgQWxiYW55@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261104T190000
 DTEND;TZID=America/Chicago:20261104T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs New Albany Bulldogs
@@ -1128,7 +1049,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTExLTA2VDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtRWFzdCBVbmlvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261106T180000
 DTEND;TZID=America/Chicago:20261106T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers vs East Union Urchins
@@ -1149,7 +1070,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTEtMDZUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1KdW1wZXJ0b3du@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261106T180000
 DTEND;TZID=America/Chicago:20261106T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars vs Jumpertown Cardina
@@ -1171,7 +1092,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTExLTA2VDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1FYXN0IFVuaW9u@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261106T193000
 DTEND;TZID=America/Chicago:20261106T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers vs East Union Urchins
@@ -1192,7 +1113,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTEtMDZUMTk6MzA6MDAtR2lybHMtQmFza2
  V0YmFsbC1KdW1wZXJ0b3du@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261106T193000
 DTEND;TZID=America/Chicago:20261106T210000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars vs Jumpertown Cardina
@@ -1214,7 +1135,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMDdUMDA6MDA6MDAtQm95cy1CYXNrZXRiYWxsLV
  Rpc2hvbWluZ28gQ291bnR5@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261107T000000
 DTEND;TZID=America/Chicago:20261107T013000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Tishomingo County Braves
@@ -1230,7 +1151,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMDdUMTM6MzA6MDAtQm95cy1CYXNrZXRiYWxsLV
  Rpc2hvbWluZ28gQ291bnR5@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261107T133000
 DTEND;TZID=America/Chicago:20261107T150000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Tishomingo County Braves
@@ -1250,7 +1171,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTEwVDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtTm
  V3IEFsYmFueQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261110T180000
 DTEND;TZID=America/Chicago:20261110T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs New Albany Bulldogs
@@ -1269,7 +1190,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTExLTEwVDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtQXNobGFuZA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261110T180000
 DTEND;TZID=America/Chicago:20261110T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers vs Ashland Blue Devils
@@ -1289,7 +1210,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0xMFQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  15cnRsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261110T180000
 DTEND;TZID=America/Chicago:20261110T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Myrtle Hawks
@@ -1308,7 +1229,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTEtMTBUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1OZXR0bGV0b24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261110T180000
 DTEND;TZID=America/Chicago:20261110T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars @ Nettleton Tigers
@@ -1328,7 +1249,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTEwVDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1OZX
  cgQWxiYW55@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261110T190000
 DTEND;TZID=America/Chicago:20261110T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs New Albany Bulldogs
@@ -1347,7 +1268,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMTBUMTk6MDA6MDAtQm95cy1CYXNrZXRiYWxsLV
  R1cGVsbyBUaXRhbnM@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261110T190000
 DTEND;TZID=America/Chicago:20261110T203000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Tupelo Titans Titans
@@ -1367,7 +1288,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTExLTEwVDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1Bc2hsYW5k@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261110T193000
 DTEND;TZID=America/Chicago:20261110T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers vs Ashland Blue Devils
@@ -1387,7 +1308,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0xMFQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtTX
  lydGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261110T193000
 DTEND;TZID=America/Chicago:20261110T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Myrtle Hawks
@@ -1406,7 +1327,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTEtMTBUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLU5ldHRsZXRvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261110T193000
 DTEND;TZID=America/Chicago:20261110T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars @ Nettleton Tigers
@@ -1426,7 +1347,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTEyVDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtS2
  9zc3V0aA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261112T180000
 DTEND;TZID=America/Chicago:20261112T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs Kossuth Aggies
@@ -1445,7 +1366,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMTJUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1Db3JpbnRo@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261112T180000
 DTEND;TZID=America/Chicago:20261112T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats vs Corinth Warriors
@@ -1464,7 +1385,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTEyVDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1Lb3
  NzdXRo@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261112T190000
 DTEND;TZID=America/Chicago:20261112T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs Kossuth Aggies
@@ -1483,7 +1404,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMTJUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  NvcmludGg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261112T193000
 DTEND;TZID=America/Chicago:20261112T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Corinth Warriors
@@ -1498,7 +1419,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTEzVDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtV2
  hlZWxlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261113T180000
 DTEND;TZID=America/Chicago:20261113T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers @ Wheeler Eagles
@@ -1517,7 +1438,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0xM1QxODowMDowMC1Cb3lzLUJhc2tldGJhbGwtVH
  JlbW9udA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261113T180000
 DTEND;TZID=America/Chicago:20261113T193000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Tremont Eagles
@@ -1536,7 +1457,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMTNUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1IaWNrb3J5IEZsYXQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261113T180000
 DTEND;TZID=America/Chicago:20261113T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats vs Hickory Flat Rebels
@@ -1556,7 +1477,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTEzVDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1XaG
  VlbGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261113T190000
 DTEND;TZID=America/Chicago:20261113T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Wheeler Eagles
@@ -1575,7 +1496,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0xM1QxOTozMDowMC1HaXJscy1CYXNrZXRiYWxsLV
  RyZW1vbnQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261113T193000
 DTEND;TZID=America/Chicago:20261113T210000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles @ Tremont Eagles
@@ -1594,7 +1515,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMTNUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  hpY2tvcnkgRmxhdA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261113T193000
 DTEND;TZID=America/Chicago:20261113T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Hickory Flat Rebels
@@ -1613,7 +1534,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMTNUMTk6MzA6MDAtR2lybHMtQmFza2V0YmFsbC
  1IaWNrb3J5IEZsYXQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261113T193000
 DTEND;TZID=America/Chicago:20261113T210000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats vs Hickory Flat Rebels
@@ -1629,7 +1550,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTE3VDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtTW
  9vcmV2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261117T180000
 DTEND;TZID=America/Chicago:20261117T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers @ Mooreville Troopers
@@ -1648,7 +1569,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0xN1QxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  FzaGxhbmQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261117T180000
 DTEND;TZID=America/Chicago:20261117T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Ashland Blue Devils
@@ -1664,10 +1585,29 @@ URL;VALUE=URI:https://www.maxpreps.com/ms/basketball/girls/game/ashland-vs
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMTdUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
+ 1OZXR0bGV0b24@autoschedule
+SEQUENCE:0
+DTSTAMP:20260915T062728
+DTSTART;TZID=America/Chicago:20261117T180000
+DTEND;TZID=America/Chicago:20261117T193000
+SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Nettleton Tigers
+LOCATION:Nettleton\, Nettleton MS
+DESCRIPTION:Walnut Wildcats Wildcats\nAway game @ Nettleton (MS)\nSport: G
+ irls Basketball\nSeason: Winter 26-27\n\nThe Walnut varsity basketball tea
+ m has an away non-conference game @  Nettleton (MS) on Tuesday\, November 
+ 17 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/ms/basketball/girls/game/ne
+ ttleton-vs-walnut/11-17-2026/?c=669c199f-e982-4fb6-8dcf-440811fdfa93
+CATEGORIES:Basketball,Girls,Walnut Wildcats
+URL;VALUE=URI:https://www.maxpreps.com/ms/basketball/girls/game/nettleton-
+ vs-walnut/11-17-2026/?c=669c199f-e982-4fb6-8dcf-440811fdfa93
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTEtMTdUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1Ib3Vsa2E@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261117T180000
 DTEND;TZID=America/Chicago:20261117T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars vs Houlka Wildcats
@@ -1687,7 +1627,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTE3VDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1Nb2
  9yZXZpbGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261117T190000
 DTEND;TZID=America/Chicago:20261117T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Mooreville Troopers
@@ -1706,7 +1646,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMTdUMTk6MDA6MDAtQm95cy1CYXNrZXRiYWxsLU
  5ldHRsZXRvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261117T190000
 DTEND;TZID=America/Chicago:20261117T203000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Nettleton Tigers
@@ -1721,7 +1661,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0xN1QxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtQX
  NobGFuZA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261117T193000
 DTEND;TZID=America/Chicago:20261117T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Ashland Blue Devils
@@ -1740,7 +1680,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMTdUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  5ldHRsZXRvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261117T193000
 DTEND;TZID=America/Chicago:20261117T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Nettleton Tigers
@@ -1759,7 +1699,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTEtMTdUMTk6MzA6MDAtR2lybHMtQmFza2
  V0YmFsbC1Ib3Vsa2E@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261117T193000
 DTEND;TZID=America/Chicago:20261117T210000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars vs Houlka Wildcats
@@ -1779,7 +1719,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTE5VDE3OjAwOjAwLUdpcmxzLVNvY2Nlci1OZXcgQW
  xiYW55@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261119T170000
 DTEND;TZID=America/Chicago:20261119T190000
 SUMMARY:⚽ Girls Soccer: Ripley Tigers @ New Albany Bulldogs
@@ -1798,7 +1738,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTE5VDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtQ2
  VudGVyIEhpbGw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261119T180000
 DTEND;TZID=America/Chicago:20261119T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs Center Hill Mustangs
@@ -1819,7 +1759,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0xOVQxODozMDowMC1Cb3lzLUJhc2tldGJhbGwtVH
  VwZWxvIFRpdGFucw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261119T183000
 DTEND;TZID=America/Chicago:20261119T200000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Tupelo Titans Titans
@@ -1839,7 +1779,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTE5VDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1DZW
  50ZXIgSGlsbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261119T190000
 DTEND;TZID=America/Chicago:20261119T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs Center Hill Mustangs
@@ -1859,7 +1799,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTExLTIwVDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtSW5nb21hcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261120T180000
 DTEND;TZID=America/Chicago:20261120T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers @ Ingomar Falcons
@@ -1880,7 +1820,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0yMFQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  1hbnRhY2hpZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261120T180000
 DTEND;TZID=America/Chicago:20261120T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Mantachie Mustangs
@@ -1899,7 +1839,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMjBUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1TdHJheWhvcm4@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261120T180000
 DTEND;TZID=America/Chicago:20261120T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats vs Strayhorn Mustangs
@@ -1919,7 +1859,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTEtMjBUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1NYXJzaGFsbCBBY2FkZW15@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261120T180000
 DTEND;TZID=America/Chicago:20261120T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars @ Marshall Academy Pa
@@ -1942,7 +1882,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTEtMjBUMTk6MDA6MDAtQm95cy1CYXNrZX
  RiYWxsLU1hcnNoYWxsIEFjYWRlbXk@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261120T190000
 DTEND;TZID=America/Chicago:20261120T203000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars @ Marshall Academy Pat
@@ -1964,7 +1904,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTExLTIwVDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1JbmdvbWFy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261120T193000
 DTEND;TZID=America/Chicago:20261120T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers @ Ingomar Falcons
@@ -1984,7 +1924,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0yMFQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtTW
  FudGFjaGll@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261120T193000
 DTEND;TZID=America/Chicago:20261120T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Mantachie Mustangs
@@ -2003,7 +1943,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMjBUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLV
  N0cmF5aG9ybg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261120T193000
 DTEND;TZID=America/Chicago:20261120T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Strayhorn Mustangs
@@ -2023,7 +1963,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0yM1QwODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  hpY2tvcnkgRmxhdA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261123T080000
 DTEND;TZID=America/Chicago:20261123T093000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles @ Hickory Flat Rebels
@@ -2042,7 +1982,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMjNUMDk6MTU6MDAtQm95cy1CYXNrZXRiYWxsLV
  doZWVsZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261123T091500
 DTEND;TZID=America/Chicago:20261123T104500
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Wheeler Eagles
@@ -2061,7 +2001,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMjNUMTA6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  JlbG1vbnQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261123T103000
 DTEND;TZID=America/Chicago:20261123T120000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Belmont Cardinals
@@ -2080,7 +2020,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0yM1QxNDozMDowMC1Cb3lzLUJhc2tldGJhbGwtQm
  VsbW9udA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261123T143000
 DTEND;TZID=America/Chicago:20261123T160000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Belmont Cardinals
@@ -2099,7 +2039,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTIzVDE1OjE1OjAwLUdpcmxzLUJhc2tldGJhbGwtTW
  9vcmV2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261123T151500
 DTEND;TZID=America/Chicago:20261123T164500
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs Mooreville Troopers
@@ -2118,7 +2058,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMjNUMTU6NDU6MDAtR2lybHMtQmFza2V0YmFsbC
  1XaGVlbGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261123T154500
 DTEND;TZID=America/Chicago:20261123T171500
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Wheeler Eagles
@@ -2137,7 +2077,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTIzVDE2OjMwOjAwLUJveXMtQmFza2V0YmFsbC1JdG
  F3YW1iYSBBZ3JpY3VsdHVyYWw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261123T163000
 DTEND;TZID=America/Chicago:20261123T180000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Itawamba Agricultural Indian
@@ -2158,7 +2098,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0yM1QxOToxNTowMC1Cb3lzLUJhc2tldGJhbGwtSG
  lja29yeSBGbGF0@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261123T191500
 DTEND;TZID=America/Chicago:20261123T204500
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Hickory Flat Rebels
@@ -2177,7 +2117,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTEtMjNUMjA6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLU5ldHRsZXRvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261123T203000
 DTEND;TZID=America/Chicago:20261123T220000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars vs Nettleton Tigers
@@ -2197,7 +2137,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMjRUMDg6MDA6MDAtQm95cy1CYXNrZXRiYWxsLU
  p1bXBlcnRvd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261124T080000
 DTEND;TZID=America/Chicago:20261124T093000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Jumpertown Cardinals
@@ -2217,7 +2157,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0yNFQwOToxNTowMC1HaXJscy1CYXNrZXRiYWxsLU
  p1bXBlcnRvd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261124T091500
 DTEND;TZID=America/Chicago:20261124T104500
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Jumpertown Cardinals
@@ -2237,7 +2177,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTEtMjRUMTA6MzA6MDAtR2lybHMtQmFza2V0YmFsbC
  1MYWZheWV0dGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261124T103000
 DTEND;TZID=America/Chicago:20261124T120000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Lafayette Commodores
@@ -2257,7 +2197,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTI0VDE1OjE1OjAwLUJveXMtQmFza2V0YmFsbC1XZX
  N0IFVuaW9u@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261124T151500
 DTEND;TZID=America/Chicago:20261124T164500
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ West Union Eagles
@@ -2277,7 +2217,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMS0yNFQyMDozMDowMC1Cb3lzLUJhc2tldGJhbGwtUG
  90dHMgQ2FtcA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261124T203000
 DTEND;TZID=America/Chicago:20261124T220000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Potts Camp Cardinals
@@ -2296,7 +2236,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTMwVDE3OjAwOjAwLUdpcmxzLVNvY2Nlci1CeWhhbG
  lh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261130T170000
 DTEND;TZID=America/Chicago:20261130T190000
 SUMMARY:⚽ Girls Soccer: Ripley Tigers @ Byhalia Indians
@@ -2315,7 +2255,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTExLTMwVDE5OjAwOjAwLUJveXMtU29jY2VyLUJ5aGFsaW
  E@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261130T190000
 DTEND;TZID=America/Chicago:20261130T210000
 SUMMARY:⚽ Boys Soccer: Ripley Tigers @ Byhalia Indians
@@ -2334,7 +2274,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTAxVDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtQn
  loYWxpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T180000
 DTEND;TZID=America/Chicago:20261201T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs Byhalia Indians
@@ -2353,7 +2293,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTAxVDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtVGhyYXNoZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T180000
 DTEND;TZID=America/Chicago:20261201T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers vs Thrasher Rebels
@@ -2374,7 +2314,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0wMVQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLV
  doZWVsZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T180000
 DTEND;TZID=America/Chicago:20261201T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles @ Wheeler Eagles
@@ -2393,7 +2333,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMDFUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1BbGNvcm4gQ2VudHJhbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T180000
 DTEND;TZID=America/Chicago:20261201T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats vs Alcorn Central Golden Be
@@ -2414,7 +2354,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMDFUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1CeWVycw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T180000
 DTEND;TZID=America/Chicago:20261201T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars @ Byers Lions
@@ -2435,7 +2375,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTAxVDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1CeW
  hhbGlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T190000
 DTEND;TZID=America/Chicago:20261201T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs Byhalia Indians
@@ -2450,7 +2390,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTAxVDE5OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtQn
  loYWxpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T190000
 DTEND;TZID=America/Chicago:20261201T203000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs Byhalia Indians
@@ -2465,7 +2405,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTAxVDE5OjAwOjAwLUJveXMtQmFza2V0Ym
  FsbC1UaHJhc2hlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T190000
 DTEND;TZID=America/Chicago:20261201T203000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers vs Thrasher Rebels
@@ -2485,7 +2425,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0wMVQxOTowMDowMC1Cb3lzLUJhc2tldGJhbGwtV2
  hlZWxlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T190000
 DTEND;TZID=America/Chicago:20261201T203000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Wheeler Eagles
@@ -2504,7 +2444,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTAxVDE5OjMwOjAwLUJveXMtQmFza2V0YmFsbC1CeW
  hhbGlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T193000
 DTEND;TZID=America/Chicago:20261201T210000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs Byhalia Indians
@@ -2523,7 +2463,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMDFUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  FsY29ybiBDZW50cmFs@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T193000
 DTEND;TZID=America/Chicago:20261201T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Alcorn Central Golden Bea
@@ -2544,7 +2484,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMDFUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLUJ5ZXJz@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261201T193000
 DTEND;TZID=America/Chicago:20261201T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars @ Byers Lions
@@ -2564,7 +2504,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTA0VDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtS2
  9zc3V0aA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261204T180000
 DTEND;TZID=America/Chicago:20261204T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers @ Kossuth Aggies
@@ -2583,7 +2523,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTA0VDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtV2hlZWxlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261204T180000
 DTEND;TZID=America/Chicago:20261204T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers @ Wheeler Eagles
@@ -2602,7 +2542,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0wNFQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  JpZ2dlcnN2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261204T180000
 DTEND;TZID=America/Chicago:20261204T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles @ Biggersville Lions
@@ -2622,7 +2562,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMDRUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1CcnVjZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261204T180000
 DTEND;TZID=America/Chicago:20261204T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Bruce Trojans
@@ -2641,7 +2581,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMDRUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1UdXBlbG8gQ2hyaXN0aWFuIFByZXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261204T180000
 DTEND;TZID=America/Chicago:20261204T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars @ Tupelo Christian Pr
@@ -2663,7 +2603,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTA0VDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1Lb3
  NzdXRo@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261204T190000
 DTEND;TZID=America/Chicago:20261204T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Kossuth Aggies
@@ -2682,7 +2622,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTA0VDE5OjAwOjAwLUJveXMtQmFza2V0Ym
  FsbC1XaGVlbGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261204T190000
 DTEND;TZID=America/Chicago:20261204T203000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers @ Wheeler Eagles
@@ -2701,7 +2641,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMDRUMTk6MDA6MDAtQm95cy1CYXNrZXRiYWxsLU
  JydWNl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261204T190000
 DTEND;TZID=America/Chicago:20261204T203000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Bruce Trojans
@@ -2720,7 +2660,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0wNFQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtQm
  lnZ2Vyc3ZpbGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261204T193000
 DTEND;TZID=America/Chicago:20261204T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Biggersville Lions
@@ -2740,7 +2680,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMDRUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLVR1cGVsbyBDaHJpc3RpYW4gUHJlcA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261204T193000
 DTEND;TZID=America/Chicago:20261204T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars @ Tupelo Christian Pre
@@ -2762,7 +2702,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMDVUMDA6MDA6MDAtQm95cy1CYXNrZXRiYWxsLV
  Vua25vd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261205T000000
 DTEND;TZID=America/Chicago:20261205T013000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Unknown
@@ -2774,10 +2714,29 @@ URL;VALUE=URI:https://www.maxpreps.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0wNVQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
+ 5ldHRsZXRvbg@autoschedule
+SEQUENCE:0
+DTSTAMP:20260915T062728
+DTSTART;TZID=America/Chicago:20261205T180000
+DTEND;TZID=America/Chicago:20261205T193000
+SUMMARY:🏀 Girls Basketball: Falkner Eagles @ Nettleton Tigers
+LOCATION:Nettleton\, Nettleton MS
+DESCRIPTION:Falkner Eagles Eagles\nAway game @ Nettleton (MS)\nSport: Girl
+ s Basketball\nSeason: Winter 26-27\n\nThe Falkner varsity basketball team 
+ has an away non-conference game @  Nettleton (MS) on Saturday\, December 5
+  @ 6p.\n\nMaxPreps: https://www.maxpreps.com/ms/basketball/girls/game/falk
+ ner-vs-nettleton/12-5-2026/?c=872b8bfe-82dd-4fa3-bfa5-0fd723ec2ca0
+CATEGORIES:Basketball,Girls,Falkner Eagles
+URL;VALUE=URI:https://www.maxpreps.com/ms/basketball/girls/game/falkner-vs
+ -nettleton/12-5-2026/?c=872b8bfe-82dd-4fa3-bfa5-0fd723ec2ca0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0wNVQxOToxNTowMC1Cb3lzLUJhc2tldGJhbGwtTm
  V0dGxldG9u@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261205T191500
 DTEND;TZID=America/Chicago:20261205T204500
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Nettleton Tigers
@@ -2796,7 +2755,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTA4VDE4OjAwOjAwLUJveXMtQmFza2V0YmFsbC1Sb3
  NhIEZvcnQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261208T180000
 DTEND;TZID=America/Chicago:20261208T193000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Rosa Fort Lions
@@ -2816,7 +2775,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTA4VDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtRmFsa25lcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261208T180000
 DTEND;TZID=America/Chicago:20261208T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers @ Falkner Eagles
@@ -2836,7 +2795,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0wOFQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLV
  BpbmUgR3JvdmU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261208T180000
 DTEND;TZID=America/Chicago:20261208T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Pine Grove Panthers
@@ -2856,7 +2815,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMDhUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1JbmdvbWFy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261208T180000
 DTEND;TZID=America/Chicago:20261208T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Ingomar Falcons
@@ -2876,7 +2835,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMDhUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1XZXN0IFVuaW9u@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261208T180000
 DTEND;TZID=America/Chicago:20261208T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars @ West Union Eagles
@@ -2896,7 +2855,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMDhUMTk6MDA6MDAtQm95cy1CYXNrZX
  RiYWxsLVdlc3QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261208T190000
 DTEND;TZID=America/Chicago:20261208T203000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars @ West Union Eagles
@@ -2916,7 +2875,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTA4VDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1GYWxrbmVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261208T193000
 DTEND;TZID=America/Chicago:20261208T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers @ Falkner Eagles
@@ -2935,7 +2894,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0wOFQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtUG
  luZSBHcm92ZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261208T193000
 DTEND;TZID=America/Chicago:20261208T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Pine Grove Panthers
@@ -2955,7 +2914,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMDhUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  luZ29tYXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261208T193000
 DTEND;TZID=America/Chicago:20261208T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Ingomar Falcons
@@ -2975,7 +2934,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMTBUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1Bc2hsYW5k@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261210T180000
 DTEND;TZID=America/Chicago:20261210T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars @ Ashland Blue Devils
@@ -2995,7 +2954,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMTBUMTk6MzA6MDAtR2lybHMtQmFza2
  V0YmFsbC1Bc2hsYW5k@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261210T193000
 DTEND;TZID=America/Chicago:20261210T210000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars @ Ashland Blue Devils
@@ -3015,7 +2974,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTExVDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtQmlnZ2Vyc3ZpbGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261211T180000
 DTEND;TZID=America/Chicago:20261211T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers vs Biggersville Lions
@@ -3036,7 +2995,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0xMVQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  p1bXBlcnRvd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261211T180000
 DTEND;TZID=America/Chicago:20261211T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Jumpertown Cardinals
@@ -3056,7 +3015,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMTFUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1NeXJ0bGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261211T180000
 DTEND;TZID=America/Chicago:20261211T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats vs Myrtle Hawks
@@ -3075,7 +3034,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTExVDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1CaWdnZXJzdmlsbGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261211T193000
 DTEND;TZID=America/Chicago:20261211T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers vs Biggersville Lions
@@ -3096,7 +3055,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0xMVQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtSn
  VtcGVydG93bg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261211T193000
 DTEND;TZID=America/Chicago:20261211T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Jumpertown Cardinals
@@ -3116,7 +3075,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMTFUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  15cnRsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261211T193000
 DTEND;TZID=America/Chicago:20261211T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Myrtle Hawks
@@ -3135,7 +3094,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTE0VDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtTm
  V3IFNpdGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261214T180000
 DTEND;TZID=America/Chicago:20261214T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs New Site Royals
@@ -3154,7 +3113,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTE0VDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1OZX
  cgU2l0ZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261214T190000
 DTEND;TZID=America/Chicago:20261214T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs New Site Royals
@@ -3173,7 +3132,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTE1VDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtSnVtcGVydG93bg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261215T180000
 DTEND;TZID=America/Chicago:20261215T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers @ Jumpertown Cardinals
@@ -3194,7 +3153,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0xNVQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLV
  RocmFzaGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261215T180000
 DTEND;TZID=America/Chicago:20261215T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles @ Thrasher Rebels
@@ -3214,7 +3173,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMTVUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1FYXN0IFVuaW9u@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261215T180000
 DTEND;TZID=America/Chicago:20261215T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats vs East Union Urchins
@@ -3234,7 +3193,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMTVUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1IaWNrb3J5IEZsYXQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261215T180000
 DTEND;TZID=America/Chicago:20261215T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars vs Hickory Flat Rebel
@@ -3255,7 +3214,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTE1VDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1KdW1wZXJ0b3du@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261215T193000
 DTEND;TZID=America/Chicago:20261215T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers @ Jumpertown Cardinals
@@ -3276,7 +3235,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0xNVQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtVG
  hyYXNoZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261215T193000
 DTEND;TZID=America/Chicago:20261215T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Thrasher Rebels
@@ -3296,7 +3255,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMTVUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  Vhc3QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261215T193000
 DTEND;TZID=America/Chicago:20261215T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs East Union Urchins
@@ -3316,7 +3275,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMTVUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLUhpY2tvcnkgRmxhdA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261215T193000
 DTEND;TZID=America/Chicago:20261215T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars vs Hickory Flat Rebels
@@ -3336,7 +3295,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0xN1QxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLV
  doZWVsZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261217T180000
 DTEND;TZID=America/Chicago:20261217T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Wheeler Eagles
@@ -3355,7 +3314,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMTdUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1CYWxkd3lu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261217T180000
 DTEND;TZID=America/Chicago:20261217T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Baldwyn Bearcats
@@ -3374,7 +3333,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMTdUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1Qb3R0cyBDYW1w@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261217T180000
 DTEND;TZID=America/Chicago:20261217T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars @ Potts Camp Cardinal
@@ -3395,7 +3354,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTE3VDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1DbG
  Fya3NkYWxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261217T190000
 DTEND;TZID=America/Chicago:20261217T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Clarksdale Wildcats
@@ -3414,7 +3373,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTE3VDE5OjAwOjAwLUJveXMtU29jY2VyLUNvcmludG
  g@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261217T190000
 DTEND;TZID=America/Chicago:20261217T210000
 SUMMARY:⚽ Boys Soccer: Ripley Tigers @ Corinth Warriors
@@ -3433,7 +3392,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0xN1QxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtV2
  hlZWxlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261217T193000
 DTEND;TZID=America/Chicago:20261217T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Wheeler Eagles
@@ -3452,7 +3411,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMTdUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  JhbGR3eW4@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261217T193000
 DTEND;TZID=America/Chicago:20261217T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Baldwyn Bearcats
@@ -3471,7 +3430,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjYtMTItMTdUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLVBvdHRzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261217T193000
 DTEND;TZID=America/Chicago:20261217T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars @ Potts Camp Cardinals
@@ -3491,7 +3450,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTE4VDAwOjAwOjAwLUJveXMtQmFza2V0YmFsbC1Vbm
  tub3du@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261218T000000
 DTEND;TZID=America/Chicago:20261218T013000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Unknown
@@ -3506,7 +3465,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMThUMDA6MDA6MDAtQm95cy1CYXNrZXRiYWxsLV
  Vua25vd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261218T000000
 DTEND;TZID=America/Chicago:20261218T013000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Unknown
@@ -3521,7 +3480,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTE4VDE3OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtQ2
  xhcmtzZGFsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261218T170000
 DTEND;TZID=America/Chicago:20261218T183000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers @ Clarksdale Wildcats
@@ -3540,7 +3499,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTE4VDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtVGhyYXNoZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261218T180000
 DTEND;TZID=America/Chicago:20261218T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers @ Thrasher Rebels
@@ -3561,7 +3520,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI2LTEyLTE4VDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1UaHJhc2hlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261218T193000
 DTEND;TZID=America/Chicago:20261218T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers @ Thrasher Rebels
@@ -3582,7 +3541,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMjJUMTM6MzA6MDAtR2lybHMtQmFza2V0YmFsbC
  1UaHJhc2hlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261222T133000
 DTEND;TZID=America/Chicago:20261222T150000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats vs Thrasher Rebels
@@ -3602,7 +3561,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTIyVDE1OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtQ2
  9yaW50aA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261222T150000
 DTEND;TZID=America/Chicago:20261222T163000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers @ Corinth Warriors
@@ -3621,7 +3580,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMjJUMTU6MDA6MDAtQm95cy1CYXNrZXRiYWxsLV
  RocmFzaGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261222T150000
 DTEND;TZID=America/Chicago:20261222T163000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Thrasher Rebels
@@ -3641,7 +3600,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI2LTEyLTIyVDE3OjMwOjAwLUJveXMtQmFza2V0YmFsbC1Db3
  JpbnRo@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261222T173000
 DTEND;TZID=America/Chicago:20261222T190000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Corinth Warriors
@@ -3660,7 +3619,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0yOFQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  JhbGR3eW4@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261228T180000
 DTEND;TZID=America/Chicago:20261228T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Baldwyn Bearcats
@@ -3679,7 +3638,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNi0xMi0yOFQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtQm
  FsZHd5bg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261228T193000
 DTEND;TZID=America/Chicago:20261228T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Baldwyn Bearcats
@@ -3698,7 +3657,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjYtMTItMjlUMDA6MDA6MDAtQm95cy1CYXNrZXRiYWxsLV
  Vua25vd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20261229T000000
 DTEND;TZID=America/Chicago:20261229T013000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Unknown
@@ -3713,7 +3672,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTA1VDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtUm
  9zYSBGb3J0@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270105T180000
 DTEND;TZID=America/Chicago:20270105T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs Rosa Fort Lions
@@ -3732,7 +3691,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTA1VDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtQWxjb3JuIENlbnRyYWw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270105T180000
 DTEND;TZID=America/Chicago:20270105T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers vs Alcorn Central Golde
@@ -3754,7 +3713,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0wNVQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  hpY2tvcnkgRmxhdA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270105T180000
 DTEND;TZID=America/Chicago:20270105T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Hickory Flat Rebels
@@ -3773,7 +3732,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMDVUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1CZWxtb250@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270105T180000
 DTEND;TZID=America/Chicago:20270105T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Belmont Cardinals
@@ -3792,7 +3751,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTA1VDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1Sb3
  NhIEZvcnQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270105T190000
 DTEND;TZID=America/Chicago:20270105T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs Rosa Fort Lions
@@ -3811,7 +3770,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTA1VDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1Sb3
  NhIEZvcnQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270105T190000
 DTEND;TZID=America/Chicago:20270105T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs Rosa Fort Lions
@@ -3827,7 +3786,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTA1VDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1BbGNvcm4gQ2VudHJhbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270105T193000
 DTEND;TZID=America/Chicago:20270105T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers vs Alcorn Central Golden
@@ -3848,7 +3807,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0wNVQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtSG
  lja29yeSBGbGF0@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270105T193000
 DTEND;TZID=America/Chicago:20270105T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Hickory Flat Rebels
@@ -3867,7 +3826,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMDVUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  JlbG1vbnQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270105T193000
 DTEND;TZID=America/Chicago:20270105T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Belmont Cardinals
@@ -3886,7 +3845,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMDdUMDA6MDA6MDAtQm95cy1CYXNrZXRiYWxsLV
  Vua25vd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270107T000000
 DTEND;TZID=America/Chicago:20270107T013000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Unknown
@@ -3901,7 +3860,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTA3VDE3OjMwOjAwLUdpcmxzLVNvY2Nlci1TaGFubm
  9u@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270107T173000
 DTEND;TZID=America/Chicago:20270107T193000
 SUMMARY:⚽ Girls Soccer: Ripley Tigers @ Shannon Red Raiders
@@ -3920,7 +3879,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTA3VDE5OjAwOjAwLUJveXMtU29jY2VyLVNoYW5ub2
  4@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270107T190000
 DTEND;TZID=America/Chicago:20270107T210000
 SUMMARY:⚽ Boys Soccer: Ripley Tigers @ Shannon Red Raiders
@@ -3939,7 +3898,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMDhUMDA6MDA6MDAtQm95cy1CYXNrZXRiYWxsLV
  Vua25vd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270108T000000
 DTEND;TZID=America/Chicago:20270108T013000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Unknown
@@ -3954,7 +3913,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTEyVDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtU2
  VuYXRvYmlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270112T180000
 DTEND;TZID=America/Chicago:20270112T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers @ Senatobia Warriors
@@ -3973,7 +3932,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTEyVDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtV2hlZWxlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270112T180000
 DTEND;TZID=America/Chicago:20270112T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers vs Wheeler Eagles
@@ -3993,7 +3952,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0xMlQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  JpZ2dlcnN2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270112T180000
 DTEND;TZID=America/Chicago:20270112T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Biggersville Lions
@@ -4013,7 +3972,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDEtMTJUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1CeWVycw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270112T180000
 DTEND;TZID=America/Chicago:20270112T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars vs Byers Lions
@@ -4034,7 +3993,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTEyVDE5OjMwOjAwLUJveXMtQmFza2V0YmFsbC1TZW
  5hdG9iaWE@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270112T193000
 DTEND;TZID=America/Chicago:20270112T210000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Senatobia Warriors
@@ -4053,7 +4012,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTEyVDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1XaGVlbGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270112T193000
 DTEND;TZID=America/Chicago:20270112T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers vs Wheeler Eagles
@@ -4073,7 +4032,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0xMlQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtQm
  lnZ2Vyc3ZpbGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270112T193000
 DTEND;TZID=America/Chicago:20270112T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Biggersville Lions
@@ -4093,7 +4052,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDEtMTJUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLUJ5ZXJz@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270112T193000
 DTEND;TZID=America/Chicago:20270112T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars vs Byers Lions
@@ -4113,7 +4072,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTE0VDE3OjAwOjAwLUdpcmxzLVNvY2Nlci1UaXNob2
  1pbmdvIENvdW50eQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270114T170000
 DTEND;TZID=America/Chicago:20270114T190000
 SUMMARY:⚽ Girls Soccer: Ripley Tigers @ Tishomingo County Braves
@@ -4133,7 +4092,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0xNFQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  hvdWxrYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270114T180000
 DTEND;TZID=America/Chicago:20270114T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Houlka Wildcats
@@ -4152,7 +4111,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTE0VDE5OjAwOjAwLUJveXMtU29jY2VyLVRpc2hvbW
  luZ28gQ291bnR5@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270114T190000
 DTEND;TZID=America/Chicago:20270114T210000
 SUMMARY:⚽ Boys Soccer: Ripley Tigers @ Tishomingo County Braves
@@ -4172,7 +4131,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0xNFQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtSG
  91bGth@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270114T193000
 DTEND;TZID=America/Chicago:20270114T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Houlka Wildcats
@@ -4191,7 +4150,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMTRUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  FzaGxhbmQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270114T193000
 DTEND;TZID=America/Chicago:20270114T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Ashland Blue Devils
@@ -4206,7 +4165,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTE1VDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtQ2
  xhcmtzZGFsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270115T180000
 DTEND;TZID=America/Chicago:20270115T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs Clarksdale Wildcats
@@ -4225,7 +4184,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTE1VDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtRmFsa25lcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270115T180000
 DTEND;TZID=America/Chicago:20270115T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers vs Falkner Eagles
@@ -4245,7 +4204,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0xNVQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLV
  BpbmUgR3JvdmU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270115T180000
 DTEND;TZID=America/Chicago:20270115T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles @ Pine Grove Panthers
@@ -4265,7 +4224,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDEtMTVUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1Bc2hsYW5k@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270115T180000
 DTEND;TZID=America/Chicago:20270115T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars vs Ashland Blue Devil
@@ -4286,7 +4245,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTE1VDE5OjAwOjAwLUJveXMtQmFza2V0YmFsbC1DbG
  Fya3NkYWxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270115T190000
 DTEND;TZID=America/Chicago:20270115T203000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs Clarksdale Wildcats
@@ -4305,7 +4264,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDEtMTVUMTk6MDA6MDAtQm95cy1CYXNrZX
  RiYWxsLUFzaGxhbmQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270115T190000
 DTEND;TZID=America/Chicago:20270115T203000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars vs Ashland Blue Devils
@@ -4324,7 +4283,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTE1VDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1GYWxrbmVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270115T193000
 DTEND;TZID=America/Chicago:20270115T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers vs Falkner Eagles
@@ -4344,7 +4303,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0xNVQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtUG
  luZSBHcm92ZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270115T193000
 DTEND;TZID=America/Chicago:20270115T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Pine Grove Panthers
@@ -4364,7 +4323,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMTVUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  hhbWlsdG9u@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270115T193000
 DTEND;TZID=America/Chicago:20270115T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Hamilton Lions
@@ -4383,7 +4342,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTE5VDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtQmlnZ2Vyc3ZpbGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270119T180000
 DTEND;TZID=America/Chicago:20270119T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers @ Biggersville Lions
@@ -4404,7 +4363,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTE5VDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtQmlnZ2Vyc3ZpbGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270119T180000
 DTEND;TZID=America/Chicago:20270119T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers @ Biggersville Lions
@@ -4425,7 +4384,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0xOVQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  p1bXBlcnRvd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270119T180000
 DTEND;TZID=America/Chicago:20270119T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles @ Jumpertown Cardinals
@@ -4445,7 +4404,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDEtMTlUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1XZXN0IFVuaW9u@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270119T180000
 DTEND;TZID=America/Chicago:20270119T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars vs West Union Eagles
@@ -4465,7 +4424,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTE5VDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1CaWdnZXJzdmlsbGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270119T193000
 DTEND;TZID=America/Chicago:20270119T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers @ Biggersville Lions
@@ -4486,7 +4445,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0xOVQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtSn
  VtcGVydG93bg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270119T193000
 DTEND;TZID=America/Chicago:20270119T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Jumpertown Cardinals
@@ -4506,7 +4465,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDEtMTlUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLVdlc3QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270119T193000
 DTEND;TZID=America/Chicago:20270119T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars vs West Union Eagles
@@ -4526,7 +4485,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTIxVDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtQW
  xjb3JuIENlbnRyYWw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270121T180000
 DTEND;TZID=America/Chicago:20270121T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers @ Alcorn Central Golden Bears
@@ -4546,7 +4505,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTIxVDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtU21pdGh2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270121T180000
 DTEND;TZID=America/Chicago:20270121T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers vs Smithville Seminoles
@@ -4566,7 +4525,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0yMVQxOTowMDowMC1Cb3lzLUJhc2tldGJhbGwtQm
  x1ZSBNb3VudGFpbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270121T190000
 DTEND;TZID=America/Chicago:20270121T203000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Blue Mountain Cougars
@@ -4585,7 +4544,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDEtMjFUMTk6MDA6MDAtQm95cy1CYXNrZX
  RiYWxsLUZhbGtuZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270121T190000
 DTEND;TZID=America/Chicago:20270121T203000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars vs Falkner Eagles
@@ -4604,7 +4563,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTIxVDE5OjMwOjAwLUJveXMtQmFza2V0YmFsbC1BbG
  Nvcm4gQ2VudHJhbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270121T193000
 DTEND;TZID=America/Chicago:20270121T210000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Alcorn Central Golden Bears
@@ -4624,7 +4583,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTIxVDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1TbWl0aHZpbGxl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270121T193000
 DTEND;TZID=America/Chicago:20270121T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers vs Smithville Seminoles
@@ -4644,7 +4603,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTIyVDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtU2
  VuYXRvYmlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270122T180000
 DTEND;TZID=America/Chicago:20270122T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs Senatobia Warriors
@@ -4663,7 +4622,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTIyVDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtSnVtcGVydG93bg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270122T180000
 DTEND;TZID=America/Chicago:20270122T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers vs Jumpertown Cardinals
@@ -4684,7 +4643,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0yMlQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLV
  RocmFzaGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270122T180000
 DTEND;TZID=America/Chicago:20270122T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Thrasher Rebels
@@ -4704,7 +4663,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjJUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1IYXRsZXk@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270122T180000
 DTEND;TZID=America/Chicago:20270122T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats vs Hatley Tigers
@@ -4723,7 +4682,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTIyVDE5OjMwOjAwLUJveXMtQmFza2V0YmFsbC1TZW
  5hdG9iaWE@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270122T193000
 DTEND;TZID=America/Chicago:20270122T210000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs Senatobia Warriors
@@ -4742,7 +4701,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTIyVDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1KdW1wZXJ0b3du@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270122T193000
 DTEND;TZID=America/Chicago:20270122T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers vs Jumpertown Cardinals
@@ -4763,7 +4722,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0yMlQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtVG
  hyYXNoZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270122T193000
 DTEND;TZID=America/Chicago:20270122T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Thrasher Rebels
@@ -4783,7 +4742,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjJUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  hhdGxleQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270122T193000
 DTEND;TZID=America/Chicago:20270122T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Hatley Tigers
@@ -4802,7 +4761,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjNUMDA6MDA6MDAtQm95cy1CYXNrZXRiYWxsLU
  luZ29tYXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270123T000000
 DTEND;TZID=America/Chicago:20270123T013000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Ingomar Falcons
@@ -4821,7 +4780,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDEtMjVUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1IaWNrb3J5IEZsYXQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270125T180000
 DTEND;TZID=America/Chicago:20270125T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars @ Hickory Flat Rebels
@@ -4841,7 +4800,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDEtMjVUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLUhpY2tvcnkgRmxhdA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270125T193000
 DTEND;TZID=America/Chicago:20270125T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars @ Hickory Flat Rebels
@@ -4861,7 +4820,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTI2VDE3OjAwOjAwLUJveXMtQmFza2V0YmFsbC1TYW
  x0aWxsbw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270126T170000
 DTEND;TZID=America/Chicago:20270126T183000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs Saltillo Tigers
@@ -4876,7 +4835,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTI2VDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtU2
  FsdGlsbG8@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270126T180000
 DTEND;TZID=America/Chicago:20270126T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs Saltillo Tigers
@@ -4895,7 +4854,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0yNlQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLV
  N0cmF5aG9ybg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270126T180000
 DTEND;TZID=America/Chicago:20270126T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles vs Strayhorn Mustangs
@@ -4915,7 +4874,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjZUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1OZXcgU2l0ZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270126T180000
 DTEND;TZID=America/Chicago:20270126T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats vs New Site Royals
@@ -4934,7 +4893,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTI2VDE5OjAwOjAwLUJveXMtU29jY2VyLUJ5aGFsaW
  E@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270126T190000
 DTEND;TZID=America/Chicago:20270126T210000
 SUMMARY:⚽ Boys Soccer: Ripley Tigers vs Byhalia Indians
@@ -4953,7 +4912,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTI2VDE5OjAwOjAwLUdpcmxzLVNvY2Nlci1CeWhhbG
  lh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270126T190000
 DTEND;TZID=America/Chicago:20270126T210000
 SUMMARY:⚽ Girls Soccer: Ripley Tigers vs Byhalia Indians
@@ -4972,7 +4931,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTI2VDE5OjMwOjAwLUJveXMtQmFza2V0YmFsbC1TYW
  x0aWxsbw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270126T193000
 DTEND;TZID=America/Chicago:20270126T210000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs Saltillo Tigers
@@ -4991,7 +4950,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0yNlQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtU3
  RyYXlob3Ju@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270126T193000
 DTEND;TZID=America/Chicago:20270126T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles vs Strayhorn Mustangs
@@ -5011,7 +4970,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjZUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  5ldyBTaXRl@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270126T193000
 DTEND;TZID=America/Chicago:20270126T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs New Site Royals
@@ -5030,7 +4989,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTI4VDE3OjAwOjAwLUdpcmxzLVNvY2Nlci1UaXNob2
  1pbmdvIENvdW50eQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270128T170000
 DTEND;TZID=America/Chicago:20270128T190000
 SUMMARY:⚽ Girls Soccer: Ripley Tigers vs Tishomingo County Braves
@@ -5050,7 +5009,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjhUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1CaWdnZXJzdmlsbGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270128T180000
 DTEND;TZID=America/Chicago:20270128T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Biggersville Lions
@@ -5070,7 +5029,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjhUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1CaWdnZXJzdmlsbGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270128T180000
 DTEND;TZID=America/Chicago:20270128T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Biggersville Lions
@@ -5090,7 +5049,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTI4VDE5OjAwOjAwLUJveXMtU29jY2VyLVRpc2hvbW
  luZ28gQ291bnR5@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270128T190000
 DTEND;TZID=America/Chicago:20270128T210000
 SUMMARY:⚽ Boys Soccer: Ripley Tigers vs Tishomingo County Braves
@@ -5110,7 +5069,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjhUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  JpZ2dlcnN2aWxsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270128T193000
 DTEND;TZID=America/Chicago:20270128T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Biggersville Lions
@@ -5130,7 +5089,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTI5VDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtQm
  FsZHd5bg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270129T180000
 DTEND;TZID=America/Chicago:20270129T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers @ Baldwyn Bearcats
@@ -5149,7 +5108,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTI5VDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtTmV3IEFsYmFueQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270129T180000
 DTEND;TZID=America/Chicago:20270129T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers @ New Albany Bulldogs
@@ -5169,7 +5128,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0yOVQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  Vhc3QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270129T180000
 DTEND;TZID=America/Chicago:20270129T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles @ East Union Urchins
@@ -5189,7 +5148,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjlUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1UaHJhc2hlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270129T180000
 DTEND;TZID=America/Chicago:20270129T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Thrasher Rebels
@@ -5209,7 +5168,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDEtMjlUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1Qb3R0cyBDYW1w@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270129T180000
 DTEND;TZID=America/Chicago:20270129T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars vs Potts Camp Cardina
@@ -5230,7 +5189,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAxLTI5VDE5OjMwOjAwLUJveXMtQmFza2V0YmFsbC1CYW
  xkd3lu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270129T193000
 DTEND;TZID=America/Chicago:20270129T210000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Baldwyn Bearcats
@@ -5249,7 +5208,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAxLTI5VDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1OZXcgQWxiYW55@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270129T193000
 DTEND;TZID=America/Chicago:20270129T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers @ New Albany Bulldogs
@@ -5269,7 +5228,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMS0yOVQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtRW
  FzdCBVbmlvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270129T193000
 DTEND;TZID=America/Chicago:20270129T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ East Union Urchins
@@ -5289,7 +5248,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDEtMjlUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLV
  RocmFzaGVy@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270129T193000
 DTEND;TZID=America/Chicago:20270129T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Thrasher Rebels
@@ -5309,7 +5268,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDEtMjlUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLVBvdHRzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270129T193000
 DTEND;TZID=America/Chicago:20270129T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars vs Potts Camp Cardinal
@@ -5330,7 +5289,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAyLTAxVDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtVHVwZWxvIENocmlzdGlhbiBQcmVw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270201T180000
 DTEND;TZID=America/Chicago:20270201T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers vs Tupelo Christian Pre
@@ -5352,7 +5311,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAyLTAxVDE5OjMwOjAwLUJveXMtQmFza2V0Ym
  FsbC1UdXBlbG8gQ2hyaXN0aWFuIFByZXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270201T193000
 DTEND;TZID=America/Chicago:20270201T210000
 SUMMARY:🏀 Boys Basketball: Pine Grove Panthers vs Tupelo Christian Prep
@@ -5374,7 +5333,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAyLTAyVDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtTG
  V3aXNidXJn@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270202T180000
 DTEND;TZID=America/Chicago:20270202T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers vs Lewisburg Patriots
@@ -5394,7 +5353,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMi0wMlQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLU
  1hbnRhY2hpZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270202T180000
 DTEND;TZID=America/Chicago:20270202T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles @ Mantachie Mustangs
@@ -5413,7 +5372,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDItMDJUMTg6MDA6MDAtQm95cy1CYXNrZXRiYWxsLU
  5ldHRsZXRvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270202T180000
 DTEND;TZID=America/Chicago:20270202T193000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Nettleton Tigers
@@ -5426,10 +5385,29 @@ URL;VALUE=URI:https://www.maxpreps.com
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDItMDJUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
+ 1OZXR0bGV0b24@autoschedule
+SEQUENCE:0
+DTSTAMP:20260915T062728
+DTSTART;TZID=America/Chicago:20270202T180000
+DTEND;TZID=America/Chicago:20270202T193000
+SUMMARY:🏀 Girls Basketball: Walnut Wildcats vs Nettleton Tigers
+LOCATION:Home - Walnut Wildcats
+DESCRIPTION:Walnut Wildcats Wildcats\nHome game vs Nettleton (MS)\nSport: 
+ Girls Basketball\nSeason: Winter 26-27\n\nThe Nettleton varsity basketball
+  team has an away non-conference game @  Walnut (MS) on Tuesday\, February
+  2 @ 6p.\n\nMaxPreps: https://www.maxpreps.com/ms/basketball/girls/game/ne
+ ttleton-vs-walnut/2-2-2027/?c=0dd3e60c-778b-4b9c-a7c6-be171af98fc5
+CATEGORIES:Basketball,Girls,Walnut Wildcats
+URL;VALUE=URI:https://www.maxpreps.com/ms/basketball/girls/game/nettleton-
+ vs-walnut/2-2-2027/?c=0dd3e60c-778b-4b9c-a7c6-be171af98fc5
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDItMDJUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1TdHJheWhvcm4@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270202T180000
 DTEND;TZID=America/Chicago:20270202T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars vs Strayhorn Mustangs
@@ -5449,7 +5427,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDItMDJUMTk6MDA6MDAtQm95cy1CYXNrZXRiYWxsLU
  5ldHRsZXRvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270202T190000
 DTEND;TZID=America/Chicago:20270202T203000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Nettleton Tigers
@@ -5465,7 +5443,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAyLTAyVDE5OjMwOjAwLUJveXMtQmFza2V0YmFsbC1MZX
  dpc2J1cmc@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270202T193000
 DTEND;TZID=America/Chicago:20270202T210000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers vs Lewisburg Patriots
@@ -5485,7 +5463,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMi0wMlQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtTW
  FudGFjaGll@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270202T193000
 DTEND;TZID=America/Chicago:20270202T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Mantachie Mustangs
@@ -5504,7 +5482,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDItMDJUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLU
  5ldHRsZXRvbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270202T193000
 DTEND;TZID=America/Chicago:20270202T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats vs Nettleton Tigers
@@ -5523,7 +5501,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDItMDJUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLVN0cmF5aG9ybg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270202T193000
 DTEND;TZID=America/Chicago:20270202T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars vs Strayhorn Mustangs
@@ -5543,7 +5521,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAyLTA0VDE4OjAwOjAwLUdpcmxzLUJhc2tldGJhbGwtQn
  loYWxpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270204T180000
 DTEND;TZID=America/Chicago:20270204T193000
 SUMMARY:🏀 Girls Basketball: Ripley Tigers @ Byhalia Indians
@@ -5562,7 +5540,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMi0wNFQxODowMDowMC1HaXJscy1CYXNrZXRiYWxsLV
  BvdHRzIENhbXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270204T180000
 DTEND;TZID=America/Chicago:20270204T193000
 SUMMARY:🏀 Girls Basketball: Falkner Eagles @ Potts Camp Cardinals
@@ -5581,7 +5559,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDItMDRUMTg6MDA6MDAtR2lybHMtQmFza2
  V0YmFsbC1WYXJkYW1hbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270204T180000
 DTEND;TZID=America/Chicago:20270204T193000
 SUMMARY:🏀 Girls Basketball: Blue Mountain Cougars @ Vardaman Rams
@@ -5601,7 +5579,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAyLTA0VDE5OjMwOjAwLUJveXMtQmFza2V0YmFsbC1CeW
  hhbGlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270204T193000
 DTEND;TZID=America/Chicago:20270204T210000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Byhalia Indians
@@ -5620,7 +5598,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAyLTA0VDE5OjMwOjAwLUJveXMtQmFza2V0YmFsbC1CeW
  hhbGlh@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270204T193000
 DTEND;TZID=America/Chicago:20270204T210000
 SUMMARY:🏀 Boys Basketball: Ripley Tigers @ Byhalia Indians
@@ -5635,7 +5613,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMi0wNFQxOTozMDowMC1Cb3lzLUJhc2tldGJhbGwtUG
  90dHMgQ2FtcA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270204T193000
 DTEND;TZID=America/Chicago:20270204T210000
 SUMMARY:🏀 Boys Basketball: Falkner Eagles @ Potts Camp Cardinals
@@ -5654,7 +5632,7 @@ BEGIN:VEVENT
 UID:Qmx1ZSBNb3VudGFpbiBDb3VnYXJzLTIwMjctMDItMDRUMTk6MzA6MDAtQm95cy1CYXNrZX
  RiYWxsLVZhcmRhbWFu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270204T193000
 DTEND;TZID=America/Chicago:20270204T210000
 SUMMARY:🏀 Boys Basketball: Blue Mountain Cougars @ Vardaman Rams
@@ -5674,7 +5652,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAyLTA1VDE4OjAwOjAwLUdpcmxzLUJhc2tldG
  JhbGwtU291dGggUG9udG90b2M@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270205T180000
 DTEND;TZID=America/Chicago:20270205T193000
 SUMMARY:🏀 Girls Basketball: Pine Grove Panthers vs South Pontotoc Couga
@@ -5695,7 +5673,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDItMDVUMTg6MDA6MDAtR2lybHMtQmFza2V0YmFsbC
  1WYXJkYW1hbg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270205T180000
 DTEND;TZID=America/Chicago:20270205T193000
 SUMMARY:🏀 Girls Basketball: Walnut Wildcats @ Vardaman Rams
@@ -5714,7 +5692,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDItMDVUMTk6MzA6MDAtQm95cy1CYXNrZXRiYWxsLV
  ZhcmRhbWFu@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270205T193000
 DTEND;TZID=America/Chicago:20270205T210000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Vardaman Rams
@@ -5733,7 +5711,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDItMDhUMDA6MDA6MDAtQm95cy1CYXNrZXRiYWxsLV
  Vua25vd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270208T000000
 DTEND;TZID=America/Chicago:20270208T013000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Unknown
@@ -5748,7 +5726,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDItMDlUMDA6MDA6MDAtQm95cy1CYXNrZXRiYWxsLV
  Vua25vd24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270209T000000
 DTEND;TZID=America/Chicago:20270209T013000
 SUMMARY:🏀 Boys Basketball: Walnut Wildcats @ Unknown
@@ -5763,7 +5741,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAyLTA5VDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLU5ldy
  BBbGJhbnk@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270209T183000
 DTEND;TZID=America/Chicago:20270209T203000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs New Albany Bulldogs
@@ -5782,7 +5760,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAyLTEyVDE3OjMwOjAwLUdpcmxzLVNvZnRiYWxsLUNvcm
  ludGg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270212T173000
 DTEND;TZID=America/Chicago:20270212T193000
 SUMMARY:🥎 Girls Softball: Ripley Tigers @ Corinth Warriors
@@ -5801,7 +5779,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAyLTE2VDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLUtvc3
  N1dGg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270216T183000
 DTEND;TZID=America/Chicago:20270216T203000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Kossuth Aggies
@@ -5820,7 +5798,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAyLTE4VDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLUFsY2
  9ybiBDZW50cmFs@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270218T183000
 DTEND;TZID=America/Chicago:20270218T203000
 SUMMARY:🥎 Girls Softball: Ripley Tigers @ Alcorn Central Golden Bears
@@ -5840,7 +5818,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMi0xOVQxNzozMDowMC1HaXJscy1Tb2Z0YmFsbC1OZX
  cgU2l0ZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270219T173000
 DTEND;TZID=America/Chicago:20270219T193000
 SUMMARY:🥎 Girls Softball: Falkner Eagles vs New Site Royals
@@ -5859,7 +5837,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMi0yMlQxODowMDowMC1Cb3lzLUJhc2ViYWxsLVRyZW
  1vbnQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270222T180000
 DTEND;TZID=America/Chicago:20270222T203000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles @ Tremont Eagles
@@ -5878,7 +5856,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMi0yM1QxODozMDowMC1HaXJscy1Tb2Z0YmFsbC1BbG
  Nvcm4gQ2VudHJhbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270223T183000
 DTEND;TZID=America/Chicago:20270223T203000
 SUMMARY:🥎 Girls Softball: Falkner Eagles @ Alcorn Central Golden Bears
@@ -5898,7 +5876,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAyLTI1VDE4OjAwOjAwLUdpcmxzLVNvZnRiYWxsLVNvdX
  RoIFBhbm9sYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270225T180000
 DTEND;TZID=America/Chicago:20270225T200000
 SUMMARY:🥎 Girls Softball: Ripley Tigers @ South Panola Tigers
@@ -5918,7 +5896,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMi0yNVQxODozMDowMC1HaXJscy1Tb2Z0YmFsbC1UdX
  BlbG8gQ2hyaXN0aWFuIFByZXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270225T183000
 DTEND;TZID=America/Chicago:20270225T203000
 SUMMARY:🥎 Girls Softball: Falkner Eagles vs Tupelo Christian Prep Eagle
@@ -5939,7 +5917,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAyLTI2VDE3OjAwOjAwLUdpcmxzLVNvZnRiYW
  xsLVR1cGVsbyBDaHJpc3RpYW4gUHJlcA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270226T170000
 DTEND;TZID=America/Chicago:20270226T190000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Tupelo Christian Prep E
@@ -5961,7 +5939,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAyLTI3VDEyOjAwOjAwLUdpcmxzLVNvZnRiYW
  xsLVR1cGVsbyBDaHJpc3RpYW4gUHJlcA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270227T120000
 DTEND;TZID=America/Chicago:20270227T140000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers vs Tupelo Christian Prep 
@@ -5983,7 +5961,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTAxVDE3OjAwOjAwLUdpcmxzLVNvZnRiYWxsLUJ5aG
  FsaWE@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270301T170000
 DTEND;TZID=America/Chicago:20270301T190000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Byhalia Indians
@@ -6002,7 +5980,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTAxVDE4OjAwOjAwLUdpcmxzLVNvZnRiYWxsLUJ5aG
  FsaWE@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270301T180000
 DTEND;TZID=America/Chicago:20270301T200000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Byhalia Indians
@@ -6021,7 +5999,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTA1VDE3OjAwOjAwLUdpcmxzLVNvZnRiYWxsLUVhc3
  QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270305T170000
 DTEND;TZID=America/Chicago:20270305T190000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs East Union Urchins
@@ -6041,7 +6019,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTA1VDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLUVhc3
  QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270305T183000
 DTEND;TZID=America/Chicago:20270305T203000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs East Union Urchins
@@ -6061,7 +6039,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTA1VDE5OjAwOjAwLUJveXMtQmFzZWJhbGwtUG9udG
  90b2M@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270305T190000
 DTEND;TZID=America/Chicago:20270305T213000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers @ Pontotoc Warriors
@@ -6080,7 +6058,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTA4VDE3OjAwOjAwLUdpcmxzLVNvZnRiYWxsLUFsY2
  9ybiBDZW50cmFs@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270308T170000
 DTEND;TZID=America/Chicago:20270308T190000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Alcorn Central Golden Bears
@@ -6099,7 +6077,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTA4VDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLUFsY2
  9ybiBDZW50cmFs@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270308T183000
 DTEND;TZID=America/Chicago:20270308T203000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Alcorn Central Golden Bears
@@ -6119,7 +6097,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMy0xNlQxNzowMDowMC1Cb3lzLUJhc2ViYWxsLVdoZW
  VsZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270316T170000
 DTEND;TZID=America/Chicago:20270316T193000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles @ Wheeler Eagles
@@ -6138,7 +6116,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDMtMTZUMTc6MzA6MDAtR2lybHMtU29mdGJhbGwtTm
  V3IFNpdGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270316T173000
 DTEND;TZID=America/Chicago:20270316T193000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats vs New Site Royals
@@ -6157,7 +6135,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTE2VDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLVdoZW
  VsZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270316T183000
 DTEND;TZID=America/Chicago:20270316T203000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Wheeler Eagles
@@ -6176,7 +6154,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTE4VDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLVNlbm
  F0b2JpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270318T183000
 DTEND;TZID=America/Chicago:20270318T203000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Senatobia Warriors
@@ -6195,7 +6173,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wMy0xOVQxNzowMDowMC1Cb3lzLUJhc2ViYWxsLVdoZW
  VsZXI@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270319T170000
 DTEND;TZID=America/Chicago:20270319T193000
 SUMMARY:⚾ Boys Baseball: Falkner Eagles vs Wheeler Eagles
@@ -6214,7 +6192,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAzLTIwVDEwOjAwOjAwLUJveXMtQmFzZWJhbG
  wtTGV4aW5ndG9u@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270320T100000
 DTEND;TZID=America/Chicago:20270320T123000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Lexington Golden Bears
@@ -6235,7 +6213,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDMtMjBUMTE6MDA6MDAtQm95cy1CYXNlYmFsbC1BbG
  Nvcm4gQ2VudHJhbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270320T110000
 DTEND;TZID=America/Chicago:20270320T133000
 SUMMARY:⚾ Boys Baseball: Walnut Wildcats @ Alcorn Central Golden Bears
@@ -6255,7 +6233,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDMtMjBUMTM6MzA6MDAtQm95cy1CYXNlYmFsbC1FYX
  N0IFVuaW9u@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270320T133000
 DTEND;TZID=America/Chicago:20270320T160000
 SUMMARY:⚾ Boys Baseball: Walnut Wildcats vs East Union Urchins
@@ -6275,7 +6253,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTIyVDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLU15cn
  RsZQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270322T183000
 DTEND;TZID=America/Chicago:20270322T203000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Myrtle Hawks
@@ -6294,7 +6272,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAzLTIyVDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLUNvcmludGg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270322T183000
 DTEND;TZID=America/Chicago:20270322T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers vs Corinth Warriors
@@ -6314,7 +6292,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTI3VDE0OjAwOjAwLUJveXMtQmFzZWJhbGwtQ2VudG
  VyIEhpbGw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270327T140000
 DTEND;TZID=America/Chicago:20270327T163000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers @ Center Hill Mustangs
@@ -6334,7 +6312,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTI5VDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLVdlc3
  QgVW5pb24@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270329T183000
 DTEND;TZID=America/Chicago:20270329T203000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs West Union Eagles
@@ -6353,7 +6331,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTMwVDE3OjAwOjAwLUJveXMtQmFzZWJhbGwtQnloYW
  xpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270330T170000
 DTEND;TZID=America/Chicago:20270330T193000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers vs Byhalia Indians
@@ -6372,7 +6350,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTMwVDE4OjAwOjAwLUdpcmxzLVNvZnRiYWxsLUNsYX
  Jrc2RhbGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270330T180000
 DTEND;TZID=America/Chicago:20270330T200000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Clarksdale Wildcats
@@ -6391,7 +6369,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTAzLTMwVDE5OjAwOjAwLUJveXMtQmFzZWJhbGwtQnloYW
  xpYQ@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270330T190000
 DTEND;TZID=America/Chicago:20270330T213000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers vs Byhalia Indians
@@ -6410,7 +6388,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTAzLTMwVDE5OjAwOjAwLUJveXMtQmFzZWJhbG
  wtV2hlZWxlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270330T190000
 DTEND;TZID=America/Chicago:20270330T213000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers vs Wheeler Eagles
@@ -6429,7 +6407,7 @@ BEGIN:VEVENT
 UID:RmFsa25lciBFYWdsZXMtMjAyNy0wNC0wMVQxNzowMDowMC1HaXJscy1Tb2Z0YmFsbC1UdX
  BlbG8gQ2hyaXN0aWFuIFByZXA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270401T170000
 DTEND;TZID=America/Chicago:20270401T190000
 SUMMARY:🥎 Girls Softball: Falkner Eagles @ Tupelo Christian Prep Eagles
@@ -6449,7 +6427,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDQtMDFUMTc6MDA6MDAtR2lybHMtU29mdGJhbGwtTm
  V3IFNpdGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270401T170000
 DTEND;TZID=America/Chicago:20270401T190000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats @ New Site Royals
@@ -6468,7 +6446,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTA0LTAxVDE4OjMwOjAwLUdpcmxzLVNvZnRiYWxsLUJvb2
  5ldmlsbGU@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270401T183000
 DTEND;TZID=America/Chicago:20270401T203000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Booneville Blue Devils
@@ -6487,7 +6465,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTA0LTAyVDE3OjAwOjAwLUJveXMtQmFzZWJhbG
  wtV2hlZWxlcg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270402T170000
 DTEND;TZID=America/Chicago:20270402T193000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Wheeler Eagles
@@ -6506,7 +6484,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDQtMDJUMTc6MzA6MDAtR2lybHMtU29mdGJhbGwtQ2
  9yaW50aA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270402T173000
 DTEND;TZID=America/Chicago:20270402T193000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats vs Corinth Warriors
@@ -6525,7 +6503,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTA0LTA2VDE3OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLUNvcmludGg@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270406T173000
 DTEND;TZID=America/Chicago:20270406T193000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Corinth Warriors
@@ -6544,7 +6522,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTA0LTA4VDE3OjAwOjAwLUdpcmxzLVNvZnRiYWxsLVJvc2
  EgRm9ydA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270408T170000
 DTEND;TZID=America/Chicago:20270408T190000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Rosa Fort Lions
@@ -6563,7 +6541,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTA0LTA4VDE4OjAwOjAwLUdpcmxzLVNvZnRiYWxsLVJvc2
  EgRm9ydA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270408T180000
 DTEND;TZID=America/Chicago:20270408T200000
 SUMMARY:🥎 Girls Softball: Ripley Tigers vs Rosa Fort Lions
@@ -6582,7 +6560,7 @@ BEGIN:VEVENT
 UID:V2FsbnV0IFdpbGRjYXRzLTIwMjctMDQtMDlUMTc6MzA6MDAtR2lybHMtU29mdGJhbGwtQ2
  9yaW50aA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270409T173000
 DTEND;TZID=America/Chicago:20270409T193000
 SUMMARY:🥎 Girls Softball: Walnut Wildcats @ Corinth Warriors
@@ -6601,7 +6579,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTA0LTEyVDE4OjMwOjAwLUdpcmxzLVNvZnRiYW
  xsLUl0YXdhbWJhIEFncmljdWx0dXJhbA@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270412T183000
 DTEND;TZID=America/Chicago:20270412T203000
 SUMMARY:🥎 Girls Softball: Pine Grove Panthers @ Itawamba Agricultural I
@@ -6623,7 +6601,7 @@ BEGIN:VEVENT
 UID:UGluZSBHcm92ZSBQYW50aGVycy0yMDI3LTA0LTEzVDE4OjAwOjAwLUJveXMtQmFzZWJhbG
  wtQWxjb3JuIENlbnRyYWw@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270413T180000
 DTEND;TZID=America/Chicago:20270413T203000
 SUMMARY:⚾ Boys Baseball: Pine Grove Panthers @ Alcorn Central Golden Bea
@@ -6644,7 +6622,7 @@ BEGIN:VEVENT
 UID:UmlwbGV5IFRpZ2Vycy0yMDI3LTA0LTE3VDE5OjAwOjAwLUJveXMtQmFzZWJhbGwtU2FsdG
  lsbG8@autoschedule
 SEQUENCE:0
-DTSTAMP:20260914T063348
+DTSTAMP:20260915T062728
 DTSTART;TZID=America/Chicago:20270417T190000
 DTEND;TZID=America/Chicago:20270417T213000
 SUMMARY:⚾ Boys Baseball: Ripley Tigers @ Saltillo Tigers
