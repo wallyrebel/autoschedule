@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-21T06:34:23.394Z",
-  "totalGames": 351,
+  "lastUpdated": "2026-09-22T06:26:24.529Z",
+  "totalGames": 348,
   "teams": [
     "Ripley Tigers",
     "Pine Grove Panthers",
@@ -9,14 +9,14 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 104,
-    "Pine Grove Panthers": 53,
-    "Falkner Eagles": 79,
+    "Ripley Tigers": 103,
     "Walnut Wildcats": 77,
+    "Pine Grove Panthers": 52,
+    "Falkner Eagles": 78,
     "Blue Mountain Cougars": 38
   },
   "gamesBySport": {
-    "Girls Volleyball": 20,
+    "Girls Volleyball": 17,
     "Boys Football": 18,
     "Girls Soccer": 8,
     "Boys Soccer": 8,
