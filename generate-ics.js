@@ -25,11 +25,13 @@ const GAME_DURATIONS = {
 export function generateICS(games, config) {
   const calendar = ical({
     name: config.calendarName || 'High School Sports Schedules',
-    timezone: 'America/Chicago',
     prodId: { company: 'AutoSchedule', product: 'MaxPreps Calendar' },
     description: 'Auto-generated calendar from MaxPreps high school sports schedules',
     ttl: 3600, // Suggest refresh every hour
   });
+
+  // Keep the advertised display zone while letting DTSTAMP serialize as UTC.
+  calendar.x('X-WR-TIMEZONE', 'America/Chicago');
 
   console.log(`\nGenerating ICS with ${games.length} events...`);
 

@@ -64,6 +64,8 @@ test('complete fresh scrape publishes validated matching feed and coverage', asy
     const ics = readFileSync(join(dir, 'schedules.ics'), 'utf8');
     validateCalendar(ics, 2);
     assert.match(ics, /DTSTART;TZID=America\/Chicago:20261004T190000/);
+    assert.match(ics, /DTSTAMP:\d{8}T\d{6}Z/);
+    assert.match(ics, /X-WR-TIMEZONE:America\/Chicago/);
     assert.deepEqual(JSON.parse(readFileSync(join(dir, 'summary.json'), 'utf8')), summary);
   } finally { rmSync(dir, { recursive: true, force: true }); }
 });

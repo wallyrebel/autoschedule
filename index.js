@@ -15,7 +15,8 @@ export function validateCalendar(content, expectedCount) {
       lines.filter(l => l === 'BEGIN:VEVENT').length !== expectedCount ||
       lines.filter(l => l === 'END:VEVENT').length !== expectedCount ||
       lines.filter(l => l.startsWith('DTSTART')).length !== expectedCount ||
-      lines.filter(l => l.startsWith('UID:')).length !== expectedCount) {
+      lines.filter(l => l.startsWith('UID:')).length !== expectedCount ||
+      lines.filter(l => /^DTSTAMP:\d{8}T\d{6}Z$/.test(l)).length !== expectedCount) {
     throw new Error('Generated calendar failed structural/event-count validation');
   }
   const uids = content.replace(/\r?\n[ \t]/g, '').split(/\r?\n/).filter(l => l.startsWith('UID:'));
