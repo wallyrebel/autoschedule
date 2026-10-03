@@ -58,3 +58,18 @@ An update is published only after every configured school and every discovered c
 Explicit empty contest arrays and legacy pages with “No Schedule Available” are accepted only with matching school, sport, and season metadata. Legacy schedule tables are accepted as having no upcoming games only when every row is positively dated more than a day in the past; other legacy tables fail safely. A missing array or unidentified page is a failure. Generated event counts and unique IDs are validated in a staged file, then the ICS is replaced atomically. `docs/summary.json` records source coverage, dates, and a SHA-256 digest of the feed.
 
 `npm test` runs offline regression tests. `npm run dry-run` performs a live scrape and validation without writing either published file. Scraper code changes trigger the same guarded GitHub Actions workflow as config changes, and overlapping updates are serialized.
+
+## Direct schedule viewer
+
+The responsive viewer at `https://wallyrebel.github.io/autoschedule/` reads the adjacent `schedules.ics` and `summary.json` directly. It displays an upcoming agenda with school and sport filters, Central time labels, source links, and a verified last-update timestamp. The existing ICS subscription URLs are unchanged.
+
+For a WordPress Custom HTML block, use:
+
+```html
+<iframe src="https://wallyrebel.github.io/autoschedule/"
+        title="Tippah Sports upcoming games"
+        style="width:100%;height:1000px;border:0;"
+        loading="lazy"></iframe>
+```
+
+The frame scrolls to the remaining games and the “Show more games” control. `1000px` is a recommended starting height for desktop and mobile. The viewer uses no third-party scripts or credentials. Parser tests include actual-feed coverage, UTC and IANA timezones, midnight, DST folds/gaps, all-day dates, folding/escaping, and filter/reset behavior.

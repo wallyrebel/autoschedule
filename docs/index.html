@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#153d32">
+  <meta name="description" content="Upcoming varsity sports schedules for Ripley, Pine Grove, Falkner, Walnut, and Blue Mountain. All times Central.">
+  <title>Tippah Sports | Upcoming games</title>
+  <link rel="stylesheet" href="viewer.css">
+  <script type="module" src="viewer.js"></script>
+</head>
+<body>
+  <main class="schedule" id="schedule">
+    <header class="hero">
+      <div class="hero-top"><span class="brand"><span class="brand-mark" aria-hidden="true">TS</span> TIPPAH SPORTS</span><a class="subscribe" href="schedules.ics">Subscribe <span aria-hidden="true">↗</span></a></div>
+      <p class="eyebrow">THE LOCAL LINEUP</p>
+      <h1>Your schools. Your games.</h1>
+      <p class="intro">Follow varsity sports across Tippah County, from the next tip-off to the final whistle.</p>
+      <div class="hero-bottom"><span class="live-label"><span aria-hidden="true" class="dot"></span> UPCOMING SCHEDULE</span><span>All times Central · America/Chicago</span></div>
+    </header>
+    <section class="controls" aria-label="Filter games">
+      <div class="filter"><label for="school">School</label><select id="school" disabled><option value="">All schools</option></select></div>
+      <div class="filter"><label for="sport">Sport</label><select id="sport" disabled><option value="">All sports</option></select></div>
+      <button id="reset" class="reset" disabled>Reset filters</button>
+    </section>
+    <section class="agenda" aria-labelledby="agenda-title">
+      <div class="agenda-header"><div><h2 id="agenda-title">Coming up</h2><p id="count" class="muted" aria-live="polite">Checking the latest schedule…</p></div><p id="updated" class="updated">Loading update details…</p></div>
+      <div id="state" class="state" role="status"><span class="spinner" aria-hidden="true"></span><h3>Loading games</h3><p>Getting the latest schedule for your schools.</p></div>
+      <div id="games"></div>
+      <div class="more-wrap"><button id="more" class="more" hidden>Show more games</button></div>
+      <div id="retry-wrap" class="more-wrap" hidden><button id="retry" class="more">Try again</button></div>
+    </section>
+    <footer><p>Schedules can change. Check the game listing before you go.</p><a href="https://www.maxpreps.com/" target="_blank" rel="noopener noreferrer">Schedule source: MaxPreps ↗</a></footer>
+  </main>
+</body>
+</html>
