@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "2026-10-02T06:25:34.131Z",
-  "totalGames": 0,
+  "lastUpdated": "2026-10-03T03:04:43.942Z",
+  "status": "complete",
+  "totalGames": 332,
+  "sourceUpcomingGames": 338,
+  "duplicateSourceRecords": 6,
   "teams": [
     "Ripley Tigers",
     "Pine Grove Panthers",
@@ -8,6 +11,556 @@
     "Walnut Wildcats",
     "Blue Mountain Cougars"
   ],
-  "gamesByTeam": {},
-  "gamesBySport": {}
+  "gamesByTeam": {
+    "Ripley Tigers": 95,
+    "Pine Grove Panthers": 50,
+    "Falkner Eagles": 77,
+    "Walnut Wildcats": 72,
+    "Blue Mountain Cougars": 38
+  },
+  "gamesBySport": {
+    "Girls Volleyball": 2,
+    "Boys Football": 12,
+    "Girls Soccer": 9,
+    "Boys Soccer": 9,
+    "Girls Basketball": 112,
+    "Boys Basketball": 127,
+    "Girls Softball": 43,
+    "Boys Baseball": 18
+  },
+  "sources": [
+    {
+      "team": "Ripley Tigers",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/baseball/schedule/",
+      "format": "next-data",
+      "contests": 5,
+      "upcoming": 5
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Tennis",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/tennis/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Golf",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/golf/girls/spring/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Softball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/softball/schedule/",
+      "format": "next-data",
+      "contests": 19,
+      "upcoming": 19
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Tennis",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/tennis/girls/spring/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Basketball",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/basketball/schedule/",
+      "format": "next-data",
+      "contests": 28,
+      "upcoming": 28
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Soccer",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/soccer/winter/schedule/",
+      "format": "next-data",
+      "contests": 9,
+      "upcoming": 9
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Basketball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/basketball/girls/schedule/",
+      "format": "next-data",
+      "contests": 24,
+      "upcoming": 24
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Soccer",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/soccer/girls/winter/schedule/",
+      "format": "next-data",
+      "contests": 9,
+      "upcoming": 9
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Cross Country",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/cross-country/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Football",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/football/schedule/",
+      "format": "next-data",
+      "contests": 10,
+      "upcoming": 4
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Golf",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/golf/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Cross Country",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/cross-country/girls/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Ripley Tigers",
+      "sport": "Volleyball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/volleyball/schedule/",
+      "format": "next-data",
+      "contests": 40,
+      "upcoming": 0
+    },
+    {
+      "team": "Pine Grove Panthers",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/baseball/schedule/",
+      "format": "next-data",
+      "contests": 5,
+      "upcoming": 5
+    },
+    {
+      "team": "Pine Grove Panthers",
+      "sport": "Softball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/softball/schedule/",
+      "format": "next-data",
+      "contests": 6,
+      "upcoming": 6
+    },
+    {
+      "team": "Pine Grove Panthers",
+      "sport": "Basketball",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/basketball/schedule/",
+      "format": "next-data",
+      "contests": 20,
+      "upcoming": 20
+    },
+    {
+      "team": "Pine Grove Panthers",
+      "sport": "Basketball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/basketball/girls/schedule/",
+      "format": "next-data",
+      "contests": 20,
+      "upcoming": 20
+    },
+    {
+      "team": "Pine Grove Panthers",
+      "sport": "Cross Country",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/cross-country/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Pine Grove Panthers",
+      "sport": "Golf",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/golf/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Pine Grove Panthers",
+      "sport": "Slow Pitch Softball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/slow-pitch-softball/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Pine Grove Panthers",
+      "sport": "Volleyball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/volleyball/schedule/",
+      "format": "next-data",
+      "contests": 42,
+      "upcoming": 0
+    },
+    {
+      "team": "Falkner Eagles",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/baseball/schedule/",
+      "format": "next-data",
+      "contests": 5,
+      "upcoming": 5
+    },
+    {
+      "team": "Falkner Eagles",
+      "sport": "Softball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/softball/schedule/",
+      "format": "next-data",
+      "contests": 14,
+      "upcoming": 14
+    },
+    {
+      "team": "Falkner Eagles",
+      "sport": "Basketball",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/basketball/schedule/",
+      "format": "next-data",
+      "contests": 27,
+      "upcoming": 27
+    },
+    {
+      "team": "Falkner Eagles",
+      "sport": "Basketball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/basketball/girls/schedule/",
+      "format": "next-data",
+      "contests": 26,
+      "upcoming": 26
+    },
+    {
+      "team": "Falkner Eagles",
+      "sport": "Cross Country",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/cross-country/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Falkner Eagles",
+      "sport": "Football",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/football/schedule/",
+      "format": "next-data",
+      "contests": 10,
+      "upcoming": 4
+    },
+    {
+      "team": "Falkner Eagles",
+      "sport": "Golf",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/golf/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Falkner Eagles",
+      "sport": "Golf",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/golf/girls/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Falkner Eagles",
+      "sport": "Slow Pitch Softball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/slow-pitch-softball/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Falkner Eagles",
+      "sport": "Volleyball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/volleyball/schedule/",
+      "format": "next-data",
+      "contests": 28,
+      "upcoming": 2
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/baseball/schedule/",
+      "format": "next-data",
+      "contests": 3,
+      "upcoming": 3
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Tennis",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/tennis/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Golf",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/golf/girls/spring/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Softball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/softball/schedule/",
+      "format": "next-data",
+      "contests": 4,
+      "upcoming": 4
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Basketball",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/basketball/schedule/",
+      "format": "next-data",
+      "contests": 38,
+      "upcoming": 38
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Dance Team",
+      "gender": "Co-ed",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/dance-team/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Basketball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/basketball/girls/schedule/",
+      "format": "next-data",
+      "contests": 23,
+      "upcoming": 23
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Cross Country",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/cross-country/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Football",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/football/schedule/",
+      "format": "next-data",
+      "contests": 10,
+      "upcoming": 4
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Golf",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/golf/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Cross Country",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/cross-country/girls/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Golf",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/golf/girls/schedule/",
+      "format": "legacy-verified-past-only",
+      "contests": 1,
+      "upcoming": 0
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Slow Pitch Softball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/slow-pitch-softball/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Walnut Wildcats",
+      "sport": "Volleyball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/volleyball/schedule/",
+      "format": "next-data",
+      "contests": 43,
+      "upcoming": 1
+    },
+    {
+      "team": "Blue Mountain Cougars",
+      "sport": "Baseball",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/blue-mountain/blue-mountain-cougars/baseball/schedule/",
+      "format": "next-data",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Blue Mountain Cougars",
+      "sport": "Track & Field",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/blue-mountain/blue-mountain-cougars/track-field/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Blue Mountain Cougars",
+      "sport": "Softball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/blue-mountain/blue-mountain-cougars/softball/schedule/",
+      "format": "next-data",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Blue Mountain Cougars",
+      "sport": "Track & Field",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/blue-mountain/blue-mountain-cougars/track-field/girls/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    },
+    {
+      "team": "Blue Mountain Cougars",
+      "sport": "Basketball",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/blue-mountain/blue-mountain-cougars/basketball/schedule/",
+      "format": "next-data",
+      "contests": 17,
+      "upcoming": 17
+    },
+    {
+      "team": "Blue Mountain Cougars",
+      "sport": "Basketball",
+      "gender": "Girls",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/blue-mountain/blue-mountain-cougars/basketball/girls/schedule/",
+      "format": "next-data",
+      "contests": 21,
+      "upcoming": 21
+    },
+    {
+      "team": "Blue Mountain Cougars",
+      "sport": "Cross Country",
+      "gender": "Boys",
+      "year": "26-27",
+      "url": "https://www.maxpreps.com/ms/blue-mountain/blue-mountain-cougars/cross-country/schedule/",
+      "format": "legacy-explicit-no-schedule",
+      "contests": 0,
+      "upcoming": 0
+    }
+  ],
+  "calendarSha256": "1f8d5698fd11ae14f00bf3dfc3a82962334378746cea169e8670df3ecec7dca7",
+  "firstGame": "2026-10-03T12:00:00",
+  "lastGame": "2027-04-17T19:00:00"
 }
