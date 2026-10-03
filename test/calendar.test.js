@@ -112,3 +112,13 @@ test('unmarked missing opponent identity is a schema failure', () => {
   const c = contest('one'); c[0][1][1] = null; c[0][1][14] = null;
   return preserved({ 'https://www.maxpreps.com/one/Football/schedule/': { props: { pageProps: { schoolId: 'one', contests: [c], teamContext: { data: sport('one') } } } } });
 });
+
+function legacyTable(date) { return legacyPage({}, false) + `<table id="schedule"><tbody><tr><td><abbr class="event-time" title="${date}"></abbr></td></tr></tbody></table>`; }
+test('matching legacy table with verified past dates is legitimate no-upcoming-games', async () => {
+  const summary = await updateCalendar({ ...options, fetch: mockFetch({ 'https://www.maxpreps.com/one/Football/schedule/': legacyTable('2026-08-31T15:00:00') }), dryRun: true });
+  assert.equal(summary.totalGames, 1); assert.equal(summary.sources[0].contests, 1);
+  assert.equal(summary.sources[0].format, 'legacy-verified-past-only');
+});
+for (const date of ['2026-10-04T15:00:00', 'not-a-date', '2026-10-03T11:00:00']) {
+  test('unparsed future/invalid/recent legacy row preserves feed: ' + date, () => preserved({ 'https://www.maxpreps.com/one/Football/schedule/': legacyTable(date) }));
+}

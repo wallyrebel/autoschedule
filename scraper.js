@@ -54,12 +54,26 @@ export async function fetchNextData(url, options = {}) {
     const expected = options.expectedSport;
     if (expected && metadataText) {
       const metadata = JSON.parse(metadataText);
+      const identityMatches = metadata.pageType === 'teamschedule' && metadata.pageError === 0 &&
+        metadata.schoolId === options.expectedSchoolId && metadata.ssid === expected.sportSeasonId &&
+        metadata.sportName === expected.sport && metadata.gender === expected.gender &&
+        metadata.year === expected.year && metadata.season === expected.season && metadata.teamLevel === 'Varsity';
       const empty = $('h2').toArray().some(el => $(el).text().trim() === 'No Schedule Available');
-      if (empty && metadata.pageType === 'teamschedule' && metadata.pageError === 0 &&
-          metadata.schoolId === options.expectedSchoolId && metadata.ssid === expected.sportSeasonId &&
-          metadata.sportName === expected.sport && metadata.gender === expected.gender &&
-          metadata.year === expected.year && metadata.season === expected.season && metadata.teamLevel === 'Varsity') {
+      if (identityMatches && empty) {
         return { props: { pageProps: { schoolId: metadata.schoolId, contests: [], sourceFormat: 'legacy-explicit-no-schedule' } } };
+      }
+      // Legacy tables are also valid empty *upcoming* schedules when every row is
+      // positively dated in the past. Do not guess at future legacy fixture fields.
+      const rows = $('#schedule tbody tr').toArray();
+      const cutoff = (options.now || new Date()).getTime() - 24 * 60 * 60 * 1000;
+      const allPast = rows.length > 0 && rows.every(row => {
+        const date = $(row).find('.event-time').attr('title');
+        return typeof date === 'string' && /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(date) &&
+          Number.isFinite(new Date(date).getTime()) && new Date(date).getDate() === Number(date.slice(8, 10)) &&
+          new Date(date).getTime() < cutoff;
+      });
+      if (identityMatches && allPast) {
+        return { props: { pageProps: { schoolId: metadata.schoolId, contests: [], sourceFormat: 'legacy-verified-past-only', sourceTotalContests: rows.length } } };
       }
     }
     throw new Error(`No validated schedule data found on ${url}`);
@@ -258,7 +272,7 @@ export async function scrapeSchedule(sportInfo, teamName, teamSchoolId, options 
   }
 
   console.log(`  → ${games.length} upcoming games`);
-  options.sources?.push({ team: teamName, sport: sportInfo.sport, gender: sportInfo.gender, year: sportInfo.year, url: scheduleUrl, format: data.props.pageProps.sourceFormat || 'next-data', contests: contests.length, upcoming: games.length });
+  options.sources?.push({ team: teamName, sport: sportInfo.sport, gender: sportInfo.gender, year: sportInfo.year, url: scheduleUrl, format: data.props.pageProps.sourceFormat || 'next-data', contests: data.props.pageProps.sourceTotalContests ?? contests.length, upcoming: games.length });
   return games;
 }
 
