@@ -27,9 +27,10 @@ function delay(ms) {
 /**
  * Fetch a MaxPreps page and extract the __NEXT_DATA__ JSON
  */
-async function fetchNextData(url) {
+export async function fetchNextData(url, options = {}) {
   console.log(`  Fetching: ${url}`);
-  const response = await fetch(url, {
+  const response = await (options.fetch || fetch)(url, {
+    signal: AbortSignal.timeout(30000),
     headers: {
       'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
       'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -46,7 +47,22 @@ async function fetchNextData(url) {
   const nextDataScript = $('#__NEXT_DATA__').html();
 
   if (!nextDataScript) {
-    throw new Error(`No __NEXT_DATA__ found on ${url}`);
+    // Older MaxPreps sport pages expose explicit no-schedule HTML and JSON metadata.
+    // Accept only that known empty state, with the full requested team/season identity.
+    const metadataText = $('script').toArray().map(el => $(el).html() || '')
+      .map(script => script.match(/var utag_data\s*=\s*(\{[\s\S]*?\})\s*;/)?.[1]).find(Boolean);
+    const expected = options.expectedSport;
+    if (expected && metadataText) {
+      const metadata = JSON.parse(metadataText);
+      const empty = $('h2').toArray().some(el => $(el).text().trim() === 'No Schedule Available');
+      if (empty && metadata.pageType === 'teamschedule' && metadata.pageError === 0 &&
+          metadata.schoolId === options.expectedSchoolId && metadata.ssid === expected.sportSeasonId &&
+          metadata.sportName === expected.sport && metadata.gender === expected.gender &&
+          metadata.year === expected.year && metadata.season === expected.season && metadata.teamLevel === 'Varsity') {
+        return { props: { pageProps: { schoolId: metadata.schoolId, contests: [], sourceFormat: 'legacy-explicit-no-schedule' } } };
+      }
+    }
+    throw new Error(`No validated schedule data found on ${url}`);
   }
 
   return JSON.parse(nextDataScript);
@@ -56,11 +72,23 @@ async function fetchNextData(url) {
  * Discover all varsity sports for a team from their school home page
  * Returns { sports: [...], schoolId: string }
  */
-async function discoverSports(teamUrl, teamName) {
+export async function discoverSports(teamUrl, teamName, options = {}) {
   console.log(`\nDiscovering sports for ${teamName}...`);
 
-  const data = await fetchNextData(teamUrl);
-  const sportSeasons = data?.props?.pageProps?.schoolContext?.sportSeasons || [];
+  const data = await fetchNextData(teamUrl, options);
+  const sportSeasons = data?.props?.pageProps?.schoolContext?.sportSeasons;
+  if (!Array.isArray(sportSeasons) || sportSeasons.length === 0) {
+    throw new Error(`Missing/empty sportSeasons for ${teamName}`);
+  }
+  for (const sport of sportSeasons) {
+    if (!sport || typeof sport.isPublished !== 'boolean' ||
+        !['schoolId', 'level', 'year', 'sport', 'gender', 'season', 'canonicalUrl', 'sportSeasonId'].every(k => typeof sport[k] === 'string' && sport[k])) {
+      throw new Error(`Invalid sportSeasons schema for ${teamName}`);
+    }
+    if (new URL(sport.canonicalUrl).origin !== 'https://www.maxpreps.com') {
+      throw new Error(`Invalid sport URL for ${teamName}`);
+    }
+  }
 
   // Get the current school year (e.g. "25-26")
   const currentYears = sportSeasons
@@ -75,6 +103,10 @@ async function discoverSports(teamUrl, teamName) {
   const varsitySports = sportSeasons.filter(s =>
     s.level === 'Varsity' && s.isPublished && s.year === currentYear
   );
+
+  if (!currentYear || varsitySports.length === 0) {
+    throw new Error(`No published current varsity sports for ${teamName}`);
+  }
 
   // Extract schoolId
   const schoolId = sportSeasons[0]?.schoolId || null;
@@ -120,72 +152,67 @@ async function discoverSports(teamUrl, teamName) {
  *   [21] = Mascot (e.g. "Tigers")
  *   [24] = Abbreviation (e.g. "RHS")
  */
-function parseContest(contest, teamSchoolId) {
-  try {
-    const teams = contest[0];
-    if (!teams || !Array.isArray(teams) || teams.length < 2) return null;
-
-    const gameTime = contest[11];
-    if (!gameTime) return null;
-
-    const gameUrl = contest[18] || '';
-    const contestType = contest[21] || 'Game';
-    const description = contest[29] || '';
-
-    // Find our team and the opponent
-    let ourTeam = null;
-    let opponent = null;
-
-    for (const team of teams) {
-      if (!Array.isArray(team)) continue;
-      // Match by school ID (index 1 in team array)
-      if (team[1] === teamSchoolId) {
-        ourTeam = team;
-      } else {
-        opponent = team;
-      }
-    }
-
-    // If we couldn't identify our team by schoolId, fall back to first team
-    if (!ourTeam) {
-      ourTeam = teams[0];
-      opponent = teams[1];
-    }
-
-    if (!opponent) return null;
-
-    // Determine home/away: team[11] = 0 means Home, 1 means Away
-    const isHome = ourTeam[11] === 0;
-    const isNeutral = ourTeam[11] === 2 || opponent[11] === 2;
-
-    return {
-      dateTime: gameTime,
-      opponentName: opponent[14] || 'Unknown',
-      opponentMascot: opponent[21] || '',
-      opponentCity: opponent[15] || '',
-      opponentState: opponent[16] || '',
-      opponentDisplayName: opponent[19] || opponent[14] || 'Unknown',
-      isHome,
-      isNeutral,
-      gameUrl: gameUrl.startsWith('http') ? gameUrl : `https://www.maxpreps.com${gameUrl}`,
-      contestType,
-      description,
-      ourTeamName: ourTeam[14] || 'Unknown',
-      ourMascot: ourTeam[21] || '',
-      location: isHome
-        ? `${ourTeam[14]} - Home`
-        : `@ ${opponent[14]}${opponent[15] ? ', ' + opponent[15] : ''}${opponent[16] ? ' ' + opponent[16] : ''}`,
-    };
-  } catch (err) {
-    console.error('  Error parsing contest:', err.message);
-    return null;
+export function parseContest(contest, teamSchoolId) {
+  const teams = contest?.[0];
+  if (!Array.isArray(contest) || !Array.isArray(teams) || teams.length !== 2 || !teams.every(t => Array.isArray(t) && [0, 1, 2].includes(t[11]) && ((typeof t[1] === 'string' && typeof t[14] === 'string' && t[14]) || (t[1] === null && t[14] === null && t[7] === true)))) {
+    throw new Error('Invalid contest teams schema');
   }
+
+  const gameTime = contest[11];
+  if (typeof gameTime !== 'string' || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.test(gameTime) || !Number.isFinite(new Date(gameTime).getTime()) || new Date(gameTime).getDate() !== Number(gameTime.slice(8, 10))) {
+    throw new Error(`Invalid contest date: ${gameTime}`);
+  }
+
+  const gameUrl = contest[18] || '';
+  const contestType = contest[21] || 'Game';
+  const description = contest[29] || '';
+
+  // Find our team and the opponent
+  let ourTeam = null;
+  let opponent = null;
+
+  for (const team of teams) {
+    if (!Array.isArray(team)) continue;
+    // Match by school ID (index 1 in team array)
+    if (team[1] === teamSchoolId) {
+      ourTeam = team;
+    } else {
+      opponent = team;
+    }
+  }
+
+  if (!ourTeam || !opponent || teams.filter(t => t[1] === teamSchoolId).length !== 1) {
+    throw new Error('Contest does not identify the configured school');
+  }
+
+  // Determine home/away: team[11] = 0 means Home, 1 means Away
+  const isHome = ourTeam[11] === 0;
+  const isNeutral = ourTeam[11] === 2 || opponent[11] === 2;
+
+  return {
+    dateTime: gameTime,
+    opponentName: opponent[14] || 'TBA',
+    opponentMascot: opponent[21] || '',
+    opponentCity: opponent[15] || '',
+    opponentState: opponent[16] || '',
+    opponentDisplayName: opponent[19] || opponent[14] || 'TBA',
+    isHome,
+    isNeutral,
+    gameUrl: gameUrl ? (gameUrl.startsWith('http') ? gameUrl : `https://www.maxpreps.com${gameUrl}`) : '',
+    contestType,
+    description,
+    ourTeamName: ourTeam[14] || 'Unknown',
+    ourMascot: ourTeam[21] || '',
+    location: isHome
+      ? `${ourTeam[14]} - Home`
+      : `@ ${opponent[14]}${opponent[15] ? ', ' + opponent[15] : ''}${opponent[16] ? ' ' + opponent[16] : ''}`,
+  };
 }
 
 /**
  * Scrape the schedule for a specific sport
  */
-async function scrapeSchedule(sportInfo, teamName, teamSchoolId) {
+export async function scrapeSchedule(sportInfo, teamName, teamSchoolId, options = {}) {
   // Build schedule URL — handle season-specific paths correctly
   let scheduleUrl = sportInfo.canonicalUrl.replace(/\/$/, '') + '/schedule/';
   // Avoid double /schedule/schedule/
@@ -193,55 +220,52 @@ async function scrapeSchedule(sportInfo, teamName, teamSchoolId) {
     scheduleUrl = sportInfo.canonicalUrl;
   }
 
-  try {
-    const data = await fetchNextData(scheduleUrl);
-    const contests = data?.props?.pageProps?.contests || [];
-
-    // Also try to get the schoolId from the page if we don't have it
-    let schoolId = teamSchoolId;
-    if (!schoolId) {
-      const sportSeasons = data?.props?.pageProps?.schoolContext?.sportSeasons || [];
-      const matching = sportSeasons.find(s => s.sport === sportInfo.sport && s.level === 'Varsity');
-      if (matching) schoolId = matching.schoolId;
+  const data = await fetchNextData(scheduleUrl, { ...options, expectedSport: sportInfo, expectedSchoolId: teamSchoolId });
+  const contests = data?.props?.pageProps?.contests;
+  if (!Array.isArray(contests)) throw new Error(`Missing/invalid contests for ${scheduleUrl}`);
+  const pageSchoolId = data?.props?.pageProps?.schoolId;
+  if (pageSchoolId !== teamSchoolId) throw new Error(`Wrong school on ${scheduleUrl}`);
+  if (!data.props.pageProps.sourceFormat) {
+    const context = data.props.pageProps.teamContext?.data;
+    if (!context || !['sport', 'gender', 'season', 'year', 'sportSeasonId'].every(k => context[k] === sportInfo[k]) || context.level !== 'Varsity') {
+      throw new Error(`Wrong/missing sport season on ${scheduleUrl}`);
     }
-
-    console.log(`  Found ${contests.length} total contests for ${sportInfo.gender} ${sportInfo.sport}`);
-
-    const now = new Date();
-    const games = [];
-
-    for (const contest of contests) {
-      const gameDate = new Date(contest[11]);
-
-      // Skip past games (future only)
-      if (gameDate <= now) continue;
-
-      const parsed = parseContest(contest, schoolId);
-      if (!parsed) continue;
-
-      // Add sport info
-      parsed.sport = sportInfo.sport;
-      parsed.gender = sportInfo.gender;
-      parsed.season = sportInfo.season;
-      parsed.year = sportInfo.year;
-      parsed.teamName = teamName;
-      parsed.emoji = SPORT_EMOJIS[sportInfo.sport] || '🏅';
-
-      games.push(parsed);
-    }
-
-    console.log(`  → ${games.length} upcoming games`);
-    return games;
-  } catch (err) {
-    console.error(`  Error scraping ${sportInfo.sport}: ${err.message}`);
-    return [];
   }
+
+  const schoolId = teamSchoolId;
+
+  console.log(`  Found ${contests.length} total contests for ${sportInfo.gender} ${sportInfo.sport}`);
+
+  const now = options.now || new Date();
+  const games = [];
+
+  for (const contest of contests) {
+    const parsed = parseContest(contest, schoolId);
+    const gameDate = new Date(parsed.dateTime);
+
+    // Skip past games (future only)
+    if (gameDate <= now) continue;
+
+    // Add sport info
+    parsed.sport = sportInfo.sport;
+    parsed.gender = sportInfo.gender;
+    parsed.season = sportInfo.season;
+    parsed.year = sportInfo.year;
+    parsed.teamName = teamName;
+    parsed.emoji = SPORT_EMOJIS[sportInfo.sport] || '🏅';
+
+    games.push(parsed);
+  }
+
+  console.log(`  → ${games.length} upcoming games`);
+  options.sources?.push({ team: teamName, sport: sportInfo.sport, gender: sportInfo.gender, year: sportInfo.year, url: scheduleUrl, format: data.props.pageProps.sourceFormat || 'next-data', contests: contests.length, upcoming: games.length });
+  return games;
 }
 
 /**
  * Main scraper: discover sports and scrape all schedules for a team
  */
-export async function scrapeTeam(teamConfig) {
+export async function scrapeTeam(teamConfig, options = {}) {
   const { name, url, timezone } = teamConfig;
 
   console.log(`\n${'='.repeat(60)}`);
@@ -250,14 +274,14 @@ export async function scrapeTeam(teamConfig) {
   console.log(`${'='.repeat(60)}`);
 
   // Step 1: Discover all varsity sports (also returns schoolId)
-  const { sports, schoolId } = await discoverSports(url, name);
-  await delay(1000);
+  const { sports, schoolId } = await discoverSports(url, name, options);
+  await (options.sleep || delay)(1000);
 
   // Step 2: Scrape schedule for each sport
   const allGames = [];
   for (const sport of sports) {
-    await delay(1500); // Rate limiting between requests
-    const games = await scrapeSchedule(sport, name, schoolId);
+    await (options.sleep || delay)(1500); // Rate limiting between requests
+    const games = await scrapeSchedule(sport, name, schoolId, options);
     allGames.push(...games);
   }
 
@@ -272,19 +296,20 @@ export async function scrapeTeam(teamConfig) {
 /**
  * Scrape all teams from config
  */
-export async function scrapeAllTeams(config) {
+export async function scrapeAllTeams(config, options = {}) {
+  if (!Array.isArray(config.teams) || config.teams.length === 0) throw new Error('No configured teams');
   const allGames = [];
 
   for (const team of config.teams) {
     try {
-      const games = await scrapeTeam(team);
+      const games = await scrapeTeam(team, options);
       allGames.push(...games);
     } catch (err) {
-      console.error(`\nFailed to scrape ${team.name}: ${err.message}`);
+      throw new Error(`Failed to scrape ${team.name}; existing feed preserved: ${err.message}`, { cause: err });
     }
 
     // Longer delay between teams
-    await delay(2000);
+    await (options.sleep || delay)(2000);
   }
 
   // Sort all games by date

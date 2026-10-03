@@ -1,85 +1,74 @@
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs';
-import { join, dirname } from 'path';
-import { fileURLToPath } from 'url';
+import { readFileSync, writeFileSync, mkdirSync, mkdtempSync, renameSync, rmSync } from 'node:fs';
+import { join, dirname, resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { createHash } from 'node:crypto';
 import { scrapeAllTeams } from './scraper.js';
 import { generateICS } from './generate-ics.js';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+const root = dirname(fileURLToPath(import.meta.url));
+// MaxPreps supplies school-local wall times without an offset; these schools are Central.
+process.env.TZ = 'America/Chicago';
 
-async function main() {
-  console.log('╔══════════════════════════════════════════════════════╗');
-  console.log('║     MaxPreps Schedule → ICS Calendar Generator      ║');
-  console.log('╠══════════════════════════════════════════════════════╣');
-  console.log(`║  Started: ${new Date().toISOString()}         ║`);
-  console.log('╚══════════════════════════════════════════════════════╝');
-
-  // Load config
-  const configPath = join(__dirname, 'config.json');
-  if (!existsSync(configPath)) {
-    console.error('ERROR: config.json not found!');
-    process.exit(1);
+export function validateCalendar(content, expectedCount) {
+  const lines = content.split(/\r?\n/);
+  if (lines[0] !== 'BEGIN:VCALENDAR' || !content.trimEnd().endsWith('END:VCALENDAR') ||
+      lines.filter(l => l === 'BEGIN:VEVENT').length !== expectedCount ||
+      lines.filter(l => l === 'END:VEVENT').length !== expectedCount ||
+      lines.filter(l => l.startsWith('DTSTART')).length !== expectedCount ||
+      lines.filter(l => l.startsWith('UID:')).length !== expectedCount) {
+    throw new Error('Generated calendar failed structural/event-count validation');
   }
-
-  const config = JSON.parse(readFileSync(configPath, 'utf-8'));
-
-  console.log(`\nTeams to scrape: ${config.teams.length}`);
-  config.teams.forEach(t => console.log(`  • ${t.name}`));
-
-  // Scrape all teams
-  const allGames = await scrapeAllTeams(config);
-
-  if (allGames.length === 0) {
-    console.warn('\n⚠️  No upcoming games found! The ICS file will be empty.');
-  }
-
-  // Generate ICS
-  const icsContent = generateICS(allGames, config);
-
-  // Write to docs/ folder for GitHub Pages
-  const docsDir = join(__dirname, 'docs');
-  if (!existsSync(docsDir)) {
-    mkdirSync(docsDir, { recursive: true });
-  }
-
-  const outputPath = join(docsDir, 'schedules.ics');
-  writeFileSync(outputPath, icsContent, 'utf-8');
-  console.log(`\n✅ Calendar written to: ${outputPath}`);
-
-  // Also write a summary JSON for debugging
-  const summaryPath = join(docsDir, 'summary.json');
-  const summary = {
-    lastUpdated: new Date().toISOString(),
-    totalGames: allGames.length,
-    teams: config.teams.map(t => t.name),
-    gamesByTeam: {},
-    gamesBySport: {},
-  };
-
-  for (const game of allGames) {
-    summary.gamesByTeam[game.teamName] = (summary.gamesByTeam[game.teamName] || 0) + 1;
-    const sportKey = `${game.gender} ${game.sport}`;
-    summary.gamesBySport[sportKey] = (summary.gamesBySport[sportKey] || 0) + 1;
-  }
-
-  writeFileSync(summaryPath, JSON.stringify(summary, null, 2), 'utf-8');
-  console.log(`📊 Summary written to: ${summaryPath}`);
-
-  // Print summary
-  console.log('\n📋 Summary:');
-  console.log('  Games by team:');
-  for (const [team, count] of Object.entries(summary.gamesByTeam)) {
-    console.log(`    ${team}: ${count} games`);
-  }
-  console.log('  Games by sport:');
-  for (const [sport, count] of Object.entries(summary.gamesBySport)) {
-    console.log(`    ${sport}: ${count} games`);
-  }
-
-  console.log('\n🏁 Done!');
+  const uids = content.replace(/\r?\n[ \t]/g, '').split(/\r?\n/).filter(l => l.startsWith('UID:'));
+  if (new Set(uids).size !== expectedCount) throw new Error('Duplicate calendar event IDs');
 }
 
-main().catch(err => {
-  console.error('\n❌ Fatal error:', err);
-  process.exit(1);
-});
+export async function updateCalendar({ config = JSON.parse(readFileSync(join(root, 'config.json'), 'utf8')),
+  outputDir = join(root, 'docs'), scrape = scrapeAllTeams, generate = generateICS,
+  dryRun = false, ...scrapeOptions } = {}) {
+  const sources = [];
+  const games = await scrape(config, { ...scrapeOptions, sources });
+  // Any request or parsing error above rejects the entire update, before file writes.
+  const content = generate(games, config);
+  validateCalendar(content, games.length);
+  const summary = {
+    lastUpdated: new Date().toISOString(),
+    status: 'complete',
+    totalGames: games.length,
+    teams: config.teams.map(t => t.name),
+    gamesByTeam: Object.fromEntries(config.teams.map(t => [t.name, 0])),
+    gamesBySport: {},
+    sources,
+    calendarSha256: createHash('sha256').update(content).digest('hex'),
+    firstGame: games[0]?.dateTime || null,
+    lastGame: games.at(-1)?.dateTime || null,
+  };
+  for (const game of games) {
+    summary.gamesByTeam[game.teamName]++;
+    const key = `${game.gender} ${game.sport}`;
+    summary.gamesBySport[key] = (summary.gamesBySport[key] || 0) + 1;
+  }
+  if (!dryRun) {
+    mkdirSync(outputDir, { recursive: true });
+    const staging = mkdtempSync(join(outputDir, '.calendar-'));
+    try {
+      writeFileSync(join(staging, 'schedules.ics'), content);
+      writeFileSync(join(staging, 'summary.json'), JSON.stringify(summary, null, 2) + '\n');
+      // Validate the staged bytes before atomically replacing the public feed.
+      validateCalendar(readFileSync(join(staging, 'schedules.ics'), 'utf8'), games.length);
+      renameSync(join(staging, 'summary.json'), join(outputDir, 'summary.json'));
+      renameSync(join(staging, 'schedules.ics'), join(outputDir, 'schedules.ics'));
+    } finally {
+      rmSync(staging, { recursive: true, force: true });
+    }
+  }
+  console.log(JSON.stringify(summary, null, 2));
+  console.log(`${dryRun ? 'Validated (dry run)' : 'Published'} ${games.length} events from ${sources.length} schedules.`);
+  return summary;
+}
+
+if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  updateCalendar({ dryRun: process.argv.includes('--dry-run') }).catch(err => {
+    console.error('Calendar update failed; existing feed preserved:', err);
+    process.exitCode = 1;
+  });
+}

@@ -40,7 +40,8 @@ To trigger an immediate update, go to the **Actions** tab → **Update Sports Ca
 ## Local Development
 
 ```bash
-npm install
+npm ci
+npm test
 node index.js
 ```
 
@@ -49,3 +50,11 @@ The generated calendar will be at `docs/schedules.ics`.
 ## Adding/Removing Teams
 
 Edit `config.json` to add or remove teams. Pushing the change to `main` will automatically trigger a re-scrape.
+
+## Failure safety
+
+An update is published only after every configured school and every discovered current-year varsity sport succeeds. HTTP errors (including 406), missing or changed source schemas, invalid contests, and calendar generation errors fail the workflow before publication. The last successful feed remains available; no historical snapshot is silently substituted.
+
+Explicit empty contest arrays and legacy pages with “No Schedule Available” are accepted only with matching school, sport, and season metadata. A missing array or unidentified page is a failure. Generated event counts and unique IDs are validated in a staged file, then the ICS is replaced atomically. `docs/summary.json` records source coverage, dates, and a SHA-256 digest of the feed.
+
+`npm test` runs offline regression tests. `npm run dry-run` performs a live scrape and validation without writing either published file. Scraper code changes trigger the same guarded GitHub Actions workflow as config changes, and overlapping updates are serialized.

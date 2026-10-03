@@ -9,15 +9,24 @@ on:
     branches: [main]
     paths:
       - 'config.json'
+      - '*.js'
+      - 'test/**'
+      - 'package*.json'
+      - '.github/workflows/update-calendar.yml'
 
 # Allow the workflow to push changes
 permissions:
   contents: write
   pages: write
 
+concurrency:
+  group: update-sports-calendar
+  cancel-in-progress: false
+
 jobs:
   update-calendar:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -30,6 +39,9 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Regression tests
+        run: npm test
 
       - name: Run scraper
         run: node index.js

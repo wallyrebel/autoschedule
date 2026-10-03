@@ -36,10 +36,9 @@ export function generateICS(games, config) {
   for (const game of games) {
     const startDate = new Date(game.dateTime);
 
-    // Skip invalid dates
+    // Reject invalid dates rather than silently publishing fewer events
     if (isNaN(startDate.getTime())) {
-      console.warn(`  Skipping game with invalid date: ${game.dateTime}`);
-      continue;
+      throw new Error(`Invalid event date: ${game.dateTime}`);
     }
 
     // Calculate end time based on sport
@@ -76,22 +75,19 @@ export function generateICS(games, config) {
     const uidSource = `${game.teamName}-${game.dateTime}-${game.gender}-${game.sport}-${game.opponentName}`;
     const uid = Buffer.from(uidSource).toString('base64').replace(/[^a-zA-Z0-9]/g, '');
 
-    try {
-      calendar.createEvent({
-        id: uid + '@autoschedule',
-        start: startDate,
-        end: endDate,
-        timezone: game.timezone || 'America/Chicago',
-        summary: title,
-        description: descriptionParts.join('\n'),
-        location: location,
-        url: game.gameUrl || undefined,
-        categories: [{ name: game.sport }, { name: game.gender }, { name: game.teamName }],
-        status: 'CONFIRMED',
-      });
-    } catch (err) {
-      console.error(`  Error creating event for ${title}: ${err.message}`);
-    }
+    calendar.createEvent({
+      id: uid + '@autoschedule',
+      start: startDate,
+      end: endDate,
+      timezone: game.timezone || 'America/Chicago',
+      summary: title,
+      description: descriptionParts.join('\n'),
+      location: location,
+      url: game.gameUrl || undefined,
+      categories: [{ name: game.sport }, { name: game.gender }, { name: game.teamName }],
+      status: 'CONFIRMED',
+    });
+
   }
 
   const icsContent = calendar.toString();
