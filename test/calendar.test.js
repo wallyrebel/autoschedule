@@ -13,7 +13,7 @@ function contest(id, date = '2026-10-04T19:00:00') {
   const own = [], other = [], c = [];
   own[1] = id; own[11] = 0; own[14] = id;
   other[1] = 'opponent'; other[11] = 1; other[14] = 'Opponent';
-  c[0] = [own, other]; c[11] = date; c[18] = 'https://www.maxpreps.com/game/';
+  c[0] = [own, other]; c[1] = id + '-contest'; c[11] = date; c[18] = 'https://www.maxpreps.com/game/';
   return c;
 }
 function mockFetch(overrides = {}) {
@@ -122,3 +122,16 @@ test('matching legacy table with verified past dates is legitimate no-upcoming-g
 for (const date of ['2026-10-04T15:00:00', 'not-a-date', '2026-10-03T11:00:00']) {
   test('unparsed future/invalid/recent legacy row preserves feed: ' + date, () => preserved({ 'https://www.maxpreps.com/one/Football/schedule/': legacyTable(date) }));
 }
+
+test('repeated source contests for the same fixture consolidate under its stable UID', async () => {
+  const c1 = contest('one'), c2 = contest('one'); c2[1] = 'second-contest';
+  const overrides = { 'https://www.maxpreps.com/one/Football/schedule/': { props: { pageProps: { schoolId: 'one', contests: [c1, c2], teamContext: { data: sport('one') } } } } };
+  const summary = await updateCalendar({ ...options, fetch: mockFetch(overrides), dryRun: true });
+  assert.equal(summary.totalGames, 2);
+  assert.equal(summary.duplicateSourceRecords, 1);
+});
+
+test('conflicting repeated fixture metadata fails before publication', () => {
+  const c1 = contest('one'), c2 = contest('one'); c2[1] = 'second-contest'; c2[0][0][11] = 1;
+  return preserved({ 'https://www.maxpreps.com/one/Football/schedule/': { props: { pageProps: { schoolId: 'one', contests: [c1, c2], teamContext: { data: sport('one') } } } } }, {}, /Conflicting duplicate/);
+});

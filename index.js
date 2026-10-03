@@ -34,6 +34,8 @@ export async function updateCalendar({ config = JSON.parse(readFileSync(join(roo
     lastUpdated: new Date().toISOString(),
     status: 'complete',
     totalGames: games.length,
+    sourceUpcomingGames: sources.reduce((total, source) => total + source.upcoming, 0),
+    duplicateSourceRecords: sources.reduce((total, source) => total + source.upcoming, 0) - games.length,
     teams: config.teams.map(t => t.name),
     gamesByTeam: Object.fromEntries(config.teams.map(t => [t.name, 0])),
     gamesBySport: {},

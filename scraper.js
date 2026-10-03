@@ -205,6 +205,7 @@ export function parseContest(contest, teamSchoolId) {
 
   return {
     dateTime: gameTime,
+    contestId: contest[1],
     opponentName: opponent[14] || 'TBA',
     opponentMascot: opponent[21] || '',
     opponentCity: opponent[15] || '',
@@ -326,12 +327,33 @@ export async function scrapeAllTeams(config, options = {}) {
     await (options.sleep || delay)(2000);
   }
 
+  const games = deduplicateGames(allGames);
+
   // Sort all games by date
-  allGames.sort((a, b) => new Date(a.dateTime) - new Date(b.dateTime));
+  games.sort((a, b) => new Date(a.dateTime) - new Date(b.dateTime));
 
   console.log(`\n${'='.repeat(60)}`);
-  console.log(`Total upcoming games across all teams: ${allGames.length}`);
+  console.log(`Total upcoming games across all teams: ${games.length} (${allGames.length - games.length} repeated source records consolidated)`);
   console.log(`${'='.repeat(60)}`);
 
-  return allGames;
+  return games;
+}
+
+// MaxPreps can list the same fixture twice (separate school submissions), with
+// one record missing the public game link. Preserve the established fixture UID.
+export function deduplicateGames(games) {
+  const unique = new Map();
+  for (const game of games) {
+    const key = JSON.stringify([game.teamName, game.dateTime, game.gender, game.sport, game.opponentName]);
+    const previous = unique.get(key);
+    if (previous) {
+      if (previous.isHome !== game.isHome || previous.timezone !== game.timezone || previous.season !== game.season || previous.year !== game.year) {
+        throw new Error(`Conflicting duplicate fixture: ${key}`);
+      }
+      if (!previous.gameUrl && game.gameUrl) unique.set(key, game);
+    } else {
+      unique.set(key, game);
+    }
+  }
+  return [...unique.values()];
 }
