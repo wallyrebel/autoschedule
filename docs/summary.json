@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-05T06:39:59.518Z",
+  "lastUpdated": "2026-10-06T06:27:45.315Z",
   "status": "complete",
-  "totalGames": 332,
-  "sourceUpcomingGames": 337,
+  "totalGames": 333,
+  "sourceUpcomingGames": 338,
   "duplicateSourceRecords": 5,
   "teams": [
     "Ripley Tigers",
@@ -12,7 +12,7 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 96,
+    "Ripley Tigers": 97,
     "Pine Grove Panthers": 50,
     "Falkner Eagles": 76,
     "Walnut Wildcats": 72,
@@ -22,7 +22,7 @@
     "Girls Volleyball": 2,
     "Boys Football": 12,
     "Girls Soccer": 9,
-    "Boys Soccer": 9,
+    "Boys Soccer": 10,
     "Girls Basketball": 112,
     "Boys Basketball": 127,
     "Girls Softball": 43,
@@ -96,8 +96,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/soccer/winter/schedule/",
       "format": "next-data",
-      "contests": 9,
-      "upcoming": 9
+      "contests": 10,
+      "upcoming": 10
     },
     {
       "team": "Ripley Tigers",
@@ -560,7 +560,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "610f23497aec1dbcfb0620e29f61aa44b070d4a71287fc5c1570923f897cdf7d",
+  "calendarSha256": "41260d1ce9198ccaa55dc389ec07968c18f19215ef69a2ee867087618a1448f1",
   "firstGame": "2026-10-06T18:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
