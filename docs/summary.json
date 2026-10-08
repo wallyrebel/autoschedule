@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-06T06:27:45.315Z",
+  "lastUpdated": "2026-10-08T06:29:19.738Z",
   "status": "complete",
-  "totalGames": 333,
-  "sourceUpcomingGames": 338,
-  "duplicateSourceRecords": 5,
+  "totalGames": 336,
+  "sourceUpcomingGames": 342,
+  "duplicateSourceRecords": 6,
   "teams": [
     "Ripley Tigers",
     "Pine Grove Panthers",
@@ -12,21 +12,21 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 97,
-    "Pine Grove Panthers": 50,
+    "Ripley Tigers": 99,
+    "Pine Grove Panthers": 51,
     "Falkner Eagles": 76,
     "Walnut Wildcats": 72,
     "Blue Mountain Cougars": 38
   },
   "gamesBySport": {
-    "Girls Volleyball": 2,
+    "Girls Volleyball": 3,
     "Boys Football": 12,
     "Girls Soccer": 9,
-    "Boys Soccer": 10,
+    "Boys Soccer": 11,
     "Girls Basketball": 112,
     "Boys Basketball": 127,
-    "Girls Softball": 43,
-    "Boys Baseball": 18
+    "Boys Baseball": 19,
+    "Girls Softball": 43
   },
   "sources": [
     {
@@ -36,8 +36,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/baseball/schedule/",
       "format": "next-data",
-      "contests": 5,
-      "upcoming": 5
+      "contests": 6,
+      "upcoming": 6
     },
     {
       "team": "Ripley Tigers",
@@ -96,8 +96,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/soccer/winter/schedule/",
       "format": "next-data",
-      "contests": 10,
-      "upcoming": 10
+      "contests": 11,
+      "upcoming": 11
     },
     {
       "team": "Ripley Tigers",
@@ -166,7 +166,7 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/volleyball/schedule/",
       "format": "next-data",
-      "contests": 42,
+      "contests": 43,
       "upcoming": 1
     },
     {
@@ -246,8 +246,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/volleyball/schedule/",
       "format": "next-data",
-      "contests": 43,
-      "upcoming": 0
+      "contests": 45,
+      "upcoming": 2
     },
     {
       "team": "Falkner Eagles",
@@ -486,7 +486,7 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/volleyball/schedule/",
       "format": "next-data",
-      "contests": 44,
+      "contests": 45,
       "upcoming": 1
     },
     {
@@ -560,7 +560,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "41260d1ce9198ccaa55dc389ec07968c18f19215ef69a2ee867087618a1448f1",
-  "firstGame": "2026-10-06T18:00:00",
+  "calendarSha256": "bcd6a38afe95982a7e983f0391192b40981f0efed1639a5bbaaea7c9a8930ae6",
+  "firstGame": "2026-10-08T18:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
