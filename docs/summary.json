@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T06:28:13.225Z",
+  "lastUpdated": "2026-10-10T06:25:59.246Z",
   "status": "complete",
   "totalGames": 333,
   "sourceUpcomingGames": 338,
@@ -12,20 +12,20 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 98,
+    "Ripley Tigers": 99,
     "Pine Grove Panthers": 50,
     "Falkner Eagles": 75,
-    "Walnut Wildcats": 72,
+    "Walnut Wildcats": 71,
     "Blue Mountain Cougars": 38
   },
   "gamesBySport": {
-    "Boys Football": 11,
     "Girls Volleyball": 1,
+    "Boys Football": 9,
     "Girls Soccer": 9,
     "Boys Soccer": 11,
     "Girls Basketball": 112,
     "Boys Basketball": 127,
-    "Boys Baseball": 19,
+    "Boys Baseball": 21,
     "Girls Softball": 43
   },
   "sources": [
@@ -36,8 +36,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/baseball/schedule/",
       "format": "next-data",
-      "contests": 6,
-      "upcoming": 6
+      "contests": 8,
+      "upcoming": 8
     },
     {
       "team": "Ripley Tigers",
@@ -137,7 +137,7 @@
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/football/schedule/",
       "format": "next-data",
       "contests": 10,
-      "upcoming": 4
+      "upcoming": 3
     },
     {
       "team": "Ripley Tigers",
@@ -437,7 +437,7 @@
       "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/football/schedule/",
       "format": "next-data",
       "contests": 10,
-      "upcoming": 4
+      "upcoming": 3
     },
     {
       "team": "Walnut Wildcats",
@@ -560,7 +560,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "579f3e08fc8d2c856355e7b16f9d8d015ef3373410e0cffa7360f6797c7711a9",
-  "firstGame": "2026-10-09T19:00:00",
+  "calendarSha256": "94e4c9ed5caf36d9fa75bcc4b395e7c7695c404bb6bde8b69f3e779594f62ac3",
+  "firstGame": "2026-10-12T18:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
