@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-12T06:40:22.696Z",
+  "lastUpdated": "2026-10-13T06:30:47.734Z",
   "status": "complete",
-  "totalGames": 335,
-  "sourceUpcomingGames": 340,
+  "totalGames": 338,
+  "sourceUpcomingGames": 343,
   "duplicateSourceRecords": 5,
   "teams": [
     "Ripley Tigers",
@@ -12,20 +12,19 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 99,
+    "Ripley Tigers": 101,
     "Pine Grove Panthers": 50,
     "Falkner Eagles": 75,
-    "Walnut Wildcats": 73,
+    "Walnut Wildcats": 74,
     "Blue Mountain Cougars": 38
   },
   "gamesBySport": {
-    "Girls Volleyball": 1,
     "Boys Football": 9,
     "Girls Soccer": 9,
-    "Boys Soccer": 11,
-    "Girls Basketball": 114,
+    "Boys Soccer": 12,
+    "Girls Basketball": 115,
     "Boys Basketball": 127,
-    "Boys Baseball": 21,
+    "Boys Baseball": 23,
     "Girls Softball": 43
   },
   "sources": [
@@ -96,8 +95,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/soccer/winter/schedule/",
       "format": "next-data",
-      "contests": 11,
-      "upcoming": 11
+      "contests": 12,
+      "upcoming": 12
     },
     {
       "team": "Ripley Tigers",
@@ -106,8 +105,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/basketball/girls/schedule/",
       "format": "next-data",
-      "contests": 24,
-      "upcoming": 24
+      "contests": 25,
+      "upcoming": 25
     },
     {
       "team": "Ripley Tigers",
@@ -356,8 +355,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/baseball/schedule/",
       "format": "next-data",
-      "contests": 3,
-      "upcoming": 3
+      "contests": 5,
+      "upcoming": 5
     },
     {
       "team": "Walnut Wildcats",
@@ -487,7 +486,7 @@
       "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/volleyball/schedule/",
       "format": "next-data",
       "contests": 46,
-      "upcoming": 1
+      "upcoming": 0
     },
     {
       "team": "Blue Mountain Cougars",
@@ -560,7 +559,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "5ac9ca37f67e88dd1c7da685393afdf9d43c471faf1081e974ed44d7cea39f2d",
-  "firstGame": "2026-10-12T18:00:00",
+  "calendarSha256": "05de5fbf19f04ca53db1e62a51275d460ed2f6ba5c3d4363f509a175b5dc5fe2",
+  "firstGame": "2026-10-16T19:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
