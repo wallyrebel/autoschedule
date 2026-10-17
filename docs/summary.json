@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-16T06:25:36.161Z",
+  "lastUpdated": "2026-10-17T06:23:12.571Z",
   "status": "complete",
-  "totalGames": 355,
-  "sourceUpcomingGames": 360,
+  "totalGames": 353,
+  "sourceUpcomingGames": 358,
   "duplicateSourceRecords": 5,
   "teams": [
     "Ripley Tigers",
@@ -12,20 +12,20 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 111,
-    "Pine Grove Panthers": 53,
-    "Falkner Eagles": 75,
-    "Walnut Wildcats": 77,
+    "Ripley Tigers": 110,
+    "Pine Grove Panthers": 54,
+    "Falkner Eagles": 74,
+    "Walnut Wildcats": 76,
     "Blue Mountain Cougars": 39
   },
   "gamesBySport": {
-    "Boys Football": 9,
+    "Boys Football": 6,
     "Girls Soccer": 9,
     "Boys Soccer": 12,
     "Girls Basketball": 119,
     "Boys Basketball": 129,
     "Boys Baseball": 32,
-    "Girls Softball": 45
+    "Girls Softball": 46
   },
   "sources": [
     {
@@ -136,7 +136,7 @@
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/football/schedule/",
       "format": "next-data",
       "contests": 10,
-      "upcoming": 3
+      "upcoming": 2
     },
     {
       "team": "Ripley Tigers",
@@ -185,8 +185,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/softball/schedule/",
       "format": "next-data",
-      "contests": 6,
-      "upcoming": 6
+      "contests": 7,
+      "upcoming": 7
     },
     {
       "team": "Pine Grove Panthers",
@@ -306,7 +306,7 @@
       "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/football/schedule/",
       "format": "next-data",
       "contests": 10,
-      "upcoming": 3
+      "upcoming": 2
     },
     {
       "team": "Falkner Eagles",
@@ -436,7 +436,7 @@
       "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/football/schedule/",
       "format": "next-data",
       "contests": 10,
-      "upcoming": 3
+      "upcoming": 2
     },
     {
       "team": "Walnut Wildcats",
@@ -559,7 +559,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "e513c9a6904098cf1bef02e7a1769b1fb8e5398100b400cf662d886eb8ee6f16",
-  "firstGame": "2026-10-16T19:00:00",
+  "calendarSha256": "68e9a803b21e13d61803e8efc48aec693ec7f47fbb772c9a4312e3f5c0babdaf",
+  "firstGame": "2026-10-23T19:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
