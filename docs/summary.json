@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-29T06:19:43.371Z",
+  "lastUpdated": "2026-10-30T06:19:35.619Z",
   "status": "complete",
-  "totalGames": 368,
-  "sourceUpcomingGames": 372,
+  "totalGames": 366,
+  "sourceUpcomingGames": 370,
   "duplicateSourceRecords": 4,
   "teams": [
     "Ripley Tigers",
@@ -12,16 +12,15 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 115,
+    "Ripley Tigers": 114,
     "Pine Grove Panthers": 56,
-    "Falkner Eagles": 75,
+    "Falkner Eagles": 74,
     "Walnut Wildcats": 78,
     "Blue Mountain Cougars": 44
   },
   "gamesBySport": {
-    "Boys Football": 3,
     "Boys Basketball": 140,
-    "Girls Basketball": 123,
+    "Girls Basketball": 124,
     "Girls Soccer": 9,
     "Boys Soccer": 11,
     "Boys Baseball": 36,
@@ -136,7 +135,7 @@
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/football/schedule/",
       "format": "next-data",
       "contests": 10,
-      "upcoming": 1
+      "upcoming": 0
     },
     {
       "team": "Ripley Tigers",
@@ -306,7 +305,7 @@
       "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/football/schedule/",
       "format": "next-data",
       "contests": 10,
-      "upcoming": 1
+      "upcoming": 0
     },
     {
       "team": "Falkner Eagles",
@@ -415,8 +414,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/basketball/girls/schedule/",
       "format": "next-data",
-      "contests": 28,
-      "upcoming": 28
+      "contests": 29,
+      "upcoming": 29
     },
     {
       "team": "Walnut Wildcats",
@@ -436,7 +435,7 @@
       "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/football/schedule/",
       "format": "next-data",
       "contests": 10,
-      "upcoming": 1
+      "upcoming": 0
     },
     {
       "team": "Walnut Wildcats",
@@ -559,7 +558,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "15b9b36f6c2e2aa5c04a57fa519c1d2b79952c7928551dfa983af6cb3e424644",
-  "firstGame": "2026-10-29T19:00:00",
+  "calendarSha256": "6e0f23d23eb2f1208bb497dea83ae23c2dc7e45d30cf72aa4630cea09a0c5395",
+  "firstGame": "2026-10-31T09:30:00",
   "lastGame": "2027-04-17T19:00:00"
 }
