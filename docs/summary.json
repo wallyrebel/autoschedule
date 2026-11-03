@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-02T06:22:44.095Z",
+  "lastUpdated": "2026-11-03T06:17:01.897Z",
   "status": "complete",
-  "totalGames": 362,
-  "sourceUpcomingGames": 367,
+  "totalGames": 363,
+  "sourceUpcomingGames": 368,
   "duplicateSourceRecords": 5,
   "teams": [
     "Ripley Tigers",
@@ -12,7 +12,7 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 114,
+    "Ripley Tigers": 115,
     "Pine Grove Panthers": 54,
     "Falkner Eagles": 73,
     "Walnut Wildcats": 77,
@@ -25,7 +25,7 @@
     "Boys Basketball": 137,
     "Boys Football": 3,
     "Boys Baseball": 36,
-    "Girls Softball": 46
+    "Girls Softball": 47
   },
   "sources": [
     {
@@ -65,8 +65,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/softball/schedule/",
       "format": "next-data",
-      "contests": 20,
-      "upcoming": 20
+      "contests": 21,
+      "upcoming": 21
     },
     {
       "team": "Ripley Tigers",
@@ -559,7 +559,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "0a27dc250489ca4a88dcc5d13ed1a5f021ffbc57296685d93188708168b06a00",
+  "calendarSha256": "1c6e3899617fdd75f8dfd3355794e367c35c7a92d3531c2ab0fc67b8bc17c8bf",
   "firstGame": "2026-11-03T17:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
