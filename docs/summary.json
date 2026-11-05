@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-04T06:16:57.175Z",
+  "lastUpdated": "2026-11-05T06:17:04.171Z",
   "status": "complete",
-  "totalGames": 356,
-  "sourceUpcomingGames": 361,
+  "totalGames": 355,
+  "sourceUpcomingGames": 360,
   "duplicateSourceRecords": 5,
   "teams": [
     "Ripley Tigers",
@@ -12,16 +12,16 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 112,
+    "Ripley Tigers": 111,
     "Pine Grove Panthers": 52,
     "Falkner Eagles": 72,
     "Walnut Wildcats": 77,
     "Blue Mountain Cougars": 43
   },
   "gamesBySport": {
-    "Boys Basketball": 136,
     "Girls Basketball": 116,
     "Boys Football": 3,
+    "Boys Basketball": 135,
     "Girls Soccer": 8,
     "Boys Soccer": 10,
     "Boys Baseball": 36,
@@ -86,7 +86,7 @@
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/basketball/schedule/",
       "format": "next-data",
       "contests": 32,
-      "upcoming": 31
+      "upcoming": 30
     },
     {
       "team": "Ripley Tigers",
@@ -559,7 +559,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "580236cdd059c44fa1c7dfc2c015148f9aafedd79e2539cf2d233357037f4be0",
-  "firstGame": "2026-11-04T19:00:00",
+  "calendarSha256": "0a7c3fffa1ef05adb5c1fb0dbfa647444665fa93424c3a3ca46b202a3e276857",
+  "firstGame": "2026-11-06T18:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
