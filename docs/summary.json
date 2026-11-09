@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-08T06:15:52.076Z",
+  "lastUpdated": "2026-11-09T06:22:49.201Z",
   "status": "complete",
-  "totalGames": 345,
-  "sourceUpcomingGames": 349,
+  "totalGames": 347,
+  "sourceUpcomingGames": 351,
   "duplicateSourceRecords": 4,
   "teams": [
     "Ripley Tigers",
@@ -14,13 +14,13 @@
   "gamesByTeam": {
     "Ripley Tigers": 112,
     "Pine Grove Panthers": 50,
-    "Falkner Eagles": 69,
+    "Falkner Eagles": 71,
     "Walnut Wildcats": 76,
     "Blue Mountain Cougars": 38
   },
   "gamesBySport": {
-    "Girls Basketball": 110,
-    "Boys Basketball": 129,
+    "Girls Basketball": 111,
+    "Boys Basketball": 130,
     "Girls Soccer": 8,
     "Boys Soccer": 10,
     "Boys Baseball": 41,
@@ -274,8 +274,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/basketball/schedule/",
       "format": "next-data",
-      "contests": 28,
-      "upcoming": 26
+      "contests": 29,
+      "upcoming": 27
     },
     {
       "team": "Falkner Eagles",
@@ -284,8 +284,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/basketball/girls/schedule/",
       "format": "next-data",
-      "contests": 25,
-      "upcoming": 24
+      "contests": 26,
+      "upcoming": 25
     },
     {
       "team": "Falkner Eagles",
@@ -558,7 +558,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "81592df25fbfb961aff6bc37da470c5a8b2a258aacedba9ceff2fc54ed299630",
+  "calendarSha256": "5b96ec918d1cfbfdf975d120c6f6f92832a724f4840f6384b9e9c64a4ec9e5d8",
   "firstGame": "2026-11-10T17:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
