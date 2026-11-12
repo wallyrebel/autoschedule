@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-11T06:17:34.965Z",
+  "lastUpdated": "2026-11-12T06:18:01.164Z",
   "status": "complete",
-  "totalGames": 355,
-  "sourceUpcomingGames": 359,
+  "totalGames": 366,
+  "sourceUpcomingGames": 370,
   "duplicateSourceRecords": 4,
   "teams": [
     "Ripley Tigers",
@@ -13,9 +13,9 @@
   ],
   "gamesByTeam": {
     "Ripley Tigers": 120,
-    "Pine Grove Panthers": 48,
-    "Falkner Eagles": 69,
-    "Walnut Wildcats": 82,
+    "Pine Grove Panthers": 51,
+    "Falkner Eagles": 70,
+    "Walnut Wildcats": 89,
     "Blue Mountain Cougars": 36
   },
   "gamesBySport": {
@@ -23,7 +23,7 @@
     "Boys Basketball": 125,
     "Girls Soccer": 13,
     "Boys Soccer": 15,
-    "Boys Baseball": 41,
+    "Boys Baseball": 52,
     "Girls Softball": 54
   },
   "sources": [
@@ -174,8 +174,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/ripley/pine-grove-panthers/baseball/schedule/",
       "format": "next-data",
-      "contests": 5,
-      "upcoming": 5
+      "contests": 8,
+      "upcoming": 8
     },
     {
       "team": "Pine Grove Panthers",
@@ -254,8 +254,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/baseball/schedule/",
       "format": "next-data",
-      "contests": 5,
-      "upcoming": 5
+      "contests": 6,
+      "upcoming": 6
     },
     {
       "team": "Falkner Eagles",
@@ -354,8 +354,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/baseball/schedule/",
       "format": "next-data",
-      "contests": 10,
-      "upcoming": 10
+      "contests": 17,
+      "upcoming": 17
     },
     {
       "team": "Walnut Wildcats",
@@ -558,7 +558,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "159e5fc89432ebfb793161b340b82a5a8bca78e47c1fe0292e8f1df2470dae35",
+  "calendarSha256": "7c68062f3f16bfa6518bf47b5a83e55f9f1611b199c6fc5972f4728cba4ac2cd",
   "firstGame": "2026-11-12T18:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
