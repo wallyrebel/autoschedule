@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-14T06:15:17.686Z",
+  "lastUpdated": "2026-11-15T06:15:38.918Z",
   "status": "complete",
-  "totalGames": 362,
-  "sourceUpcomingGames": 366,
+  "totalGames": 361,
+  "sourceUpcomingGames": 365,
   "duplicateSourceRecords": 4,
   "teams": [
     "Ripley Tigers",
@@ -15,11 +15,11 @@
     "Ripley Tigers": 116,
     "Pine Grove Panthers": 57,
     "Falkner Eagles": 69,
-    "Walnut Wildcats": 86,
+    "Walnut Wildcats": 85,
     "Blue Mountain Cougars": 34
   },
   "gamesBySport": {
-    "Girls Basketball": 99,
+    "Girls Basketball": 98,
     "Boys Basketball": 118,
     "Girls Soccer": 13,
     "Boys Soccer": 15,
@@ -414,8 +414,8 @@
       "year": "26-27",
       "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/basketball/girls/schedule/",
       "format": "next-data",
-      "contests": 29,
-      "upcoming": 23
+      "contests": 30,
+      "upcoming": 22
     },
     {
       "team": "Walnut Wildcats",
@@ -558,7 +558,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "2d829c3895a8387765b8c8429982218a6af1cc22884a4d06ece0d854fe02c282",
-  "firstGame": "2026-11-14T10:45:00",
+  "calendarSha256": "1b64ce0c2e73bb920500acf13ce2591f587425aef82ad6dcff77332c5e1ec6cb",
+  "firstGame": "2026-11-17T18:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
