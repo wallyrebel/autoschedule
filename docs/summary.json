@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T06:15:38.918Z",
+  "lastUpdated": "2026-11-16T06:25:23.670Z",
   "status": "complete",
   "totalGames": 361,
   "sourceUpcomingGames": 365,
@@ -558,7 +558,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "1b64ce0c2e73bb920500acf13ce2591f587425aef82ad6dcff77332c5e1ec6cb",
+  "calendarSha256": "574ef5fedd4cf315e799fa9c70984d32a736eefca10e46b9e274bb0ecd3cbe46",
   "firstGame": "2026-11-17T18:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
