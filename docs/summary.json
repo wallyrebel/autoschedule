@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-19T06:18:15.387Z",
+  "lastUpdated": "2026-11-20T06:17:32.380Z",
   "status": "complete",
-  "totalGames": 353,
-  "sourceUpcomingGames": 357,
+  "totalGames": 348,
+  "sourceUpcomingGames": 352,
   "duplicateSourceRecords": 4,
   "teams": [
     "Ripley Tigers",
@@ -12,17 +12,17 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 114,
+    "Ripley Tigers": 110,
     "Pine Grove Panthers": 58,
-    "Falkner Eagles": 68,
+    "Falkner Eagles": 67,
     "Walnut Wildcats": 82,
     "Blue Mountain Cougars": 31
   },
   "gamesBySport": {
-    "Girls Soccer": 13,
-    "Girls Basketball": 94,
-    "Boys Basketball": 113,
-    "Boys Soccer": 15,
+    "Girls Basketball": 93,
+    "Boys Basketball": 111,
+    "Boys Soccer": 14,
+    "Girls Soccer": 12,
     "Boys Baseball": 53,
     "Girls Softball": 65
   },
@@ -85,7 +85,7 @@
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/basketball/schedule/",
       "format": "next-data",
       "contests": 32,
-      "upcoming": 26
+      "upcoming": 25
     },
     {
       "team": "Ripley Tigers",
@@ -95,7 +95,7 @@
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/soccer/winter/schedule/",
       "format": "next-data",
       "contests": 18,
-      "upcoming": 15
+      "upcoming": 14
     },
     {
       "team": "Ripley Tigers",
@@ -105,7 +105,7 @@
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/basketball/girls/schedule/",
       "format": "next-data",
       "contests": 25,
-      "upcoming": 20
+      "upcoming": 19
     },
     {
       "team": "Ripley Tigers",
@@ -115,7 +115,7 @@
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/soccer/girls/winter/schedule/",
       "format": "next-data",
       "contests": 16,
-      "upcoming": 13
+      "upcoming": 12
     },
     {
       "team": "Ripley Tigers",
@@ -275,7 +275,7 @@
       "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/basketball/schedule/",
       "format": "next-data",
       "contests": 29,
-      "upcoming": 24
+      "upcoming": 23
     },
     {
       "team": "Falkner Eagles",
@@ -558,7 +558,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "ef0bb3aa1e85118dd3cf3b3c8f5ae6e6f09d22dfd16c5cfcbf96e0442640e390",
-  "firstGame": "2026-11-19T17:00:00",
+  "calendarSha256": "62dede4d873b7fedb8326232804bd08e253f8a945930c9ba36e786f91c9974de",
+  "firstGame": "2026-11-20T18:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
