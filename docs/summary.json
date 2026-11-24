@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-23T06:24:06.430Z",
+  "lastUpdated": "2026-11-24T06:17:55.517Z",
   "status": "complete",
-  "totalGames": 346,
-  "sourceUpcomingGames": 350,
+  "totalGames": 337,
+  "sourceUpcomingGames": 341,
   "duplicateSourceRecords": 4,
   "teams": [
     "Ripley Tigers",
@@ -12,15 +12,15 @@
     "Blue Mountain Cougars"
   ],
   "gamesByTeam": {
-    "Ripley Tigers": 110,
+    "Ripley Tigers": 108,
     "Pine Grove Panthers": 60,
-    "Falkner Eagles": 65,
-    "Walnut Wildcats": 82,
-    "Blue Mountain Cougars": 29
+    "Falkner Eagles": 62,
+    "Walnut Wildcats": 79,
+    "Blue Mountain Cougars": 28
   },
   "gamesBySport": {
-    "Girls Basketball": 93,
-    "Boys Basketball": 110,
+    "Boys Basketball": 104,
+    "Girls Basketball": 90,
     "Girls Soccer": 12,
     "Boys Soccer": 13,
     "Boys Baseball": 53,
@@ -85,7 +85,7 @@
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/basketball/schedule/",
       "format": "next-data",
       "contests": 33,
-      "upcoming": 26
+      "upcoming": 25
     },
     {
       "team": "Ripley Tigers",
@@ -105,7 +105,7 @@
       "url": "https://www.maxpreps.com/ms/ripley/ripley-tigers/basketball/girls/schedule/",
       "format": "next-data",
       "contests": 25,
-      "upcoming": 19
+      "upcoming": 18
     },
     {
       "team": "Ripley Tigers",
@@ -275,7 +275,7 @@
       "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/basketball/schedule/",
       "format": "next-data",
       "contests": 29,
-      "upcoming": 22
+      "upcoming": 20
     },
     {
       "team": "Falkner Eagles",
@@ -285,7 +285,7 @@
       "url": "https://www.maxpreps.com/ms/falkner/falkner-eagles/basketball/girls/schedule/",
       "format": "next-data",
       "contests": 27,
-      "upcoming": 22
+      "upcoming": 21
     },
     {
       "team": "Falkner Eagles",
@@ -395,7 +395,7 @@
       "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/basketball/schedule/",
       "format": "next-data",
       "contests": 38,
-      "upcoming": 30
+      "upcoming": 28
     },
     {
       "team": "Walnut Wildcats",
@@ -415,7 +415,7 @@
       "url": "https://www.maxpreps.com/ms/walnut/walnut-wildcats/basketball/girls/schedule/",
       "format": "next-data",
       "contests": 32,
-      "upcoming": 22
+      "upcoming": 21
     },
     {
       "team": "Walnut Wildcats",
@@ -535,7 +535,7 @@
       "url": "https://www.maxpreps.com/ms/blue-mountain/blue-mountain-cougars/basketball/schedule/",
       "format": "next-data",
       "contests": 22,
-      "upcoming": 15
+      "upcoming": 14
     },
     {
       "team": "Blue Mountain Cougars",
@@ -558,7 +558,7 @@
       "upcoming": 0
     }
   ],
-  "calendarSha256": "71a7e722f1b1912af536221fd7873ca138486ace20bbb91f0859619b2fcd67c9",
-  "firstGame": "2026-11-23T08:00:00",
+  "calendarSha256": "5535f2673dd7a7390a8f2128c8c82c7581a0940d7e7f42ef4083dd15885162a4",
+  "firstGame": "2026-11-24T08:00:00",
   "lastGame": "2027-04-17T19:00:00"
 }
